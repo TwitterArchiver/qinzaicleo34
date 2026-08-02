@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      }
+    ],
+    "conversation_id": "1956256911353110763",
+    "created_at": "2025-08-15T07:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T08:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956256911353110763"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1956256911353110763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天晚上好难受 抱着对象哭成一团被摸脑袋摸睡着了 早上起床对象已经把饭点好了放电脑桌前还给我开了这几天在看的电视剧 我不要离开他了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "1956256911353110763",
+        "created_at": "2025-08-15T07:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956256911353110763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956256911353110763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上好难受 抱着对象哭成一团被摸脑袋摸睡着了 早上起床对象已经把饭点好了放电脑桌前还给我开了这几天在看的电视剧 我不要离开他了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 1273,
+          "like_count": 6408,
+          "listed_count": 4,
+          "media_count": 536,
+          "tweet_count": 4470
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

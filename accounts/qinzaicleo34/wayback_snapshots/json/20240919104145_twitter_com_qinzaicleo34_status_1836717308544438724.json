@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1836715050956144954",
+    "created_at": "2024-09-19T10:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T11:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836717308544438724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1717106260422918144",
+          "start": 0,
+          "username": "Ashui_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836717308544438724",
+    "in_reply_to_user_id": "1717106260422918144",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836715050956144954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ashui_111 妈妈你看得我好爽啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1836715050956144954",
+        "created_at": "2024-09-19T10:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T11:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836717308544438724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1717106260422918144",
+              "start": 0,
+              "username": "Ashui_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836717308544438724",
+        "in_reply_to_user_id": "1717106260422918144",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836715050956144954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ashui_111 妈妈你看得我好爽啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836715045805608960"
+          ]
+        },
+        "author_id": "1717106260422918144",
+        "conversation_id": "1836715050956144954",
+        "created_at": "2024-09-19T10:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T11:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836715050956144954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsqxodhqdl",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Ashui_111/status/1836715050956144954/photo/1",
+              "media_key": "3_1836715045805608960",
+              "start": 0,
+              "url": "https://t.co/GsqXODhqDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836715050956144954",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GsqXODhqDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830331742571696129/e8uXvciC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 1217,
+          "like_count": 5373,
+          "listed_count": 3,
+          "tweet_count": 4059
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T09:10:47.000Z",
+        "description": "那就叫我阿水吧",
+        "id": "1717106260422918144",
+        "location": "՞⸝⸝'ᜊ'⸝⸝՞  ",
+        "name": "沝",
+        "pinned_tweet_id": "1801951684719231169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780674423558959106/ew9zeLIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5602,
+          "following_count": 174,
+          "like_count": 1811,
+          "listed_count": 17,
+          "tweet_count": 1730
+        },
+        "username": "Ashui_111",
+        "verified": false
+      }
+    ]
+  }
+}

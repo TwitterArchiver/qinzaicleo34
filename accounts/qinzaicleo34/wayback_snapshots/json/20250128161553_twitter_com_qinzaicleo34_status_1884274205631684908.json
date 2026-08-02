@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1884267372422521131",
+    "created_at": "2025-01-28T16:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T17:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884274205631684908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1563297675893563394",
+          "start": 0,
+          "username": "rux47511053"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884274205631684908",
+    "in_reply_to_user_id": "1563297675893563394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884273476359577787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rux47511053 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1884267372422521131",
+        "created_at": "2025-01-28T16:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T17:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884274205631684908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1563297675893563394",
+              "start": 0,
+              "username": "rux47511053"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884274205631684908",
+        "in_reply_to_user_id": "1563297675893563394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884273476359577787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rux47511053 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563297675893563394",
+        "conversation_id": "1884267372422521131",
+        "created_at": "2025-01-28T16:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T17:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884273476359577787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884273476359577787",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884267372422521131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 新的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 1254,
+          "like_count": 5994,
+          "listed_count": 3,
+          "media_count": 485,
+          "tweet_count": 4290
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-26T22:49:55.000Z",
+        "description": "",
+        "id": "1563297675893563394",
+        "name": "若曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656449384379478016/Qus7-fm1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 452,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 2654
+        },
+        "username": "rux47511053",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1983579223320338622",
+    "created_at": "2025-10-30T03:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T04:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983738636274434212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530699087133421568",
+          "start": 0,
+          "username": "SpicyspacEmk16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983738636274434212",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983738561708065064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpicyspacEmk16 我都没买过啊哈哈哈哈 我第一次给他买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1983579223320338622",
+        "created_at": "2025-10-30T03:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983738636274434212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983738636274434212",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983738561708065064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 我都没买过啊哈哈哈哈 我第一次给他买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1983579223320338622",
+        "created_at": "2025-10-30T03:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983738561708065064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983738561708065064",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983738354715050123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 最早初中买了一台蓝色的\n那个时候可高兴了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 1281,
+          "like_count": 6366,
+          "listed_count": 5,
+          "media_count": 552,
+          "tweet_count": 4517
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 1285,
+          "like_count": 86791,
+          "listed_count": 4,
+          "media_count": 634,
+          "tweet_count": 8139
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

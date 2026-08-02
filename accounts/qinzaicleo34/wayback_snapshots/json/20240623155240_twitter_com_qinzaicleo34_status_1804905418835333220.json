@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1803117164297330776",
+    "created_at": "2024-06-23T15:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T16:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804905418835333220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "811619430484611073",
+          "start": 0,
+          "username": "Samir12cool"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804905418835333220",
+    "in_reply_to_user_id": "811619430484611073",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804830397722775638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Samir12cool thx🩵🩵🩵🩵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1803117164297330776",
+        "created_at": "2024-06-23T15:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T16:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804905418835333220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "811619430484611073",
+              "start": 0,
+              "username": "Samir12cool"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804905418835333220",
+        "in_reply_to_user_id": "811619430484611073",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804830397722775638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Samir12cool thx🩵🩵🩵🩵"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1804830390554656770"
+          ]
+        },
+        "author_id": "811619430484611073",
+        "conversation_id": "1803117164297330776",
+        "created_at": "2024-06-23T10:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T11:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804830397722775638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/TpWK3OsIWd",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Samir12cool/status/1804830397722775638/photo/1",
+              "media_key": "16_1804830390554656770",
+              "start": 32,
+              "url": "https://t.co/TpWK3OsIWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804830397722775638",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803117164297330776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 oh lemme help you https://t.co/TpWK3OsIWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801601829798547456/zY1ej4oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 1157,
+          "like_count": 5027,
+          "listed_count": 2,
+          "tweet_count": 3880
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-21T17:08:46.000Z",
+        "description": "",
+        "id": "811619430484611073",
+        "name": "Samir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507751409583902729/oHxbzlH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 716,
+          "like_count": 269,
+          "listed_count": 0,
+          "tweet_count": 20891
+        },
+        "username": "Samir12cool",
+        "verified": false
+      }
+    ]
+  }
+}

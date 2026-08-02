@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1843190451823951872"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1843190497806020863",
+    "created_at": "2024-10-07T07:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T08:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843190497806020863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ig4RXiR2jG",
+          "end": 27,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1843190497806020863/video/1",
+          "media_key": "7_1843190451823951872",
+          "start": 4,
+          "url": "https://t.co/Ig4RXiR2jG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843190497806020863",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢你 https://t.co/Ig4RXiR2jG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16766,
+        "height": 720,
+        "media_key": "7_1843190451823951872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1843190451823951872/pu/img/-mzJ9YwBxSL2M1f6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843190451823951872/pu/vid/avc1/320x422/jdRl6PExeCG0BqIQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843190451823951872/pu/vid/avc1/480x634/vJFp9GBkviZP8Jet.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843190451823951872/pu/vid/avc1/544x720/WzXSQt0XuzCCOsCP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1843190451823951872/pu/pl/4DwibtnAyiFdlU5g.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1843190451823951872"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1843190497806020863",
+        "created_at": "2024-10-07T07:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T08:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843190497806020863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ig4RXiR2jG",
+              "end": 27,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1843190497806020863/video/1",
+              "media_key": "7_1843190451823951872",
+              "start": 4,
+              "url": "https://t.co/Ig4RXiR2jG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843190497806020863",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢你 https://t.co/Ig4RXiR2jG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830331742571696129/e8uXvciC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 1215,
+          "like_count": 5409,
+          "listed_count": 3,
+          "tweet_count": 4088
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

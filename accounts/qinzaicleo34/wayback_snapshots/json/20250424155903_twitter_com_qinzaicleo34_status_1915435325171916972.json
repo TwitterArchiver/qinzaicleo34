@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1915414466659069993",
+    "created_at": "2025-04-24T15:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T16:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915435325171916972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754795826713686016",
+          "start": 0,
+          "username": "xxxxinTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915435325171916972",
+    "in_reply_to_user_id": "1754795826713686016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915435245597581554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxxinTvT 明天和你打好不好宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1915414466659069993",
+        "created_at": "2025-04-24T15:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T16:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915435325171916972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754795826713686016",
+              "start": 0,
+              "username": "xxxxinTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915435325171916972",
+        "in_reply_to_user_id": "1754795826713686016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915435245597581554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxinTvT 明天和你打好不好宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754795826713686016",
+        "conversation_id": "1915414466659069993",
+        "created_at": "2025-04-24T15:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T16:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915435245597581554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915435245597581554",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915435173891768780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 没关系的宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 1261,
+          "like_count": 6274,
+          "listed_count": 4,
+          "media_count": 503,
+          "tweet_count": 4373
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T09:15:12.000Z",
+        "description": "乞丐",
+        "id": "1754795826713686016",
+        "location": "🚪50",
+        "name": "xxxxin",
+        "pinned_tweet_id": "1754800304498024517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840479748897849344/7GMzuxFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 771,
+          "like_count": 15003,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 5428
+        },
+        "username": "xxxxinTvT",
+        "verified": false
+      }
+    ]
+  }
+}

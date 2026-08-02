@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2077101450237493291",
+    "created_at": "2026-07-14T19:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T20:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077116314565685600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1312224346916544513",
+          "start": 0,
+          "username": "Miyashitayuzuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077116314565685600",
+    "in_reply_to_user_id": "1312224346916544513",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077110819897376989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyashitayuzuru oh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2077101450237493291",
+        "created_at": "2026-07-14T19:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077116314565685600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1312224346916544513",
+              "start": 0,
+              "username": "Miyashitayuzuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077116314565685600",
+        "in_reply_to_user_id": "1312224346916544513",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077110819897376989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyashitayuzuru oh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312224346916544513",
+        "conversation_id": "2077101450237493291",
+        "created_at": "2026-07-14T19:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077110819897376989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077110819897376989",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077110604494676452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 因为转换者出bug了😭（并非因为我没有）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/精神障碍中/中Eng都ok/无言fo高手/apex低手/04留学生/骂我替我消灾/男友在我生命中是最重要的一环/@xzlqsaki_UvU此泽是完美女人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "xzlqsaki_UvU"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "海黛布伦史塔德身边",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 1299,
+          "like_count": 6808,
+          "listed_count": 5,
+          "media_count": 593,
+          "tweet_count": 4654
+        },
+        "url": "",
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-03T02:54:08.000Z",
+        "description": "𝘪𝘏𝘢𝘵𝘦𝘵𝘩𝘦𝘞𝘰𝘳𝘭𝘥",
+        "id": "1312224346916544513",
+        "name": "宮下夕鶴",
+        "pinned_tweet_id": "2042269710436470812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533169979670966272/dW9hQeG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 71,
+          "like_count": 11917,
+          "listed_count": 4,
+          "media_count": 340,
+          "tweet_count": 3134
+        },
+        "url": "",
+        "username": "Miyashitayuzuru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1856720127674462513",
+    "created_at": "2024-11-13T15:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T16:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856720127674462513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1818337984191905794",
+          "start": 3,
+          "username": "ultra_mitsuki4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856720127674462513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850314161345237449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ultra_mitsuki4: mitsuki4.0已重生之新置顶\n\ncn是mitsuki/米斯奇，简称小米\n\n08.03.10🎂，美术生，坐标东北三字省\n\n自伤/od/穿刺\n喝酒/抽烟/精神病\n\n查成分互fo\n\n重抑重焦，可能有别的病但没复查\n\n🚪纯绿35r，半绿50…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1856720127674462513].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1856720127674462513",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1856720127674462513"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850314156072931329",
+            "3_1850314156618211328",
+            "3_1850314156991479808",
+            "3_1850314156249059328"
+          ]
+        },
+        "author_id": "1818337984191905794",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1850314161345237449",
+        "created_at": "2024-10-26T23:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T00:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850314161345237449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSOJlG1R4L",
+              "end": 183,
+              "expanded_url": "https://x.com/ultra_mitsuki4/status/1850314161345237449/photo/1",
+              "media_key": "3_1850314156072931329",
+              "start": 160,
+              "url": "https://t.co/uSOJlG1R4L"
+            },
+            {
+              "display_url": "pic.x.com/uSOJlG1R4L",
+              "end": 183,
+              "expanded_url": "https://x.com/ultra_mitsuki4/status/1850314161345237449/photo/1",
+              "media_key": "3_1850314156618211328",
+              "start": 160,
+              "url": "https://t.co/uSOJlG1R4L"
+            },
+            {
+              "display_url": "pic.x.com/uSOJlG1R4L",
+              "end": 183,
+              "expanded_url": "https://x.com/ultra_mitsuki4/status/1850314161345237449/photo/1",
+              "media_key": "3_1850314156991479808",
+              "start": 160,
+              "url": "https://t.co/uSOJlG1R4L"
+            },
+            {
+              "display_url": "pic.x.com/uSOJlG1R4L",
+              "end": 183,
+              "expanded_url": "https://x.com/ultra_mitsuki4/status/1850314161345237449/photo/1",
+              "media_key": "3_1850314156249059328",
+              "start": 160,
+              "url": "https://t.co/uSOJlG1R4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850314161345237449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5073,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "mitsuki4.0已重生之新置顶\n\ncn是mitsuki/米斯奇，简称小米\n\n08.03.10🎂，美术生，坐标东北三字省\n\n自伤/od/穿刺\n喝酒/抽烟/精神病\n\n查成分互fo\n\n重抑重焦，可能有别的病但没复查\n\n🚪纯绿35r，半绿50r，图包60r，欢迎入门，女生不用\n\n我很缺钱。\n\n我的愿望是有花不完的钱。。。 https://t.co/uSOJlG1R4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1843190497806020863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853886553464172544/9HrvKCze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 1231,
+          "like_count": 5544,
+          "listed_count": 3,
+          "tweet_count": 4142
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T17:29:04.000Z",
+        "description": "我又重生了*4，这里依旧是小米，依旧重抑重焦，依旧很穷，依旧查成分互fo",
+        "id": "1818337984191905794",
+        "location": "0.1km",
+        "name": "mtsuki4.0",
+        "pinned_tweet_id": "1850314161345237449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818338518848225284/vHKgS1xL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 248,
+          "like_count": 108,
+          "listed_count": 0,
+          "tweet_count": 193
+        },
+        "username": "ultra_mitsuki4",
+        "verified": false
+      }
+    ]
+  }
+}

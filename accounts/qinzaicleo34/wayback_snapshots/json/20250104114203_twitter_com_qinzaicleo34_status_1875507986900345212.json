@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1875507986900345212",
+    "created_at": "2025-01-04T11:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T12:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875507986900345212"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "接线下"
+        },
+        {
+          "end": 113,
+          "start": 108,
+          "tag": "日本留学"
+        },
+        {
+          "end": 120,
+          "start": 114,
+          "tag": "地雷系女子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847153221900685312",
+          "start": 3,
+          "username": "MelissaLoptr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875507986900345212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875503122187219372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MelissaLoptr: 我是noi...\n不知道说什么，总之这里非常的病垢并且暴言。\n现在在日本留学中，努力回到正常生活，愿意喜欢我的请给我点钱对我很重要...\n总之谢谢你看见我。\n\n#门槛妹 #接线下 #日本留学 #地雷系女子 https://t.co/f0HcL…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1875507986900345212",
+        "created_at": "2025-01-04T11:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T12:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875507986900345212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "接线下"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "日本留学"
+            },
+            {
+              "end": 120,
+              "start": 114,
+              "tag": "地雷系女子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847153221900685312",
+              "start": 3,
+              "username": "MelissaLoptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875507986900345212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875503122187219372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MelissaLoptr: 我是noi...\n不知道说什么，总之这里非常的病垢并且暴言。\n现在在日本留学中，努力回到正常生活，愿意喜欢我的请给我点钱对我很重要...\n总之谢谢你看见我。\n\n#门槛妹 #接线下 #日本留学 #地雷系女子 https://t.co/f0HcL…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875503117158248452",
+            "3_1875503117154078721",
+            "3_1875503117166637056"
+          ]
+        },
+        "author_id": "1847153221900685312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1875503122187219372",
+        "created_at": "2025-01-04T11:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T12:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875503122187219372"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "接线下"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "日本留学"
+            },
+            {
+              "end": 102,
+              "start": 96,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f0HcL4Zwsb",
+              "end": 126,
+              "expanded_url": "https://x.com/MelissaLoptr/status/1875503122187219372/photo/1",
+              "media_key": "3_1875503117158248452",
+              "start": 103,
+              "url": "https://t.co/f0HcL4Zwsb"
+            },
+            {
+              "display_url": "pic.x.com/f0HcL4Zwsb",
+              "end": 126,
+              "expanded_url": "https://x.com/MelissaLoptr/status/1875503122187219372/photo/1",
+              "media_key": "3_1875503117154078721",
+              "start": 103,
+              "url": "https://t.co/f0HcL4Zwsb"
+            },
+            {
+              "display_url": "pic.x.com/f0HcL4Zwsb",
+              "end": 126,
+              "expanded_url": "https://x.com/MelissaLoptr/status/1875503122187219372/photo/1",
+              "media_key": "3_1875503117166637056",
+              "start": 103,
+              "url": "https://t.co/f0HcL4Zwsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875503122187219372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是noi...\n不知道说什么，总之这里非常的病垢并且暴言。\n现在在日本留学中，努力回到正常生活，愿意喜欢我的请给我点钱对我很重要...\n总之谢谢你看见我。\n\n#门槛妹 #接线下 #日本留学 #地雷系女子 https://t.co/f0HcL4Zwsb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 1248,
+          "like_count": 5800,
+          "listed_count": 3,
+          "media_count": 474,
+          "tweet_count": 4246
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病垢=noi 陰キャ bi 注意•ᴥ• 中文 日本語ok...门槛188/288/520♡日本留学中...",
+        "id": "1847153221900685312",
+        "location": "心の中",
+        "name": "何もない",
+        "pinned_tweet_id": "1875503122187219372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874051250037415937/QArSTZDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 41,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 16
+        },
+        "username": "MelissaLoptr",
+        "verified": false
+      }
+    ]
+  }
+}

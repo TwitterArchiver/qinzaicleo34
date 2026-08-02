@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944501351440171008",
+        "3_1944501351607566336",
+        "3_1944501351452696576",
+        "3_1944501351649542144"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1944501369634959497",
+    "created_at": "2025-07-13T20:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T21:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944501369634959497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3PVYQw3kJV",
+          "end": 26,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1944501369634959497/photo/1",
+          "media_key": "3_1944501351440171008",
+          "start": 3,
+          "url": "https://t.co/3PVYQw3kJV"
+        },
+        {
+          "display_url": "pic.x.com/3PVYQw3kJV",
+          "end": 26,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1944501369634959497/photo/1",
+          "media_key": "3_1944501351607566336",
+          "start": 3,
+          "url": "https://t.co/3PVYQw3kJV"
+        },
+        {
+          "display_url": "pic.x.com/3PVYQw3kJV",
+          "end": 26,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1944501369634959497/photo/1",
+          "media_key": "3_1944501351452696576",
+          "start": 3,
+          "url": "https://t.co/3PVYQw3kJV"
+        },
+        {
+          "display_url": "pic.x.com/3PVYQw3kJV",
+          "end": 26,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1944501369634959497/photo/1",
+          "media_key": "3_1944501351649542144",
+          "start": 3,
+          "url": "https://t.co/3PVYQw3kJV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944501369634959497",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 26,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🍃🏆 https://t.co/3PVYQw3kJV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1944501351440171008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvxBrT3bwAAoQJh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1944501351607566336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvxBrUfWAAAh1v1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1944501351452696576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvxBrT6a4AAquix.jpg",
+        "width": 1920
+      },
+      {
+        "height": 640,
+        "media_key": "3_1944501351649542144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvxBrUpWgAAqxb-.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944501351440171008",
+            "3_1944501351607566336",
+            "3_1944501351452696576",
+            "3_1944501351649542144"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1944501369634959497",
+        "created_at": "2025-07-13T20:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T21:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944501369634959497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3PVYQw3kJV",
+              "end": 26,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1944501369634959497/photo/1",
+              "media_key": "3_1944501351440171008",
+              "start": 3,
+              "url": "https://t.co/3PVYQw3kJV"
+            },
+            {
+              "display_url": "pic.x.com/3PVYQw3kJV",
+              "end": 26,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1944501369634959497/photo/1",
+              "media_key": "3_1944501351607566336",
+              "start": 3,
+              "url": "https://t.co/3PVYQw3kJV"
+            },
+            {
+              "display_url": "pic.x.com/3PVYQw3kJV",
+              "end": 26,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1944501369634959497/photo/1",
+              "media_key": "3_1944501351452696576",
+              "start": 3,
+              "url": "https://t.co/3PVYQw3kJV"
+            },
+            {
+              "display_url": "pic.x.com/3PVYQw3kJV",
+              "end": 26,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1944501369634959497/photo/1",
+              "media_key": "3_1944501351649542144",
+              "start": 3,
+              "url": "https://t.co/3PVYQw3kJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944501369634959497",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍃🏆 https://t.co/3PVYQw3kJV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 1270,
+          "like_count": 6361,
+          "listed_count": 4,
+          "media_count": 524,
+          "tweet_count": 4433
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

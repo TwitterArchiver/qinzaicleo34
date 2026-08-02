@@ -1,0 +1,398 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1805115718746485219",
+    "created_at": "2024-06-24T05:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T06:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805115718746485219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nijisanji_app/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/nijisanji_app/status/1805074646263587264",
+          "start": 11,
+          "url": "https://t.co/3kiLEYWjGl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805115718746485219",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805074646263587264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝我要追随你一辈子 https://t.co/3kiLEYWjGl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1805115718746485219",
+        "created_at": "2024-06-24T05:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T06:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805115718746485219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nijisanji_app/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/nijisanji_app/status/1805074646263587264",
+              "start": 11,
+              "url": "https://t.co/3kiLEYWjGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805115718746485219",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805074646263587264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝我要追随你一辈子 https://t.co/3kiLEYWjGl"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805074642945900545"
+          ]
+        },
+        "author_id": "950967576980422657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1805074646263587264",
+        "created_at": "2024-06-24T03:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T04:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805074646263587264"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "天宮こころ",
+              "probability": 0.6355,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 134,
+              "tag": "にじストア"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1146300489832837125",
+              "start": 26,
+              "username": "amamiya_kokoro"
+            }
+          ],
+          "urls": [
+            {
+              "description": "にじさんじオフィシャルストアでは、にじさんじ関連のTシャツやCD、DVD･Blu-rayを始めとするアイテムや、ボイスなどのデジタルグッズをお買い求め頂けます。",
+              "display_url": "shop.nijisanji.jp",
+              "end": 132,
+              "expanded_url": "https://shop.nijisanji.jp/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1804170936209543169/YFwDU5zt?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1804170936209543169/YFwDU5zt?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "にじさんじオフィシャルストア",
+              "unwound_url": "https://shop.nijisanji.jp/",
+              "url": "https://t.co/ulljOEe2dh"
+            },
+            {
+              "display_url": "pic.twitter.com/TEmC3ZroJS",
+              "end": 164,
+              "expanded_url": "https://twitter.com/nijisanji_app/status/1805074646263587264/photo/1",
+              "media_key": "3_1805074642945900545",
+              "start": 141,
+              "url": "https://t.co/TEmC3ZroJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805074646263587264",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 311,
+          "impression_count": 329833,
+          "like_count": 12034,
+          "quote_count": 416,
+          "reply_count": 17,
+          "retweet_count": 2192
+        },
+        "reply_settings": "everyone",
+        "text": "【🎂誕生日グッズ＆ボイス販売決定！】\n\n天宮こころ(@amamiya_kokoro)の誕生日を記念した『誕生日グッズ＆ボイス2024』\n\n＜ 7/1(月)18:00 ＞から、にじさんじオフィシャルストアにて販売決定！\nhttps://t.co/ulljOEe2dh\n\n#にじストア https://t.co/TEmC3ZroJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801601829798547456/zY1ej4oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 1159,
+          "like_count": 5028,
+          "listed_count": 2,
+          "tweet_count": 3883
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-10T05:48:33.000Z",
+        "description": "VTuber / バーチャルライバーグループ「にじさんじ」の公式アカウントです！🌈🕒にじさんじの配信やイベント、グッズなどの最新情報をお届けします。個性溢れるにじさんじライバーをぜひ応援してください！ファンアート▷#NIJIArt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "NIJIArt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/nijisanji",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/nijisanji",
+                "start": 0,
+                "url": "https://t.co/rT8lPG5qhv"
+              }
+            ]
+          }
+        },
+        "id": "950967576980422657",
+        "name": "にじさんじ公式🌈🕒",
+        "pinned_tweet_id": "1803352030666432882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475283036946432002/1dkmImEr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661478,
+          "following_count": 149,
+          "like_count": 1431,
+          "listed_count": 19557,
+          "tweet_count": 24374
+        },
+        "url": "https://t.co/rT8lPG5qhv",
+        "username": "nijisanji_app",
+        "verified": true
+      }
+    ]
+  }
+}

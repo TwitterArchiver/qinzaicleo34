@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870745026277646336",
+        "3_1870745026340515840",
+        "3_1870745026277601280",
+        "3_1870745026286034944"
+      ],
+      "media_source_tweet_id": [
+        "1870745029888868542",
+        "1870745029888868542",
+        "1870745029888868542",
+        "1870745029888868542"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1870873309807866162",
+    "created_at": "2024-12-22T16:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T17:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870873309807866162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680952020533129218",
+          "start": 3,
+          "username": "naruto_0870"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6uUxxgMzUr",
+          "end": 49,
+          "expanded_url": "https://x.com/naruto_0870/status/1870745029888868542/photo/1",
+          "media_key": "3_1870745026277646336",
+          "start": 26,
+          "url": "https://t.co/6uUxxgMzUr"
+        },
+        {
+          "display_url": "pic.x.com/6uUxxgMzUr",
+          "end": 49,
+          "expanded_url": "https://x.com/naruto_0870/status/1870745029888868542/photo/1",
+          "media_key": "3_1870745026340515840",
+          "start": 26,
+          "url": "https://t.co/6uUxxgMzUr"
+        },
+        {
+          "display_url": "pic.x.com/6uUxxgMzUr",
+          "end": 49,
+          "expanded_url": "https://x.com/naruto_0870/status/1870745029888868542/photo/1",
+          "media_key": "3_1870745026277601280",
+          "start": 26,
+          "url": "https://t.co/6uUxxgMzUr"
+        },
+        {
+          "display_url": "pic.x.com/6uUxxgMzUr",
+          "end": 49,
+          "expanded_url": "https://x.com/naruto_0870/status/1870745029888868542/photo/1",
+          "media_key": "3_1870745026286034944",
+          "start": 26,
+          "url": "https://t.co/6uUxxgMzUr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870873309807866162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870745029888868542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naruto_0870: あまみゃ〜！！！ https://t.co/6uUxxgMzUr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_1870745026277646336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfY4sJSboAAwLed.jpg",
+        "width": 1390
+      },
+      {
+        "height": 1154,
+        "media_key": "3_1870745026340515840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfY4sJha8AANpzM.jpg",
+        "width": 1746
+      },
+      {
+        "height": 1169,
+        "media_key": "3_1870745026277601280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfY4sJSa8AAMKYW.jpg",
+        "width": 1451
+      },
+      {
+        "height": 1164,
+        "media_key": "3_1870745026286034944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfY4sJUboAA27HN.jpg",
+        "width": 1817
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870745026277646336",
+            "3_1870745026340515840",
+            "3_1870745026277601280",
+            "3_1870745026286034944"
+          ],
+          "media_source_tweet_id": [
+            "1870745029888868542",
+            "1870745029888868542",
+            "1870745029888868542",
+            "1870745029888868542"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1870873309807866162",
+        "created_at": "2024-12-22T16:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T17:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870873309807866162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680952020533129218",
+              "start": 3,
+              "username": "naruto_0870"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uUxxgMzUr",
+              "end": 49,
+              "expanded_url": "https://x.com/naruto_0870/status/1870745029888868542/photo/1",
+              "media_key": "3_1870745026277646336",
+              "start": 26,
+              "url": "https://t.co/6uUxxgMzUr"
+            },
+            {
+              "display_url": "pic.x.com/6uUxxgMzUr",
+              "end": 49,
+              "expanded_url": "https://x.com/naruto_0870/status/1870745029888868542/photo/1",
+              "media_key": "3_1870745026340515840",
+              "start": 26,
+              "url": "https://t.co/6uUxxgMzUr"
+            },
+            {
+              "display_url": "pic.x.com/6uUxxgMzUr",
+              "end": 49,
+              "expanded_url": "https://x.com/naruto_0870/status/1870745029888868542/photo/1",
+              "media_key": "3_1870745026277601280",
+              "start": 26,
+              "url": "https://t.co/6uUxxgMzUr"
+            },
+            {
+              "display_url": "pic.x.com/6uUxxgMzUr",
+              "end": 49,
+              "expanded_url": "https://x.com/naruto_0870/status/1870745029888868542/photo/1",
+              "media_key": "3_1870745026286034944",
+              "start": 26,
+              "url": "https://t.co/6uUxxgMzUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870873309807866162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870745029888868542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naruto_0870: あまみゃ〜！！！ https://t.co/6uUxxgMzUr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870745026277646336",
+            "3_1870745026340515840",
+            "3_1870745026277601280",
+            "3_1870745026286034944"
+          ]
+        },
+        "author_id": "1680952020533129218",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1870745029888868542",
+        "created_at": "2024-12-22T08:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T09:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870745029888868542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uUxxgMzUr",
+              "end": 32,
+              "expanded_url": "https://x.com/naruto_0870/status/1870745029888868542/photo/1",
+              "media_key": "3_1870745026277646336",
+              "start": 9,
+              "url": "https://t.co/6uUxxgMzUr"
+            },
+            {
+              "display_url": "pic.x.com/6uUxxgMzUr",
+              "end": 32,
+              "expanded_url": "https://x.com/naruto_0870/status/1870745029888868542/photo/1",
+              "media_key": "3_1870745026340515840",
+              "start": 9,
+              "url": "https://t.co/6uUxxgMzUr"
+            },
+            {
+              "display_url": "pic.x.com/6uUxxgMzUr",
+              "end": 32,
+              "expanded_url": "https://x.com/naruto_0870/status/1870745029888868542/photo/1",
+              "media_key": "3_1870745026277601280",
+              "start": 9,
+              "url": "https://t.co/6uUxxgMzUr"
+            },
+            {
+              "display_url": "pic.x.com/6uUxxgMzUr",
+              "end": 32,
+              "expanded_url": "https://x.com/naruto_0870/status/1870745029888868542/photo/1",
+              "media_key": "3_1870745026286034944",
+              "start": 9,
+              "url": "https://t.co/6uUxxgMzUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870745029888868542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 7737,
+          "like_count": 249,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "あまみゃ〜！！！ https://t.co/6uUxxgMzUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859511360343998464/1Kiem15I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 1244,
+          "like_count": 5624,
+          "listed_count": 3,
+          "media_count": 470,
+          "tweet_count": 4216
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T14:46:20.000Z",
+        "description": "星川に心臓握られてる(アイコン→ぱんさん)",
+        "id": "1680952020533129218",
+        "location": "8️⃣🏪 | 🌟 | 🩵🩷",
+        "name": "なると",
+        "pinned_tweet_id": "1858829816881180697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858814053470400512/vIajTueQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 290,
+          "like_count": 5087,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1117
+        },
+        "username": "naruto_0870",
+        "verified": false
+      }
+    ]
+  }
+}

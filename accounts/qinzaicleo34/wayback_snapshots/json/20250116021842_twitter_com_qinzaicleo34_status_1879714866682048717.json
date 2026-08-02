@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1879447553516998769",
+    "created_at": "2025-01-16T02:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T03:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879714866682048717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655656989287133184",
+          "start": 0,
+          "username": "xiaocheng0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879714866682048717",
+    "in_reply_to_user_id": "1655656989287133184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879623115527131545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaocheng0v 我是菜狗 而且我在国际服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1879447553516998769",
+        "created_at": "2025-01-16T02:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T03:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879714866682048717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655656989287133184",
+              "start": 0,
+              "username": "xiaocheng0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879714866682048717",
+        "in_reply_to_user_id": "1655656989287133184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879623115527131545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaocheng0v 我是菜狗 而且我在国际服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655656989287133184",
+        "conversation_id": "1879447553516998769",
+        "created_at": "2025-01-15T20:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T21:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879623115527131545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879623115527131545",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879447553516998769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 带带"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 1250,
+          "like_count": 5866,
+          "listed_count": 3,
+          "media_count": 478,
+          "tweet_count": 4259
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T19:32:53.000Z",
+        "description": "双向 碎碎念 有时学习压力大 分享日常 会讲莫名其妙的话",
+        "id": "1655656989287133184",
+        "location": "上海",
+        "name": "Meow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833329821503655936/v0TqMj5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 253,
+          "like_count": 2232,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1748
+        },
+        "username": "xiaocheng0v",
+        "verified": false
+      }
+    ]
+  }
+}

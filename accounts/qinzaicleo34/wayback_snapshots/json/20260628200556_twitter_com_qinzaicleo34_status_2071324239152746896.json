@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071324231787515904",
+        "3_2071324231787560960"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071324239152746896",
+    "created_at": "2026-06-28T20:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T21:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071324239152746896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "1530546999891828737",
+          "start": 19,
+          "username": "xzlqsaki_UvU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lTxz6O12Bb",
+          "end": 56,
+          "expanded_url": "https://x.com/qinzaicleo34/status/2071324239152746896/photo/1",
+          "media_key": "3_2071324231787515904",
+          "start": 33,
+          "url": "https://t.co/lTxz6O12Bb"
+        },
+        {
+          "display_url": "pic.x.com/lTxz6O12Bb",
+          "end": 56,
+          "expanded_url": "https://x.com/qinzaicleo34/status/2071324239152746896/photo/1",
+          "media_key": "3_2071324231787560960",
+          "start": 33,
+          "url": "https://t.co/lTxz6O12Bb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071324239152746896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和小泽咪还有另外个朋友木筏求生真好玩👅@xzlqsaki_UvU https://t.co/lTxz6O12Bb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2071324231787515904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7SahpakAAY58M.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1272,
+        "media_key": "3_2071324231787560960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7SahpbQAALAuX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071324231787515904",
+            "3_2071324231787560960"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071324239152746896",
+        "created_at": "2026-06-28T20:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071324239152746896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1530546999891828737",
+              "start": 19,
+              "username": "xzlqsaki_UvU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTxz6O12Bb",
+              "end": 56,
+              "expanded_url": "https://x.com/qinzaicleo34/status/2071324239152746896/photo/1",
+              "media_key": "3_2071324231787515904",
+              "start": 33,
+              "url": "https://t.co/lTxz6O12Bb"
+            },
+            {
+              "display_url": "pic.x.com/lTxz6O12Bb",
+              "end": 56,
+              "expanded_url": "https://x.com/qinzaicleo34/status/2071324239152746896/photo/1",
+              "media_key": "3_2071324231787560960",
+              "start": 33,
+              "url": "https://t.co/lTxz6O12Bb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071324239152746896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和小泽咪还有另外个朋友木筏求生真好玩👅@xzlqsaki_UvU https://t.co/lTxz6O12Bb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 1298,
+          "like_count": 6790,
+          "listed_count": 5,
+          "media_count": 591,
+          "tweet_count": 4640
+        },
+        "url": "",
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T13:50:26.000Z",
+        "description": "欢迎来到我的日常UvU",
+        "id": "1530546999891828737",
+        "location": "ぜひ私を愛してくださいね……",
+        "name": "小泽saki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013133748142043136/VN0_zPMP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 123,
+          "like_count": 33972,
+          "listed_count": 4,
+          "media_count": 664,
+          "tweet_count": 5347
+        },
+        "url": "",
+        "username": "xzlqsaki_UvU",
+        "verified": false
+      }
+    ]
+  }
+}

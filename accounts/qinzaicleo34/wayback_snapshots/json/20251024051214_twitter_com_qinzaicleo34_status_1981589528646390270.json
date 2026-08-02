@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1981560126302728681",
+    "created_at": "2025-10-24T05:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T06:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981589528646390270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2299233782",
+          "start": 0,
+          "username": "Eureka1812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981589528646390270",
+    "in_reply_to_user_id": "2299233782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981560126302728681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eureka1812 简直就是神在画画啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2166,
+        "media_key": "3_1981559896618287104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3_qOisXwAA8Z5B.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1981560126302728681",
+        "created_at": "2025-10-24T05:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T06:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981589528646390270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2299233782",
+              "start": 0,
+              "username": "Eureka1812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981589528646390270",
+        "in_reply_to_user_id": "2299233782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981560126302728681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eureka1812 简直就是神在画画啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981559896618287104"
+          ]
+        },
+        "author_id": "2299233782",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1981560126302728681",
+        "created_at": "2025-10-24T03:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T04:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981560126302728681"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 5,
+              "tag": "ApexLegends"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmVW2VCjTS",
+              "end": 41,
+              "expanded_url": "https://x.com/Eureka1812/status/1981560126302728681/photo/1",
+              "media_key": "3_1981559896618287104",
+              "start": 18,
+              "url": "https://t.co/bmVW2VCjTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981560126302728681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 222,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢喜欢\n#ApexLegends https://t.co/bmVW2VCjTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 1275,
+          "like_count": 6339,
+          "listed_count": 5,
+          "media_count": 548,
+          "tweet_count": 4504
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-19T07:46:44.000Z",
+        "description": "If I'm not updating, I'm working\n没更新就是被工作抓走了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "artstation.com/eureka1812",
+                "end": 23,
+                "expanded_url": "https://www.artstation.com/eureka1812",
+                "start": 0,
+                "url": "https://t.co/vZmGIwspko"
+              }
+            ]
+          }
+        },
+        "id": "2299233782",
+        "location": "北京, 中华人民共和国",
+        "name": "Eureka",
+        "pinned_tweet_id": "1516093268030734336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975824754130157568/RgWZzTOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14813,
+          "following_count": 668,
+          "like_count": 11016,
+          "listed_count": 83,
+          "media_count": 1271,
+          "tweet_count": 4181
+        },
+        "url": "https://t.co/vZmGIwspko",
+        "username": "Eureka1812",
+        "verified": false
+      }
+    ]
+  }
+}

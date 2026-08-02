@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2030927833129013251",
+    "created_at": "2026-03-09T08:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T09:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030927833129013251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0twt012/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/0twt012/status/2030664428983902439",
+          "start": 5,
+          "url": "https://t.co/RZWFiZA49X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030927833129013251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030664428983902439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想你。 https://t.co/RZWFiZA49X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2030927833129013251",
+        "created_at": "2026-03-09T08:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030927833129013251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0twt012/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/0twt012/status/2030664428983902439",
+              "start": 5,
+              "url": "https://t.co/RZWFiZA49X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030927833129013251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030664428983902439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想你。 https://t.co/RZWFiZA49X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2030664428983902439",
+        "created_at": "2026-03-08T15:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030664428983902439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030664428983902439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 11016,
+          "like_count": 537,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "好想抱你，好想醉醺醺地和你撒娇，好想把那些拿捏好的分寸和距离都丢掉，也不管什么自尊心，我就是好想你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1298,
+          "like_count": 6605,
+          "listed_count": 5,
+          "media_count": 574,
+          "tweet_count": 4576
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 241,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 598
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

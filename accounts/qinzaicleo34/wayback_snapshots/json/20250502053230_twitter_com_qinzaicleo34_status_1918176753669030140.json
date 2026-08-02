@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1918176753669030140",
+    "created_at": "2025-05-02T05:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T06:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918176753669030140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psamatheh/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/psamatheh/status/1917971073490190463",
+          "start": 15,
+          "url": "https://t.co/SN6HbpfiVY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918176753669030140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917971073490190463",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝你像去少林寺学武术回来了 https://t.co/SN6HbpfiVY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7491,
+        "height": 498,
+        "media_key": "13_1917971060835663872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1917971060835663872/img/8qAHS2APwICc9j5b.jpg",
+        "public_metrics": {
+          "view_count": 17523
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917971060835663872/vid/avc1/270x270/C5OrdkpXlUfLAEwk.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917971060835663872/vid/avc1/360x360/Ui9ptw9D7RKzM8JV.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917971060835663872/vid/avc1/500x498/Zm78IJYRtltxW0_J.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1917971060835663872/pl/GnBbdagvolZNhdat.m3u8?tag=16"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1918176753669030140",
+        "created_at": "2025-05-02T05:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T06:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918176753669030140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psamatheh/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/psamatheh/status/1917971073490190463",
+              "start": 15,
+              "url": "https://t.co/SN6HbpfiVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918176753669030140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917971073490190463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝你像去少林寺学武术回来了 https://t.co/SN6HbpfiVY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917971060835663872"
+          ]
+        },
+        "author_id": "1275568926307553282",
+        "conversation_id": "1917971073490190463",
+        "created_at": "2025-05-01T15:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T16:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917971073490190463"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "loba",
+              "probability": 0.4939,
+              "start": 4,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0hbGBPUMF",
+              "end": 39,
+              "expanded_url": "https://x.com/Psamatheh/status/1917971073490190463/video/1",
+              "media_key": "13_1917971060835663872",
+              "start": 16,
+              "url": "https://t.co/N0hbGBPUMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917971073490190463",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 17691,
+          "like_count": 671,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "new loba emote! https://t.co/N0hbGBPUMF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 1269,
+          "like_count": 6319,
+          "listed_count": 4,
+          "media_count": 504,
+          "tweet_count": 4384
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-23T23:18:32.000Z",
+        "description": "content creator & 3D artist // apex legends // CEO of loba mains // my skins are fanmade and not real 🐺",
+        "id": "1275568926307553282",
+        "name": "luwba 🐺",
+        "pinned_tweet_id": "1372541822032089092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879183416559550464/vbRhX3Dr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18359,
+          "following_count": 99,
+          "like_count": 11339,
+          "listed_count": 37,
+          "media_count": 3772,
+          "tweet_count": 15015
+        },
+        "username": "Psamatheh",
+        "verified": true
+      }
+    ]
+  }
+}

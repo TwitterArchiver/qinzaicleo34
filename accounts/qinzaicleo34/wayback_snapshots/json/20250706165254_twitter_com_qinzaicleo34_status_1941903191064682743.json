@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941903179953864704"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1941903191064682743",
+    "created_at": "2025-07-06T16:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T17:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941903191064682743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r7tVbmzdIV",
+          "end": 33,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1941903191064682743/photo/1",
+          "media_key": "3_1941903179953864704",
+          "start": 10,
+          "url": "https://t.co/r7tVbmzdIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941903191064682743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "114514都来了 https://t.co/r7tVbmzdIV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1941903179953864704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvMGp01aAAAnrG1.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941903179953864704"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941903191064682743",
+        "created_at": "2025-07-06T16:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T17:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941903191064682743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7tVbmzdIV",
+              "end": 33,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1941903191064682743/photo/1",
+              "media_key": "3_1941903179953864704",
+              "start": 10,
+              "url": "https://t.co/r7tVbmzdIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941903191064682743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "114514都来了 https://t.co/r7tVbmzdIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 1270,
+          "like_count": 6425,
+          "listed_count": 4,
+          "media_count": 522,
+          "tweet_count": 4428
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

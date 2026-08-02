@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1939312801375490236",
+    "created_at": "2025-06-29T17:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T18:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939376576883560955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1422919666305888264",
+          "start": 0,
+          "username": "0x88FFA357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939376576883560955",
+    "in_reply_to_user_id": "1422919666305888264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939312801375490236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x88FFA357 哇塞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 298,
+        "media_key": "3_1939312798342758400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GunStxWWwAAagyO.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1939312801375490236",
+        "created_at": "2025-06-29T17:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T18:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939376576883560955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1422919666305888264",
+              "start": 0,
+              "username": "0x88FFA357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939376576883560955",
+        "in_reply_to_user_id": "1422919666305888264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939312801375490236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x88FFA357 哇塞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939312798342758400"
+          ]
+        },
+        "author_id": "1422919666305888264",
+        "conversation_id": "1939312801375490236",
+        "created_at": "2025-06-29T13:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T14:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939312801375490236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sj85w4Wy6G",
+              "end": 27,
+              "expanded_url": "https://x.com/0x88FFA357/status/1939312801375490236/photo/1",
+              "media_key": "3_1939312798342758400",
+              "start": 4,
+              "url": "https://t.co/sj85w4Wy6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939312801375490236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 842,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉沪国 https://t.co/sj85w4Wy6G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1271,
+          "like_count": 6415,
+          "listed_count": 4,
+          "media_count": 520,
+          "tweet_count": 4425
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T13:57:51.000Z",
+        "description": "segmentation fault (core dumped)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nvme0n1p.dev",
+                "end": 23,
+                "expanded_url": "http://nvme0n1p.dev",
+                "start": 0,
+                "url": "https://t.co/M3EWZGYw8X"
+              }
+            ]
+          }
+        },
+        "id": "1422919666305888264",
+        "location": "__start + 0x14",
+        "name": "溴化锂",
+        "pinned_tweet_id": "1939251760037835041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816087287903707136/3vMr5LZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1390,
+          "like_count": 139510,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 9956
+        },
+        "url": "https://t.co/M3EWZGYw8X",
+        "username": "0x88FFA357",
+        "verified": false
+      }
+    ]
+  }
+}

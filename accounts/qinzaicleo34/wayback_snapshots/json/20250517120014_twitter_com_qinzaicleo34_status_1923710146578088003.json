@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923709978315051008",
+        "13_1923709978352721920"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1923710146578088003",
+    "created_at": "2025-05-17T12:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T13:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923710146578088003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PO3pHdyeh2",
+          "end": 33,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1923710146578088003/video/1",
+          "media_key": "3_1923709978315051008",
+          "start": 10,
+          "url": "https://t.co/PO3pHdyeh2"
+        },
+        {
+          "display_url": "pic.x.com/PO3pHdyeh2",
+          "end": 33,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1923710146578088003/video/1",
+          "media_key": "13_1923709978352721920",
+          "start": 10,
+          "url": "https://t.co/PO3pHdyeh2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923710146578088003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手牵手吃加了饼海盗 https://t.co/PO3pHdyeh2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923709978315051008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJkCHRX0AAB3Tz.jpg",
+        "width": 1152
+      },
+      {
+        "duration_ms": 15898,
+        "height": 720,
+        "media_key": "13_1923709978352721920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1923709978352721920/img/AQHIXEoO372m3bOS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923709978352721920/vid/avc1/480x270/O-AEFR1bmjBJ9REL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923709978352721920/vid/avc1/640x360/R829ACgTlVEyQ2C0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923709978352721920/vid/avc1/1280x720/iNb-SRFFp0FbDm00.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1923709978352721920/pl/mr-0O4qkofIAEUaq.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923709978315051008",
+            "13_1923709978352721920"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1923710146578088003",
+        "created_at": "2025-05-17T12:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T13:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923710146578088003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PO3pHdyeh2",
+              "end": 33,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1923710146578088003/video/1",
+              "media_key": "3_1923709978315051008",
+              "start": 10,
+              "url": "https://t.co/PO3pHdyeh2"
+            },
+            {
+              "display_url": "pic.x.com/PO3pHdyeh2",
+              "end": 33,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1923710146578088003/video/1",
+              "media_key": "13_1923709978352721920",
+              "start": 10,
+              "url": "https://t.co/PO3pHdyeh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923710146578088003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手牵手吃加了饼海盗 https://t.co/PO3pHdyeh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 1274,
+          "like_count": 6393,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 4396
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

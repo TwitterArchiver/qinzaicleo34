@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1840732047603900416",
+        "3_1840732047620620288",
+        "3_1840732047599628288",
+        "3_1840732047599685632"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1840732058882326886",
+    "created_at": "2024-09-30T12:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T13:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840732058882326886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ni82pyipzh",
+          "end": 35,
+          "expanded_url": "https://twitter.com/qinzaicleo34/status/1840732058882326886/photo/1",
+          "media_key": "3_1840732047603900416",
+          "start": 12,
+          "url": "https://t.co/Ni82pyipZH"
+        },
+        {
+          "display_url": "pic.x.com/ni82pyipzh",
+          "end": 35,
+          "expanded_url": "https://twitter.com/qinzaicleo34/status/1840732058882326886/photo/1",
+          "media_key": "3_1840732047620620288",
+          "start": 12,
+          "url": "https://t.co/Ni82pyipZH"
+        },
+        {
+          "display_url": "pic.x.com/ni82pyipzh",
+          "end": 35,
+          "expanded_url": "https://twitter.com/qinzaicleo34/status/1840732058882326886/photo/1",
+          "media_key": "3_1840732047599628288",
+          "start": 12,
+          "url": "https://t.co/Ni82pyipZH"
+        },
+        {
+          "display_url": "pic.x.com/ni82pyipzh",
+          "end": 35,
+          "expanded_url": "https://twitter.com/qinzaicleo34/status/1840732058882326886/photo/1",
+          "media_key": "3_1840732047599685632",
+          "start": 12,
+          "url": "https://t.co/Ni82pyipZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840732058882326886",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像两个没素质的人谈恋爱 https://t.co/Ni82pyipZH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1840732047603900416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYuYC3AboAAGM7E.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1840732047620620288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYuYC3EawAANJtX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1840732047599628288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYuYC2_acAAB_zL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1840732047599685632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYuYC2_bUAAaJXo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840732047603900416",
+            "3_1840732047620620288",
+            "3_1840732047599628288",
+            "3_1840732047599685632"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1840732058882326886",
+        "created_at": "2024-09-30T12:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T13:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840732058882326886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ni82pyipzh",
+              "end": 35,
+              "expanded_url": "https://twitter.com/qinzaicleo34/status/1840732058882326886/photo/1",
+              "media_key": "3_1840732047603900416",
+              "start": 12,
+              "url": "https://t.co/Ni82pyipZH"
+            },
+            {
+              "display_url": "pic.x.com/ni82pyipzh",
+              "end": 35,
+              "expanded_url": "https://twitter.com/qinzaicleo34/status/1840732058882326886/photo/1",
+              "media_key": "3_1840732047620620288",
+              "start": 12,
+              "url": "https://t.co/Ni82pyipZH"
+            },
+            {
+              "display_url": "pic.x.com/ni82pyipzh",
+              "end": 35,
+              "expanded_url": "https://twitter.com/qinzaicleo34/status/1840732058882326886/photo/1",
+              "media_key": "3_1840732047599628288",
+              "start": 12,
+              "url": "https://t.co/Ni82pyipZH"
+            },
+            {
+              "display_url": "pic.x.com/ni82pyipzh",
+              "end": 35,
+              "expanded_url": "https://twitter.com/qinzaicleo34/status/1840732058882326886/photo/1",
+              "media_key": "3_1840732047599685632",
+              "start": 12,
+              "url": "https://t.co/Ni82pyipZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840732058882326886",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像两个没素质的人谈恋爱 https://t.co/Ni82pyipZH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830331742571696129/e8uXvciC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 1216,
+          "like_count": 5384,
+          "listed_count": 3,
+          "tweet_count": 4077
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

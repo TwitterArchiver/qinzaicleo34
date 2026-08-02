@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1890950707764744571",
+    "created_at": "2025-02-16T02:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T03:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890952224819367976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1530546999891828737",
+          "start": 0,
+          "username": "xzlqsaki_UvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890952224819367976",
+    "in_reply_to_user_id": "1530546999891828737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890950707764744571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzlqsaki_UvU 给我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1890950707764744571",
+        "created_at": "2025-02-16T02:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T03:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890952224819367976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1530546999891828737",
+              "start": 0,
+              "username": "xzlqsaki_UvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890952224819367976",
+        "in_reply_to_user_id": "1530546999891828737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890950707764744571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzlqsaki_UvU 给我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890950698315202560"
+          ]
+        },
+        "author_id": "1530546999891828737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1890950707764744571",
+        "created_at": "2025-02-16T02:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T03:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890950707764744571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bGi88Gnm5O",
+              "end": 28,
+              "expanded_url": "https://x.com/xzlqsaki_UvU/status/1890950707764744571/photo/1",
+              "media_key": "3_1890950698315202560",
+              "start": 5,
+              "url": "https://t.co/bGi88Gnm5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890950707764744571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何评价 https://t.co/bGi88Gnm5O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 1257,
+          "like_count": 6122,
+          "listed_count": 3,
+          "media_count": 497,
+          "tweet_count": 4336
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T13:50:26.000Z",
+        "description": "欢迎来到我的日常UvU",
+        "id": "1530546999891828737",
+        "location": "ぜひ私を愛してくださいね……",
+        "name": "小泽saki",
+        "pinned_tweet_id": "1860534122189586854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844766873701036032/AgIo_TNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 148,
+          "like_count": 22397,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 3911
+        },
+        "username": "xzlqsaki_UvU",
+        "verified": false
+      }
+    ]
+  }
+}

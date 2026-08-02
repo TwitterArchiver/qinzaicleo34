@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1882840920443559936"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1882840982708015162",
+    "created_at": "2025-01-24T17:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T18:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882840982708015162"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 7,
+          "normalized_text": "ticktock",
+          "probability": 0.6652,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/In6t0NlJAx",
+          "end": 32,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1882840982708015162/video/1",
+          "media_key": "13_1882840920443559936",
+          "start": 9,
+          "url": "https://t.co/In6t0NlJAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882840982708015162",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ticktock https://t.co/In6t0NlJAx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5033,
+        "height": 960,
+        "media_key": "13_1882840920443559936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1882840920443559936/img/cLz0FknusAt-Yvho.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1882840920443559936/vid/avc1/320x426/YylwYh_bJv8FXt-A.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1882840920443559936/vid/avc1/480x640/QZDna60vZOEfnjg7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1882840920443559936/vid/avc1/720x960/3iULR2Xswxjxnb6J.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1882840920443559936/pl/Gqo9Y3ZymAFQMQi8.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1882840920443559936"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1882840982708015162",
+        "created_at": "2025-01-24T17:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T18:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882840982708015162"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "ticktock",
+              "probability": 0.6652,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/In6t0NlJAx",
+              "end": 32,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1882840982708015162/video/1",
+              "media_key": "13_1882840920443559936",
+              "start": 9,
+              "url": "https://t.co/In6t0NlJAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882840982708015162",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ticktock https://t.co/In6t0NlJAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 1254,
+          "like_count": 5923,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 4271
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

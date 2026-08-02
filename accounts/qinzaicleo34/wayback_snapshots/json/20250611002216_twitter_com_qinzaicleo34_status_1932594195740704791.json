@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1932492266020667794",
+    "created_at": "2025-06-11T00:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T01:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932594195740704791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1563297675893563394",
+          "start": 0,
+          "username": "rux47511053"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932594195740704791",
+    "in_reply_to_user_id": "1563297675893563394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932507600664576460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rux47511053 我还是apex多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1932492266020667794",
+        "created_at": "2025-06-11T00:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T01:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932594195740704791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1563297675893563394",
+              "start": 0,
+              "username": "rux47511053"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932594195740704791",
+        "in_reply_to_user_id": "1563297675893563394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932507600664576460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rux47511053 我还是apex多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563297675893563394",
+        "conversation_id": "1932492266020667794",
+        "created_at": "2025-06-10T18:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T19:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932507600664576460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932507600664576460",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932492266020667794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 来跟我玩三角洲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 1277,
+          "like_count": 6395,
+          "listed_count": 4,
+          "media_count": 518,
+          "tweet_count": 4417
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-26T22:49:55.000Z",
+        "description": "",
+        "id": "1563297675893563394",
+        "name": "若曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656449384379478016/Qus7-fm1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 461,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2777
+        },
+        "username": "rux47511053",
+        "verified": false
+      }
+    ]
+  }
+}

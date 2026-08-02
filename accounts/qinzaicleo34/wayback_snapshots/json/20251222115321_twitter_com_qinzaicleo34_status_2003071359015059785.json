@@ -1,0 +1,631 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003052617266790400"
+      ],
+      "media_source_tweet_id": [
+        "2003052626255237272"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "2003071359015059785",
+    "created_at": "2025-12-22T11:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T12:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003071359015059785"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 58,
+          "normalized_text": "剣持刀也くん",
+          "probability": 0.5626,
+          "start": 53,
+          "type": "Person"
+        },
+        {
+          "end": 87,
+          "normalized_text": "刀也くん",
+          "probability": 0.6336,
+          "start": 84,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "879633009032306688",
+          "start": 3,
+          "username": "osyarenuts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YJz4CIkr0q",
+          "end": 139,
+          "expanded_url": "https://x.com/osyarenuts/status/2003052626255237272/photo/1",
+          "media_key": "3_2003052617266790400",
+          "start": 116,
+          "url": "https://t.co/YJz4CIkr0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003071359015059785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35518
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003052626255237272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @osyarenuts: ⚔️12/25 23:00〜生放送！🥜\n\n刀ピークリスマス2025🎅\n剣持刀也くんの自室で2人きりの生放送をするナッツ！！\n\n配信は刀也くんのチャンネルにて🎄\nサンタクロースが再び舞い降りるナッツ🎅 https://t.co/YJz4CIkr0q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2003052617266790400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xFviaagAAHFk4.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003052617266790400"
+          ],
+          "media_source_tweet_id": [
+            "2003052626255237272"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2003071359015059785",
+        "created_at": "2025-12-22T11:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003071359015059785"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "剣持刀也くん",
+              "probability": 0.5626,
+              "start": 53,
+              "type": "Person"
+            },
+            {
+              "end": 87,
+              "normalized_text": "刀也くん",
+              "probability": 0.6336,
+              "start": 84,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "879633009032306688",
+              "start": 3,
+              "username": "osyarenuts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJz4CIkr0q",
+              "end": 139,
+              "expanded_url": "https://x.com/osyarenuts/status/2003052626255237272/photo/1",
+              "media_key": "3_2003052617266790400",
+              "start": 116,
+              "url": "https://t.co/YJz4CIkr0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003071359015059785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35519
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003052626255237272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @osyarenuts: ⚔️12/25 23:00〜生放送！🥜\n\n刀ピークリスマス2025🎅\n剣持刀也くんの自室で2人きりの生放送をするナッツ！！\n\n配信は刀也くんのチャンネルにて🎄\nサンタクロースが再び舞い降りるナッツ🎅 https://t.co/YJz4CIkr0q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003052617266790400"
+          ]
+        },
+        "author_id": "879633009032306688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2003052626255237272",
+        "created_at": "2025-12-22T10:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003052626255237272"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "剣持刀也くん",
+              "probability": 0.5709,
+              "start": 37,
+              "type": "Person"
+            },
+            {
+              "end": 71,
+              "normalized_text": "刀也くん",
+              "probability": 0.6409,
+              "start": 68,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJz4CIkr0q",
+              "end": 123,
+              "expanded_url": "https://x.com/osyarenuts/status/2003052626255237272/photo/1",
+              "media_key": "3_2003052617266790400",
+              "start": 100,
+              "url": "https://t.co/YJz4CIkr0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003052626255237272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3011,
+          "impression_count": 1361877,
+          "like_count": 84101,
+          "quote_count": 5026,
+          "reply_count": 393,
+          "retweet_count": 35519
+        },
+        "reply_settings": "everyone",
+        "text": "⚔️12/25 23:00〜生放送！🥜\n\n刀ピークリスマス2025🎅\n剣持刀也くんの自室で2人きりの生放送をするナッツ！！\n\n配信は刀也くんのチャンネルにて🎄\nサンタクロースが再び舞い降りるナッツ🎅 https://t.co/YJz4CIkr0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 1283,
+          "like_count": 6441,
+          "listed_count": 5,
+          "media_count": 561,
+          "tweet_count": 4543
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-27T09:30:26.000Z",
+        "description": "ショートアニメ｢オシャレになりたいピーナッツくん」絶賛配信中ナッツ！！ピーナッツくんがいろんなオシャレ人と出会っちゃう大冒険！！毎週アニメ更新目標ナッツ！ ゆるキャラGP2019優勝したナッツ！ HP→ https://t.co/1SAkdA9yZY #オシャレになりたいピーナッツくん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 143,
+                "start": 126,
+                "tag": "オシャレになりたいピーナッツくん"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "osharepeanuts.com",
+                "end": 125,
+                "expanded_url": "https://osharepeanuts.com/",
+                "start": 102,
+                "url": "https://t.co/1SAkdA9yZY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCmgWM…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCmgWMQkenFc72QnYkdxdoKA",
+                "start": 0,
+                "url": "https://t.co/Xkhfuak4JX"
+              }
+            ]
+          }
+        },
+        "id": "879633009032306688",
+        "location": "ピーナッツ星",
+        "name": "オシャレになりたい！ピーナッツくん🥜",
+        "pinned_tweet_id": "1992410598655832150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1050858944975888385/9WVefV4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258469,
+          "following_count": 2207,
+          "like_count": 15817,
+          "listed_count": 2052,
+          "media_count": 1173,
+          "tweet_count": 9179
+        },
+        "url": "https://t.co/Xkhfuak4JX",
+        "username": "osyarenuts",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1799864733656559638",
+    "created_at": "2024-06-09T18:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T19:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799864733656559638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1799810493970092032",
+          "start": 3,
+          "username": "youmijiang2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799864733656559638",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799814221754204357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youmijiang2004: 🔝置顶🌟重生版悠米酱2.0\n04年/重度双相/可M可S 偏S/半休学/离异负债家庭\n\n🚪52 解锁朋友圈\n🚪288 解锁纯绿 200/h语音\n🚪520 解锁半绿 400/h线下调教\n🚪1314我永远是你的小宝贝\n🎮接陪玩 (包52门槛)…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1799864733656559638",
+        "created_at": "2024-06-09T18:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T19:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799864733656559638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1799810493970092032",
+              "start": 3,
+              "username": "youmijiang2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799864733656559638",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799814221754204357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youmijiang2004: 🔝置顶🌟重生版悠米酱2.0\n04年/重度双相/可M可S 偏S/半休学/离异负债家庭\n\n🚪52 解锁朋友圈\n🚪288 解锁纯绿 200/h语音\n🚪520 解锁半绿 400/h线下调教\n🚪1314我永远是你的小宝贝\n🎮接陪玩 (包52门槛)…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799814210253471744",
+            "3_1799814210240778240",
+            "3_1799814210261749760",
+            "3_1799814210261762048"
+          ]
+        },
+        "author_id": "1799810493970092032",
+        "conversation_id": "1799814221754204357",
+        "created_at": "2024-06-09T14:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T15:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799814221754204357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CQDVDXNkXe",
+              "end": 202,
+              "expanded_url": "https://twitter.com/youmijiang2004/status/1799814221754204357/photo/1",
+              "media_key": "3_1799814210253471744",
+              "start": 179,
+              "url": "https://t.co/CQDVDXNkXe"
+            },
+            {
+              "display_url": "pic.twitter.com/CQDVDXNkXe",
+              "end": 202,
+              "expanded_url": "https://twitter.com/youmijiang2004/status/1799814221754204357/photo/1",
+              "media_key": "3_1799814210240778240",
+              "start": 179,
+              "url": "https://t.co/CQDVDXNkXe"
+            },
+            {
+              "display_url": "pic.twitter.com/CQDVDXNkXe",
+              "end": 202,
+              "expanded_url": "https://twitter.com/youmijiang2004/status/1799814221754204357/photo/1",
+              "media_key": "3_1799814210261749760",
+              "start": 179,
+              "url": "https://t.co/CQDVDXNkXe"
+            },
+            {
+              "display_url": "pic.twitter.com/CQDVDXNkXe",
+              "end": 202,
+              "expanded_url": "https://twitter.com/youmijiang2004/status/1799814221754204357/photo/1",
+              "media_key": "3_1799814210261762048",
+              "start": 179,
+              "url": "https://t.co/CQDVDXNkXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799814221754204357",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🔝置顶🌟重生版悠米酱2.0\n04年/重度双相/可M可S 偏S/半休学/离异负债家庭\n\n🚪52 解锁朋友圈\n🚪288 解锁纯绿 200/h语音\n🚪520 解锁半绿 400/h线下调教\n🚪1314我永远是你的小宝贝\n🎮接陪玩 (包52门槛) LOLm不语音166/h 开语音288/h\n\n坐标广东 可约线下 \n欢迎女孩子互fo互转\n\n谢谢宝贝的打赏，太感谢啦！ https://t.co/CQDVDXNkXe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732605900987457536/msWoMCvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 1146,
+          "like_count": 5007,
+          "listed_count": 2,
+          "tweet_count": 3853
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T14:27:28.000Z",
+        "description": "04年 广东 双向/可S可M 🚪门槛52/288/520/1314 ❤️过门槛回复 接口令 ❤️ 过门接lolm陪玩 出原味❤️感谢投喂 小女孩互关互转",
+        "id": "1799810493970092032",
+        "name": "悠米酱2.0",
+        "pinned_tweet_id": "1799814221754204357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799810917628334080/nwua-E-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 33,
+          "like_count": 5,
+          "listed_count": 0,
+          "tweet_count": 4
+        },
+        "username": "youmijiang2004",
+        "verified": false
+      }
+    ]
+  }
+}

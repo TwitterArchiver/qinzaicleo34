@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1926706237359509787",
+    "created_at": "2025-05-25T18:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T19:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926707334056710555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1312224346916544513",
+          "start": 0,
+          "username": "Miyashitayuzuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926707334056710555",
+    "in_reply_to_user_id": "1312224346916544513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926707080016072746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyashitayuzuru 我没有天赋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1926706237359509787",
+        "created_at": "2025-05-25T18:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T19:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926707334056710555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1312224346916544513",
+              "start": 0,
+              "username": "Miyashitayuzuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926707334056710555",
+        "in_reply_to_user_id": "1312224346916544513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926707080016072746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyashitayuzuru 我没有天赋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312224346916544513",
+        "conversation_id": "1926706237359509787",
+        "created_at": "2025-05-25T18:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T19:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926707080016072746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926707080016072746",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926706582374478241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 比我强多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 1274,
+          "like_count": 6391,
+          "listed_count": 4,
+          "media_count": 512,
+          "tweet_count": 4408
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-03T02:54:08.000Z",
+        "description": "Switch istp ♍\nApex CS Valorant",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyashitayuzuru",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyashitayuzuru",
+                "start": 0,
+                "url": "https://t.co/ffYGm0uOuD"
+              }
+            ]
+          }
+        },
+        "id": "1312224346916544513",
+        "name": "宮下夕鶴",
+        "pinned_tweet_id": "1912243198111674415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533169979670966272/dW9hQeG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 1250,
+          "like_count": 9781,
+          "listed_count": 4,
+          "media_count": 603,
+          "tweet_count": 3327
+        },
+        "url": "https://t.co/ffYGm0uOuD",
+        "username": "Miyashitayuzuru",
+        "verified": false
+      }
+    ]
+  }
+}

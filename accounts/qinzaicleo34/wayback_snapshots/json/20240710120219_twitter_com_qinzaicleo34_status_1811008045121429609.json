@@ -1,0 +1,409 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "16_1810927879917817857"
+      ],
+      "media_source_tweet_id": [
+        "1810927900427964540"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1811008045121429609",
+    "created_at": "2024-07-10T12:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-10T13:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811008045121429609"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "天宮こころさん",
+          "probability": 0.5639,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "絵こころ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1448415312018214916",
+          "start": 3,
+          "username": "tusk_dot"
+        }
+      ],
+      "urls": [
+        {
+          "description": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+          "display_url": "xgf.nu/iKKya",
+          "end": 82,
+          "expanded_url": "https://xgf.nu/iKKya",
+          "images": [
+            {
+              "height": 250,
+              "url": "https://pbs.twimg.com/news_img/1810927904341303296/N7qVwpZA?format=png&name=orig",
+              "width": 250
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1810927904341303296/N7qVwpZA?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 59,
+          "status": 200,
+          "title": "GigaFile（ギガファイル）便",
+          "unwound_url": "https://21.gigafile.nu/0724-d46622ae4ae71d7253b5723b84d62bf62",
+          "url": "https://t.co/3V4nYRHTrs"
+        },
+        {
+          "display_url": "pic.twitter.com/Ogyi66j98k",
+          "end": 113,
+          "expanded_url": "https://twitter.com/tusk_dot/status/1810927900427964540/photo/1",
+          "media_key": "16_1810927879917817857",
+          "start": 90,
+          "url": "https://t.co/Ogyi66j98k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811008045121429609",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810927900427964540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tusk_dot: 天宮こころさんのマウスカーソルを作りました！！\n↓DLはこちらから(期限:7/24まで)\nhttps://t.co/3V4nYRHTrs\n #絵こころ https://t.co/Ogyi66j98k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "16_1810927879917817857",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GSG1T-RaUAEwykk.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GSG1T-RaUAEwykk.mp4"
+          }
+        ],
+        "width": 1662
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1810927879917817857"
+          ],
+          "media_source_tweet_id": [
+            "1810927900427964540"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1811008045121429609",
+        "created_at": "2024-07-10T12:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T13:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811008045121429609"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "天宮こころさん",
+              "probability": 0.5639,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "絵こころ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448415312018214916",
+              "start": 3,
+              "username": "tusk_dot"
+            }
+          ],
+          "urls": [
+            {
+              "description": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "display_url": "xgf.nu/iKKya",
+              "end": 82,
+              "expanded_url": "https://xgf.nu/iKKya",
+              "images": [
+                {
+                  "height": 250,
+                  "url": "https://pbs.twimg.com/news_img/1810927904341303296/N7qVwpZA?format=png&name=orig",
+                  "width": 250
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1810927904341303296/N7qVwpZA?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 59,
+              "status": 200,
+              "title": "GigaFile（ギガファイル）便",
+              "unwound_url": "https://21.gigafile.nu/0724-d46622ae4ae71d7253b5723b84d62bf62",
+              "url": "https://t.co/3V4nYRHTrs"
+            },
+            {
+              "display_url": "pic.twitter.com/Ogyi66j98k",
+              "end": 113,
+              "expanded_url": "https://twitter.com/tusk_dot/status/1810927900427964540/photo/1",
+              "media_key": "16_1810927879917817857",
+              "start": 90,
+              "url": "https://t.co/Ogyi66j98k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811008045121429609",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810927900427964540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tusk_dot: 天宮こころさんのマウスカーソルを作りました！！\n↓DLはこちらから(期限:7/24まで)\nhttps://t.co/3V4nYRHTrs\n #絵こころ https://t.co/Ogyi66j98k"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1810927879917817857"
+          ]
+        },
+        "author_id": "1448415312018214916",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1810927900427964540",
+        "created_at": "2024-07-10T06:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T07:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810927900427964540"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "天宮こころさん",
+              "probability": 0.5543,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "絵こころ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "display_url": "xgf.nu/iKKya",
+              "end": 68,
+              "expanded_url": "https://xgf.nu/iKKya",
+              "images": [
+                {
+                  "height": 250,
+                  "url": "https://pbs.twimg.com/news_img/1810927904341303296/N7qVwpZA?format=png&name=orig",
+                  "width": 250
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1810927904341303296/N7qVwpZA?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 45,
+              "status": 200,
+              "title": "GigaFile（ギガファイル）便",
+              "unwound_url": "https://21.gigafile.nu/0724-d46622ae4ae71d7253b5723b84d62bf62",
+              "url": "https://t.co/3V4nYRHTrs"
+            },
+            {
+              "display_url": "pic.twitter.com/Ogyi66j98k",
+              "end": 99,
+              "expanded_url": "https://twitter.com/tusk_dot/status/1810927900427964540/photo/1",
+              "media_key": "16_1810927879917817857",
+              "start": 76,
+              "url": "https://t.co/Ogyi66j98k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810927900427964540",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 864,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "天宮こころさんのマウスカーソルを作りました！！\n↓DLはこちらから(期限:7/24まで)\nhttps://t.co/3V4nYRHTrs\n #絵こころ https://t.co/Ogyi66j98k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801601829798547456/zY1ej4oD_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 1175,
+          "like_count": 5075,
+          "listed_count": 3,
+          "tweet_count": 3919
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T22:28:54.000Z",
+        "description": "タスクと申します！ マウスカーソル作ってます！ リクエストなどなどありましたらDM・マシュマロまで！ 有償依頼などはDMまたはこちらまで tusk.vdot@gmail.com サブ垢→@tusk_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "tusk_sub"
+              }
+            ]
+          }
+        },
+        "id": "1448415312018214916",
+        "location": "無断転載・加工・自作発言 ❌",
+        "name": "タスク",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703733885321003008/bHwHxIqN_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3434,
+          "following_count": 718,
+          "like_count": 15409,
+          "listed_count": 10,
+          "tweet_count": 1466
+        },
+        "username": "tusk_dot",
+        "verified": false
+      }
+    ]
+  }
+}

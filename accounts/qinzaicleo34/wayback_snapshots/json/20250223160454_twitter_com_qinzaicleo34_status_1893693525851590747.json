@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1893554363559526500",
+    "created_at": "2025-02-23T16:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T17:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893693525851590747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1419516958983159815",
+          "start": 0,
+          "username": "JunnnnnPickle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893693525851590747",
+    "in_reply_to_user_id": "1419516958983159815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893554363559526500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JunnnnnPickle 主播咋还有mtf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1893554359943995393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkdBqGtaoAE4GHy.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1893554363559526500",
+        "created_at": "2025-02-23T16:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T17:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893693525851590747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1419516958983159815",
+              "start": 0,
+              "username": "JunnnnnPickle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893693525851590747",
+        "in_reply_to_user_id": "1419516958983159815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893554363559526500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JunnnnnPickle 主播咋还有mtf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893554359943995393"
+          ]
+        },
+        "author_id": "1419516958983159815",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1893554363559526500",
+        "created_at": "2025-02-23T06:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T07:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893554363559526500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1893458724360245248/rtmQfOtw?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1893458724360245248/rtmQfOtw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/ZSi6Rshf8L"
+            },
+            {
+              "display_url": "pic.x.com/gJd15uWNMV",
+              "end": 64,
+              "expanded_url": "https://x.com/JunnnnnPickle/status/1893554363559526500/photo/1",
+              "media_key": "3_1893554359943995393",
+              "start": 41,
+              "url": "https://t.co/gJd15uWNMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893554363559526500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/ZSi6Rshf8L https://t.co/gJd15uWNMV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1254,
+          "like_count": 6148,
+          "listed_count": 4,
+          "media_count": 499,
+          "tweet_count": 4348
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T04:36:46.000Z",
+        "description": "深海是沉默的地基，我是团结的屁股",
+        "id": "1419516958983159815",
+        "name": "JunPickle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601468155742023680/cf2dT_tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 64,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 20
+        },
+        "username": "JunnnnnPickle",
+        "verified": false
+      }
+    ]
+  }
+}

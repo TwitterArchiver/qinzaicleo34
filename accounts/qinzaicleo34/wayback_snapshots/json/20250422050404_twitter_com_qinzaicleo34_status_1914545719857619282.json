@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1914544837401174034",
+    "created_at": "2025-04-22T05:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T06:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914545719857619282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "827434202748456960",
+          "start": 0,
+          "username": "mqtztsxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914545719857619282",
+    "in_reply_to_user_id": "827434202748456960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914545627079577973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mqtztsxy 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1914544837401174034",
+        "created_at": "2025-04-22T05:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T06:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914545719857619282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "827434202748456960",
+              "start": 0,
+              "username": "mqtztsxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914545719857619282",
+        "in_reply_to_user_id": "827434202748456960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914545627079577973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mqtztsxy 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "827434202748456960",
+        "conversation_id": "1914544837401174034",
+        "created_at": "2025-04-22T05:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T06:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914545627079577973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914545627079577973",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914544837401174034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 哇喔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 1260,
+          "like_count": 6265,
+          "listed_count": 4,
+          "media_count": 501,
+          "tweet_count": 4361
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-03T08:31:01.000Z",
+        "description": "接塔罗占卜星盘分析，apex代练陪玩，斯普拉遁3陪玩，以及其他steam小游戏陪玩。 提问箱https://t.co/kxDfisHacU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mqtztsxy",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mqtztsxy",
+                "start": 46,
+                "url": "https://t.co/kxDfisHacU"
+              }
+            ]
+          }
+        },
+        "id": "827434202748456960",
+        "location": "来财群岛",
+        "name": "(`・ω・´)",
+        "pinned_tweet_id": "1912686736381255961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910862223372595201/iXX2Tbuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 1654,
+          "like_count": 90104,
+          "listed_count": 0,
+          "media_count": 1495,
+          "tweet_count": 28093
+        },
+        "username": "mqtztsxy",
+        "verified": false
+      }
+    ]
+  }
+}

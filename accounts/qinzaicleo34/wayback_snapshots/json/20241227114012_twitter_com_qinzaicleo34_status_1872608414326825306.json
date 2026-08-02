@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1872563494270489012",
+    "created_at": "2024-12-27T11:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T12:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872608414326825306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872608414326825306",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872607971018174618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 我也不会啊啊啊啊被带的云里雾里！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1872563494270489012",
+        "created_at": "2024-12-27T11:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T12:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872608414326825306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872608414326825306",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872607971018174618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 我也不会啊啊啊啊被带的云里雾里！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "1872563494270489012",
+        "created_at": "2024-12-27T11:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T12:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872607971018174618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872607971018174618",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872563494270489012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 这个游戏我只会一点火男🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859511360343998464/1Kiem15I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 1246,
+          "like_count": 5708,
+          "listed_count": 3,
+          "media_count": 471,
+          "tweet_count": 4222
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "pinned_tweet_id": "1851125622191329323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3327,
+          "following_count": 860,
+          "like_count": 38584,
+          "listed_count": 5,
+          "media_count": 1813,
+          "tweet_count": 9822
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

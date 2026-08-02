@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1841861061882085389",
+    "created_at": "2024-10-03T16:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T17:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841875826272526532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2505184092",
+          "start": 0,
+          "username": "Fumika_OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841875826272526532",
+    "in_reply_to_user_id": "2505184092",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841861061882085389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fumika_OwO 超级美的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1841861061882085389",
+        "created_at": "2024-10-03T16:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T17:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841875826272526532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2505184092",
+              "start": 0,
+              "username": "Fumika_OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841875826272526532",
+        "in_reply_to_user_id": "2505184092",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841861061882085389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fumika_OwO 超级美的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841861051161444354",
+            "3_1841861051165638661"
+          ]
+        },
+        "author_id": "2505184092",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "1841861061882085389",
+        "created_at": "2024-10-03T15:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T16:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841861061882085389"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "ゼンゼロ"
+            },
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "zzzero"
+            },
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "Cosplay"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "コスプレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4JCEz7uTE",
+              "end": 66,
+              "expanded_url": "https://x.com/Fumika_OwO/status/1841861061882085389/photo/1",
+              "media_key": "3_1841861051161444354",
+              "start": 43,
+              "url": "https://t.co/r4JCEz7uTE"
+            },
+            {
+              "display_url": "pic.x.com/r4JCEz7uTE",
+              "end": 66,
+              "expanded_url": "https://x.com/Fumika_OwO/status/1841861061882085389/photo/1",
+              "media_key": "3_1841861051165638661",
+              "start": 43,
+              "url": "https://t.co/r4JCEz7uTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841861061882085389",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狡兔有三窟，妮可三百窟！\n\n#ゼンゼロ #zzzero #Cosplay #コスプレ https://t.co/r4JCEz7uTE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830331742571696129/e8uXvciC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 1215,
+          "like_count": 5410,
+          "listed_count": 3,
+          "tweet_count": 4083
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-18T18:30:52.000Z",
+        "description": "Cosplayer🇨🇳@MDY_White /Apex Legends/中文☺️English🥲日本語🥲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "MDY_White"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/fumika_owo?r=n…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/fumika_owo?r=nametag",
+                "start": 0,
+                "url": "https://t.co/lG3F4NfU3j"
+              }
+            ]
+          }
+        },
+        "id": "2505184092",
+        "name": "Fumika病叶",
+        "pinned_tweet_id": "1702988470229372932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840501955438993408/urb6IzFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3268,
+          "following_count": 263,
+          "like_count": 584,
+          "listed_count": 10,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/lG3F4NfU3j",
+        "username": "Fumika_OwO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868027546903924737"
+      ],
+      "media_source_tweet_id": [
+        "1868027552146870646"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1868614155789644043",
+    "created_at": "2024-12-16T11:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T12:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868614155789644043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1763648668366966784",
+          "start": 3,
+          "username": "tianjiangxi0n0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B4kflagOoL",
+          "end": 43,
+          "expanded_url": "https://x.com/tianjiangxi0n0/status/1868027552146870646/photo/1",
+          "media_key": "3_1868027546903924737",
+          "start": 20,
+          "url": "https://t.co/B4kflagOoL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868614155789644043",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868027552146870646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tianjiangxi0n0: https://t.co/B4kflagOoL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_1868027546903924737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeyRKBvaUAEvjRG.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868027546903924737"
+          ],
+          "media_source_tweet_id": [
+            "1868027552146870646"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868614155789644043",
+        "created_at": "2024-12-16T11:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T12:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868614155789644043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1763648668366966784",
+              "start": 3,
+              "username": "tianjiangxi0n0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4kflagOoL",
+              "end": 43,
+              "expanded_url": "https://x.com/tianjiangxi0n0/status/1868027552146870646/photo/1",
+              "media_key": "3_1868027546903924737",
+              "start": 20,
+              "url": "https://t.co/B4kflagOoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868614155789644043",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868027552146870646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tianjiangxi0n0: https://t.co/B4kflagOoL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868027546903924737"
+          ]
+        },
+        "author_id": "1763648668366966784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868027552146870646",
+        "created_at": "2024-12-14T20:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T21:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868027552146870646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4kflagOoL",
+              "end": 23,
+              "expanded_url": "https://x.com/tianjiangxi0n0/status/1868027552146870646/photo/1",
+              "media_key": "3_1868027546903924737",
+              "start": 0,
+              "url": "https://t.co/B4kflagOoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868027552146870646",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 43908,
+          "like_count": 401,
+          "quote_count": 17,
+          "reply_count": 31,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/B4kflagOoL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859511360343998464/1Kiem15I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 1242,
+          "like_count": 5651,
+          "listed_count": 3,
+          "media_count": 469,
+          "tweet_count": 4198
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T19:33:13.000Z",
+        "description": "只回复门槛相关 不过门私信的话我只会重复说过门或者无视=ω=.不接非绿 无电报 双生子 @youxunran0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "youxunran0v0"
+              }
+            ]
+          }
+        },
+        "id": "1763648668366966784",
+        "location": "社会不适应者 ",
+        "name": "天降系",
+        "pinned_tweet_id": "1846456917046317268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835360596256284672/yYU7oQLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14760,
+          "following_count": 111,
+          "like_count": 452,
+          "listed_count": 32,
+          "media_count": 140,
+          "tweet_count": 878
+        },
+        "username": "tianjiangxi0n0",
+        "verified": true
+      }
+    ]
+  }
+}

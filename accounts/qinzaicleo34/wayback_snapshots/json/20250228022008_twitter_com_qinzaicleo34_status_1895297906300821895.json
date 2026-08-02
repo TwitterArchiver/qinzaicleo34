@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895297895659978752",
+        "3_1895297895772905472"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1895297906300821895",
+    "created_at": "2025-02-28T02:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T03:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895297906300821895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EK7HSmANrs",
+          "end": 23,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1895297906300821895/photo/1",
+          "media_key": "3_1895297895659978752",
+          "start": 0,
+          "url": "https://t.co/EK7HSmANrs"
+        },
+        {
+          "display_url": "pic.x.com/EK7HSmANrs",
+          "end": 23,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1895297906300821895/photo/1",
+          "media_key": "3_1895297895772905472",
+          "start": 0,
+          "url": "https://t.co/EK7HSmANrs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895297906300821895",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/EK7HSmANrs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895297895659978752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1zZPZbwAAqndU.jpg",
+        "width": 946
+      },
+      {
+        "height": 1012,
+        "media_key": "3_1895297895772905472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1zZP0W4AABRkR.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895297895659978752",
+            "3_1895297895772905472"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1895297906300821895",
+        "created_at": "2025-02-28T02:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T03:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895297906300821895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EK7HSmANrs",
+              "end": 23,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1895297906300821895/photo/1",
+              "media_key": "3_1895297895659978752",
+              "start": 0,
+              "url": "https://t.co/EK7HSmANrs"
+            },
+            {
+              "display_url": "pic.x.com/EK7HSmANrs",
+              "end": 23,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1895297906300821895/photo/1",
+              "media_key": "3_1895297895772905472",
+              "start": 0,
+              "url": "https://t.co/EK7HSmANrs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895297906300821895",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EK7HSmANrs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 1254,
+          "like_count": 6183,
+          "listed_count": 4,
+          "media_count": 501,
+          "tweet_count": 4354
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

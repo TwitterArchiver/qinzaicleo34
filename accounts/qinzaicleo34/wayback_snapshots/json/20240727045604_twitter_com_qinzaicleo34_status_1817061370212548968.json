@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324117227465891840",
+          "name": "Japanese imperial family"
+        }
+      }
+    ],
+    "conversation_id": "1817061370212548968",
+    "created_at": "2024-07-27T04:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T05:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817061370212548968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1131016972404051968",
+          "start": 3,
+          "username": "SydneyDaddy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817061370212548968",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817015424607007041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SydneyDaddy1: 我的时间线上都在吐槽巴黎奥运会开幕式“群魔乱舞”，大胡子吊袜带，蓝精灵激凸男，LGBT最后的晚餐\n\n我没看完整版，不知道那些占比多少。我能理解他们的极度不适，但我也能理解这就是法国\n\n不过这一段断头皇后我是真心喜欢\n\n https://t.c…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "1817061370212548968",
+        "created_at": "2024-07-27T04:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T05:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817061370212548968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1131016972404051968",
+              "start": 3,
+              "username": "SydneyDaddy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817061370212548968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817015424607007041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SydneyDaddy1: 我的时间线上都在吐槽巴黎奥运会开幕式“群魔乱舞”，大胡子吊袜带，蓝精灵激凸男，LGBT最后的晚餐\n\n我没看完整版，不知道那些占比多少。我能理解他们的极度不适，但我也能理解这就是法国\n\n不过这一段断头皇后我是真心喜欢\n\n https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1816906335448973312"
+          ],
+          "media_source_tweet_id": [
+            "1816906611639877729"
+          ]
+        },
+        "author_id": "1131016972404051968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "1817015424607007041",
+        "created_at": "2024-07-27T01:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T02:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817015424607007041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Weeb8mjYvJ",
+              "end": 133,
+              "expanded_url": "https://twitter.com/Juan_OrtizMX/status/1816906611639877729/video/1",
+              "media_key": "13_1816906335448973312",
+              "start": 110,
+              "url": "https://t.co/Weeb8mjYvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817015424607007041",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 44330,
+          "like_count": 189,
+          "quote_count": 5,
+          "reply_count": 53,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我的时间线上都在吐槽巴黎奥运会开幕式“群魔乱舞”，大胡子吊袜带，蓝精灵激凸男，LGBT最后的晚餐\n\n我没看完整版，不知道那些占比多少。我能理解他们的极度不适，但我也能理解这就是法国\n\n不过这一段断头皇后我是真心喜欢\n\n https://t.co/Weeb8mjYvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801601829798547456/zY1ej4oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 1181,
+          "like_count": 5167,
+          "listed_count": 3,
+          "tweet_count": 3971
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-22T02:00:34.000Z",
+        "description": "油管频道 Youtube Channel: https://t.co/9HHxD7j6V3\n不缺钱的打发点呗👉：https://t.co/vwQtCkHsdM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2tJ7Rui",
+                "end": 45,
+                "expanded_url": "http://bit.ly/2tJ7Rui",
+                "start": 22,
+                "url": "https://t.co/9HHxD7j6V3"
+              },
+              {
+                "display_url": "PayPal.Me/sydneydaddy",
+                "end": 79,
+                "expanded_url": "http://PayPal.Me/sydneydaddy",
+                "start": 56,
+                "url": "https://t.co/vwQtCkHsdM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2tJ7Rui",
+                "end": 23,
+                "expanded_url": "https://bit.ly/2tJ7Rui",
+                "start": 0,
+                "url": "https://t.co/HOwitHqdwI"
+              }
+            ]
+          }
+        },
+        "id": "1131016972404051968",
+        "location": "2000",
+        "name": "悉尼奶爸 SydneyDaddy 雪梨奶爸 🇦🇺",
+        "pinned_tweet_id": "1812631795722342533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692765532704092161/zjKkeYE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80532,
+          "following_count": 1396,
+          "like_count": 1737,
+          "listed_count": 367,
+          "tweet_count": 15099
+        },
+        "url": "https://t.co/HOwitHqdwI",
+        "username": "SydneyDaddy1",
+        "verified": true
+      }
+    ]
+  }
+}

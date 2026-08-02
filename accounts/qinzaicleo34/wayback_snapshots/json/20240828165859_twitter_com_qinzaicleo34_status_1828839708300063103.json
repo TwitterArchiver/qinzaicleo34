@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828391125063012352"
+      ],
+      "media_source_tweet_id": [
+        "1828391133296361713"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1828839708300063103",
+    "created_at": "2024-08-28T16:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T17:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828839708300063103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1431249163765706757",
+          "start": 3,
+          "username": "twintesan3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c2stnnbmsg",
+          "end": 41,
+          "expanded_url": "https://twitter.com/twintesan3/status/1828391133296361713/photo/1",
+          "media_key": "3_1828391125063012352",
+          "start": 18,
+          "url": "https://t.co/C2StNnbmsG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828839708300063103",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828391133296361713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twintesan3: 🫵 https://t.co/C2StNnbmsG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_1828391125063012352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV_ACn_bkAAKt8B.jpg",
+        "width": 962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828391125063012352"
+          ],
+          "media_source_tweet_id": [
+            "1828391133296361713"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1828839708300063103",
+        "created_at": "2024-08-28T16:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T17:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828839708300063103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1431249163765706757",
+              "start": 3,
+              "username": "twintesan3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2stnnbmsg",
+              "end": 41,
+              "expanded_url": "https://twitter.com/twintesan3/status/1828391133296361713/photo/1",
+              "media_key": "3_1828391125063012352",
+              "start": 18,
+              "url": "https://t.co/C2StNnbmsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828839708300063103",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828391133296361713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twintesan3: 🫵 https://t.co/C2StNnbmsG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828391125063012352"
+          ]
+        },
+        "author_id": "1431249163765706757",
+        "conversation_id": "1828391133296361713",
+        "created_at": "2024-08-27T11:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T12:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828391133296361713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2stnnbmsg",
+              "end": 25,
+              "expanded_url": "https://twitter.com/twintesan3/status/1828391133296361713/photo/1",
+              "media_key": "3_1828391125063012352",
+              "start": 2,
+              "url": "https://t.co/C2StNnbmsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828391133296361713",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 315,
+          "impression_count": 51243,
+          "like_count": 3581,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "🫵 https://t.co/C2StNnbmsG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801601829798547456/zY1ej4oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 1192,
+          "like_count": 5292,
+          "listed_count": 3,
+          "tweet_count": 4036
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T13:36:20.000Z",
+        "description": "メディア欄のみご覧下さい。",
+        "id": "1431249163765706757",
+        "name": "???",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642055284993695744/ahv3SFRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 69,
+          "like_count": 647,
+          "listed_count": 5,
+          "tweet_count": 1136
+        },
+        "username": "twintesan3",
+        "verified": false
+      }
+    ]
+  }
+}

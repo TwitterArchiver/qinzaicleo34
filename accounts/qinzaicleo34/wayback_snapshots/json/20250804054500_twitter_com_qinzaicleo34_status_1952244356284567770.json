@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1952244332507136000"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1952244356284567770",
+    "created_at": "2025-08-04T05:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T06:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952244356284567770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mEftEo7MQv",
+          "end": 38,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1952244356284567770/photo/1",
+          "media_key": "16_1952244332507136000",
+          "start": 15,
+          "url": "https://t.co/mEftEo7MQv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952244356284567770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对象去上班我就这样蹲在家里等 https://t.co/mEftEo7MQv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "16_1952244332507136000",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GxfD4IHbgAALT6I.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GxfD4IHbgAALT6I.mp4"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1952244332507136000"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1952244356284567770",
+        "created_at": "2025-08-04T05:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T06:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952244356284567770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mEftEo7MQv",
+              "end": 38,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1952244356284567770/photo/1",
+              "media_key": "16_1952244332507136000",
+              "start": 15,
+              "url": "https://t.co/mEftEo7MQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952244356284567770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对象去上班我就这样蹲在家里等 https://t.co/mEftEo7MQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 1273,
+          "like_count": 6405,
+          "listed_count": 4,
+          "media_count": 533,
+          "tweet_count": 4461
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

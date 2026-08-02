@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2025465482825134474",
+    "created_at": "2026-02-22T07:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T08:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025468199282901300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1538522826826829825",
+          "start": 0,
+          "username": "DorothyL8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025468199282901300",
+    "in_reply_to_user_id": "1538522826826829825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025465482825134474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DorothyL8964 送我一个（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2025465479167705092",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvmHzabgAQnpze.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2025465482825134474",
+        "created_at": "2026-02-22T07:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025468199282901300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1538522826826829825",
+              "start": 0,
+              "username": "DorothyL8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025468199282901300",
+        "in_reply_to_user_id": "1538522826826829825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025465482825134474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DorothyL8964 送我一个（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025465479167705092"
+          ]
+        },
+        "author_id": "1538522826826829825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025465482825134474",
+        "created_at": "2026-02-22T06:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025465482825134474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dl4fwqKCMQ",
+              "end": 33,
+              "expanded_url": "https://x.com/DorothyL8964/status/2025465482825134474/photo/1",
+              "media_key": "3_2025465479167705092",
+              "start": 10,
+              "url": "https://t.co/dl4fwqKCMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025465482825134474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正好游戏荒\n走一个 https://t.co/dl4fwqKCMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 1291,
+          "like_count": 6536,
+          "listed_count": 5,
+          "media_count": 569,
+          "tweet_count": 4555
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T14:03:30.000Z",
+        "description": "中专（护校），云南人，在美帝挣扎求生。 (A man, made from enormous pain, disrespect, rejection, failure and losses; unstoppable, unyielding, offers his life for the call of duty.)",
+        "id": "1538522826826829825",
+        "location": "Mexico ",
+        "name": "Hippocratic Patriotism",
+        "pinned_tweet_id": "1549723342286082051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838482594867871744/QccqDUlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 210,
+          "like_count": 37518,
+          "listed_count": 7,
+          "media_count": 3608,
+          "tweet_count": 46093
+        },
+        "username": "DorothyL8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1888217818241626386",
+    "created_at": "2025-02-08T13:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T14:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888217818241626386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1666010240725450752",
+          "start": 3,
+          "username": "amedesu01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888217818241626386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888209566606987414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amedesu01: 并且瓜主还提出了复合请看最后合集第二行图3但是为什么今天又写了出来请继续往下看\n\n在一切都和解之后，瓜主居然厚颜无耻开始造谣苦主在恋爱期间隐瞒自己是卖的？苦主知道自己是干那个的吗？你又有什么证据说苦主是卖的？ https://t.co/nDd4Wk…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1888217818241626386",
+        "created_at": "2025-02-08T13:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T14:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888217818241626386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1666010240725450752",
+              "start": 3,
+              "username": "amedesu01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888217818241626386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888209566606987414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amedesu01: 并且瓜主还提出了复合请看最后合集第二行图3但是为什么今天又写了出来请继续往下看\n\n在一切都和解之后，瓜主居然厚颜无耻开始造谣苦主在恋爱期间隐瞒自己是卖的？苦主知道自己是干那个的吗？你又有什么证据说苦主是卖的？ https://t.co/nDd4Wk…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888209542061936640",
+            "3_1888209542061924352"
+          ]
+        },
+        "author_id": "1666010240725450752",
+        "conversation_id": "1888209566606987414",
+        "created_at": "2025-02-08T12:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T13:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888209566606987414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nDd4WknSP6",
+              "end": 128,
+              "expanded_url": "https://x.com/amedesu01/status/1888209566606987414/photo/1",
+              "media_key": "3_1888209542061936640",
+              "start": 105,
+              "url": "https://t.co/nDd4WknSP6"
+            },
+            {
+              "display_url": "pic.x.com/nDd4WknSP6",
+              "end": 128,
+              "expanded_url": "https://x.com/amedesu01/status/1888209566606987414/photo/1",
+              "media_key": "3_1888209542061924352",
+              "start": 105,
+              "url": "https://t.co/nDd4WknSP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888209566606987414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "并且瓜主还提出了复合请看最后合集第二行图3但是为什么今天又写了出来请继续往下看\n\n在一切都和解之后，瓜主居然厚颜无耻开始造谣苦主在恋爱期间隐瞒自己是卖的？苦主知道自己是干那个的吗？你又有什么证据说苦主是卖的？ https://t.co/nDd4WknSP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 1257,
+          "like_count": 6103,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 4326
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T09:14:53.000Z",
+        "description": "我是ame呀 喜歡和小女孩玩",
+        "id": "1666010240725450752",
+        "location": "🚪199/288/388/520过门解锁线下",
+        "name": "ここはあめよ",
+        "pinned_tweet_id": "1880574028521652420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879522383276724224/Kc7TjXfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8443,
+          "following_count": 272,
+          "like_count": 8502,
+          "listed_count": 17,
+          "media_count": 513,
+          "tweet_count": 4101
+        },
+        "username": "amedesu01",
+        "verified": false
+      }
+    ]
+  }
+}

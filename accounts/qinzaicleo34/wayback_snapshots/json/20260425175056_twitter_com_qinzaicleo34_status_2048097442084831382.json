@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2048068282318819734",
+    "created_at": "2026-04-25T17:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048097442084831382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682687182375636992",
+          "start": 0,
+          "username": "Cavaradossi1008"
+        },
+        {
+          "end": 30,
+          "id": "1530546999891828737",
+          "start": 17,
+          "username": "xzlqsaki_UvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048097442084831382",
+    "in_reply_to_user_id": "1682687182375636992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048077714800943541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cavaradossi1008 @xzlqsaki_UvU 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2048068282318819734",
+        "created_at": "2026-04-25T17:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048097442084831382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682687182375636992",
+              "start": 0,
+              "username": "Cavaradossi1008"
+            },
+            {
+              "end": 30,
+              "id": "1530546999891828737",
+              "start": 17,
+              "username": "xzlqsaki_UvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048097442084831382",
+        "in_reply_to_user_id": "1682687182375636992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048077714800943541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cavaradossi1008 @xzlqsaki_UvU 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682687182375636992",
+        "conversation_id": "2048068282318819734",
+        "created_at": "2026-04-25T16:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048077714800943541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            },
+            {
+              "end": 27,
+              "id": "1530546999891828737",
+              "start": 14,
+              "username": "xzlqsaki_UvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048077714800943541",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048068282318819734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 @xzlqsaki_UvU 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 1303,
+          "like_count": 6719,
+          "listed_count": 5,
+          "media_count": 581,
+          "tweet_count": 4607
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T09:41:26.000Z",
+        "description": "🔱🇮🇳",
+        "id": "1682687182375636992",
+        "location": "Ganga",
+        "name": "🇮🇳MerryMerryHearn",
+        "pinned_tweet_id": "2007562246478827570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041797915426091009/vc4YUeLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 1424,
+          "like_count": 170039,
+          "listed_count": 10,
+          "media_count": 1339,
+          "tweet_count": 17471
+        },
+        "username": "Cavaradossi1008",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T13:50:26.000Z",
+        "description": "欢迎来到我的日常UvU",
+        "id": "1530546999891828737",
+        "location": "ぜひ私を愛してくださいね……",
+        "name": "小泽saki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013133748142043136/VN0_zPMP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 125,
+          "like_count": 33467,
+          "listed_count": 4,
+          "media_count": 651,
+          "tweet_count": 5269
+        },
+        "username": "xzlqsaki_UvU",
+        "verified": false
+      }
+    ]
+  }
+}

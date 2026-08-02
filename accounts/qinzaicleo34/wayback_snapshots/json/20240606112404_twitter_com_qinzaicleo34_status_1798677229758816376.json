@@ -1,0 +1,318 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1798677229758816376",
+    "created_at": "2024-06-06T11:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T12:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798677229758816376"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 78,
+          "tag": "shtwt"
+        },
+        {
+          "end": 96,
+          "start": 88,
+          "tag": "goretwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768647643469856768",
+          "start": 3,
+          "username": "huzun953"
+        },
+        {
+          "end": 131,
+          "id": "1777366989234917376",
+          "start": 119,
+          "username": "abgrundd991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798677229758816376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796939591704015123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huzun953: 【置頂】\n\n互fo互轉歡迎\n\n久淵\n台灣人\n即將成為可悲廣設狗\n喜歡小狗和貓貓\n也喜歡山雀\n躁鬱傾向，有在吃藥\n會割手割腿，有 #shtwt\n會有 #goretwt\n想嘗試歐迪\n不定時發顛\n男的私訊❌\n\n防走丟@abgrundd991\n正常人格@tu…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1798677229758816376",
+        "created_at": "2024-06-06T11:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T12:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798677229758816376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 78,
+              "tag": "shtwt"
+            },
+            {
+              "end": 96,
+              "start": 88,
+              "tag": "goretwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768647643469856768",
+              "start": 3,
+              "username": "huzun953"
+            },
+            {
+              "end": 131,
+              "id": "1777366989234917376",
+              "start": 119,
+              "username": "abgrundd991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798677229758816376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796939591704015123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huzun953: 【置頂】\n\n互fo互轉歡迎\n\n久淵\n台灣人\n即將成為可悲廣設狗\n喜歡小狗和貓貓\n也喜歡山雀\n躁鬱傾向，有在吃藥\n會割手割腿，有 #shtwt\n會有 #goretwt\n想嘗試歐迪\n不定時發顛\n男的私訊❌\n\n防走丟@abgrundd991\n正常人格@tu…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796939524184080384",
+            "3_1796939530504921088"
+          ]
+        },
+        "author_id": "1768647643469856768",
+        "conversation_id": "1796939591704015123",
+        "created_at": "2024-06-01T16:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T17:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796939591704015123"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "shtwt"
+            },
+            {
+              "end": 82,
+              "start": 74,
+              "tag": "goretwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 117,
+              "id": "1777366989234917376",
+              "start": 105,
+              "username": "abgrundd991"
+            },
+            {
+              "end": 131,
+              "id": "1510878779249664000",
+              "start": 122,
+              "username": "tuskk991"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ewWVWydv9K",
+              "end": 155,
+              "expanded_url": "https://twitter.com/huzun953/status/1796939591704015123/photo/1",
+              "media_key": "3_1796939524184080384",
+              "start": 132,
+              "url": "https://t.co/ewWVWydv9K"
+            },
+            {
+              "display_url": "pic.twitter.com/ewWVWydv9K",
+              "end": 155,
+              "expanded_url": "https://twitter.com/huzun953/status/1796939591704015123/photo/1",
+              "media_key": "3_1796939530504921088",
+              "start": 132,
+              "url": "https://t.co/ewWVWydv9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796939591704015123",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5329,
+          "like_count": 64,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "【置頂】\n\n互fo互轉歡迎\n\n久淵\n台灣人\n即將成為可悲廣設狗\n喜歡小狗和貓貓\n也喜歡山雀\n躁鬱傾向，有在吃藥\n會割手割腿，有 #shtwt\n會有 #goretwt\n想嘗試歐迪\n不定時發顛\n男的私訊❌\n\n防走丟@abgrundd991\n正常人格@tuskk991 https://t.co/ewWVWydv9K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732605900987457536/msWoMCvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 1147,
+          "like_count": 4997,
+          "listed_count": 2,
+          "tweet_count": 3847
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T14:37:40.000Z",
+        "description": "久淵 | 🇹🇼 | #shtwt | #goretwt | 想嘗試od | 日常廢話 | 男的DM❌ | 查成分回fo | 夢日記相關@tuskk991 | 2.0 @abgrundd991",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 10,
+                "tag": "shtwt"
+              },
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "goretwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "tuskk991"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "username": "abgrundd991"
+              }
+            ]
+          }
+        },
+        "id": "1768647643469856768",
+        "location": "欣嫩谷",
+        "name": "花園狂吠小狗（想畢業前破一千fo）",
+        "pinned_tweet_id": "1796939591704015123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786711581130440704/eEXreKOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1398,
+          "like_count": 6694,
+          "listed_count": 0,
+          "tweet_count": 2427
+        },
+        "username": "huzun953",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T16:04:57.000Z",
+        "description": "大本營@huzun953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "huzun953"
+              }
+            ]
+          }
+        },
+        "id": "1777366989234917376",
+        "location": "去fo大帳",
+        "name": "花園狂吠小狗2.0（去fo大帳）",
+        "pinned_tweet_id": "1796944069236842752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796944949071757312/Ry0nbe9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 48,
+          "like_count": 37,
+          "listed_count": 0,
+          "tweet_count": 14
+        },
+        "username": "abgrundd991",
+        "verified": false
+      }
+    ]
+  }
+}

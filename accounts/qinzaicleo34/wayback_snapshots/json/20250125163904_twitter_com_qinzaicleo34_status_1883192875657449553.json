@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1883027479516127372",
+    "created_at": "2025-01-25T16:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T17:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883192875657449553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1264940545647865856",
+          "start": 0,
+          "username": "Twi1ightTea"
+        },
+        {
+          "end": 26,
+          "id": "1530546999891828737",
+          "start": 13,
+          "username": "xzlqsaki_UvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883192875657449553",
+    "in_reply_to_user_id": "1264940545647865856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883192770577432980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Twi1ightTea @xzlqsaki_UvU 你是狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1883027479516127372",
+        "created_at": "2025-01-25T16:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T17:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883192875657449553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1264940545647865856",
+              "start": 0,
+              "username": "Twi1ightTea"
+            },
+            {
+              "end": 26,
+              "id": "1530546999891828737",
+              "start": 13,
+              "username": "xzlqsaki_UvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883192875657449553",
+        "in_reply_to_user_id": "1264940545647865856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883192770577432980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Twi1ightTea @xzlqsaki_UvU 你是狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1264940545647865856",
+        "conversation_id": "1883027479516127372",
+        "created_at": "2025-01-25T16:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T17:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883192770577432980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            },
+            {
+              "end": 27,
+              "id": "1530546999891828737",
+              "start": 14,
+              "username": "xzlqsaki_UvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883192770577432980",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883085979403321827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 @xzlqsaki_UvU 我呢我呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 1252,
+          "like_count": 5944,
+          "listed_count": 3,
+          "media_count": 483,
+          "tweet_count": 4274
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-25T15:25:07.000Z",
+        "description": "",
+        "id": "1264940545647865856",
+        "location": "谷神星",
+        "name": "茶",
+        "pinned_tweet_id": "1699000759352701059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867303690413252608/zVnEN006_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 498,
+          "like_count": 13962,
+          "listed_count": 5,
+          "media_count": 401,
+          "tweet_count": 4117
+        },
+        "username": "Twi1ightTea",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T13:50:26.000Z",
+        "description": "欢迎来到我的日常",
+        "id": "1530546999891828737",
+        "location": "ぜひ私を愛してくださいね……",
+        "name": "小泽saki",
+        "pinned_tweet_id": "1860534122189586854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844766873701036032/AgIo_TNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 147,
+          "like_count": 21611,
+          "listed_count": 3,
+          "media_count": 453,
+          "tweet_count": 3747
+        },
+        "username": "xzlqsaki_UvU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1888091353277677716",
+    "created_at": "2025-02-08T05:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T06:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888094220902121593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1744738357333372928",
+          "start": 0,
+          "username": "Harzggs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888094220902121593",
+    "in_reply_to_user_id": "1744738357333372928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888094079663391015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Harzggs 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1888091353277677716",
+        "created_at": "2025-02-08T05:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T06:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888094220902121593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1744738357333372928",
+              "start": 0,
+              "username": "Harzggs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888094220902121593",
+        "in_reply_to_user_id": "1744738357333372928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888094079663391015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Harzggs 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744738357333372928",
+        "conversation_id": "1888091353277677716",
+        "created_at": "2025-02-08T05:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T06:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888094079663391015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888094079663391015",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888093330401378473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 1256,
+          "like_count": 6092,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 4323
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-09T15:10:23.000Z",
+        "description": "15/Valorant immortal @insaneAim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "insaneAim"
+              }
+            ]
+          }
+        },
+        "id": "1744738357333372928",
+        "name": "Kitty Aimer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884849052413829121/nQj6pAHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 850,
+          "like_count": 3806,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1282
+        },
+        "username": "Harzggs",
+        "verified": false
+      }
+    ]
+  }
+}

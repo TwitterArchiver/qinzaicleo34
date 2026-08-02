@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1401962477756162049",
+          "name": "Visual kei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401962477756162049",
+          "name": "Visual kei"
+        }
+      }
+    ],
+    "conversation_id": "1832752384554266853",
+    "created_at": "2024-09-08T12:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T13:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832752384554266853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1633466645078511619",
+          "start": 3,
+          "username": "xox_serina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832752384554266853",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822990164098183395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xox_serina: ┈┈┈┈┈୨୧┈┈┈┈┈\n🎀頂置🎀\n大家好我是小兔/兔兔.ᐟ.ᐟ\n有看精神科/不規律服藥\nF322  F909  F419\n自殘    od\n喜歡地雷系跟V系\n我不會咬人歡迎跟我當朋友🥺\n轉推大感謝~💜\n┈┈┈┈┈୨୧┈┈┈┈┈ https://…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832752384554266853].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832752384554266853",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832752384554266853"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822990159308267520",
+            "3_1822990161162227712",
+            "3_1822990156892377088",
+            "3_1822990161380257793"
+          ]
+        },
+        "author_id": "1633466645078511619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          }
+        ],
+        "conversation_id": "1822990164098183395",
+        "created_at": "2024-08-12T13:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T14:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822990164098183395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/su7imgjldc",
+              "end": 138,
+              "expanded_url": "https://twitter.com/xox_serina/status/1822990164098183395/photo/1",
+              "media_key": "3_1822990159308267520",
+              "start": 115,
+              "url": "https://t.co/sU7imGJLDC"
+            },
+            {
+              "display_url": "pic.x.com/su7imgjldc",
+              "end": 138,
+              "expanded_url": "https://twitter.com/xox_serina/status/1822990164098183395/photo/1",
+              "media_key": "3_1822990161162227712",
+              "start": 115,
+              "url": "https://t.co/sU7imGJLDC"
+            },
+            {
+              "display_url": "pic.x.com/su7imgjldc",
+              "end": 138,
+              "expanded_url": "https://twitter.com/xox_serina/status/1822990164098183395/photo/1",
+              "media_key": "3_1822990156892377088",
+              "start": 115,
+              "url": "https://t.co/sU7imGJLDC"
+            },
+            {
+              "display_url": "pic.x.com/su7imgjldc",
+              "end": 138,
+              "expanded_url": "https://twitter.com/xox_serina/status/1822990164098183395/photo/1",
+              "media_key": "3_1822990161380257793",
+              "start": 115,
+              "url": "https://t.co/sU7imGJLDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822990164098183395",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 17935,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "┈┈┈┈┈୨୧┈┈┈┈┈\n🎀頂置🎀\n大家好我是小兔/兔兔.ᐟ.ᐟ\n有看精神科/不規律服藥\nF322  F909  F419\n自殘    od\n喜歡地雷系跟V系\n我不會咬人歡迎跟我當朋友🥺\n轉推大感謝~💜\n┈┈┈┈┈୨୧┈┈┈┈┈ https://t.co/sU7imGJLDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830331742571696129/e8uXvciC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 1216,
+          "like_count": 5352,
+          "listed_count": 3,
+          "tweet_count": 4048
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-08T13:56:31.000Z",
+        "description": "台灣|自殘|F322|F909|F419|od|JDA&ABC|V系|地雷系|歡迎互fo",
+        "id": "1633466645078511619",
+        "location": "幻夢裡的烏托邦♡",
+        "name": "₍ᐢ小兔ᐢ₎@螺螄粉成癮",
+        "pinned_tweet_id": "1822990164098183395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819609559042084868/CGD4W42x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 399,
+          "like_count": 9918,
+          "listed_count": 2,
+          "tweet_count": 2287
+        },
+        "username": "xox_serina",
+        "verified": false
+      }
+    ]
+  }
+}

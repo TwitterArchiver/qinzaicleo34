@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1983579223320338622",
+    "created_at": "2025-10-30T03:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T04:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983734455497060828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1364955423137292303",
+          "start": 0,
+          "username": "Ver2bitNeosoul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983734455497060828",
+    "in_reply_to_user_id": "1364955423137292303",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983734235434512744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ver2bitNeosoul 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1983579223320338622",
+        "created_at": "2025-10-30T03:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983734455497060828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1364955423137292303",
+              "start": 0,
+              "username": "Ver2bitNeosoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983734455497060828",
+        "in_reply_to_user_id": "1364955423137292303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983734235434512744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ver2bitNeosoul 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364955423137292303",
+        "conversation_id": "1983579223320338622",
+        "created_at": "2025-10-30T03:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983734235434512744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983734235434512744",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983579223320338622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 羡慕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 1281,
+          "like_count": 6364,
+          "listed_count": 5,
+          "media_count": 552,
+          "tweet_count": 4515
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-25T15:08:36.000Z",
+        "description": "░▒▓█►「🧊」｜04｜ VA Illustrator Character Designer BeatMaker|🇨🇳",
+        "id": "1364955423137292303",
+        "location": "水星ᝰ",
+        "name": "乌兔·ver2bitneosoul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960580024182198272/lonBJgrF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 104,
+          "like_count": 2829,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1738
+        },
+        "username": "Ver2bitNeosoul",
+        "verified": false
+      }
+    ]
+  }
+}

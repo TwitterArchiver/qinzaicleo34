@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022633662278438914",
+        "3_2022633662282706944",
+        "3_2022633662261706752"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2022633672059556168",
+    "created_at": "2026-02-14T11:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022633672059556168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FOkHlvxapI",
+          "end": 29,
+          "expanded_url": "https://x.com/qinzaicleo34/status/2022633672059556168/photo/1",
+          "media_key": "3_2022633662278438914",
+          "start": 6,
+          "url": "https://t.co/FOkHlvxapI"
+        },
+        {
+          "display_url": "pic.x.com/FOkHlvxapI",
+          "end": 29,
+          "expanded_url": "https://x.com/qinzaicleo34/status/2022633672059556168/photo/1",
+          "media_key": "3_2022633662282706944",
+          "start": 6,
+          "url": "https://t.co/FOkHlvxapI"
+        },
+        {
+          "display_url": "pic.x.com/FOkHlvxapI",
+          "end": 29,
+          "expanded_url": "https://x.com/qinzaicleo34/status/2022633672059556168/photo/1",
+          "media_key": "3_2022633662261706752",
+          "start": 6,
+          "url": "https://t.co/FOkHlvxapI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022633672059556168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢喜欢… https://t.co/FOkHlvxapI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022633662278438914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHWmXbakAIB1od.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022633662282706944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHWmXcbsAAq-27.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022633662261706752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHWmXXbQAAw_FO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022633662278438914",
+            "3_2022633662282706944",
+            "3_2022633662261706752"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2022633672059556168",
+        "created_at": "2026-02-14T11:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022633672059556168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOkHlvxapI",
+              "end": 29,
+              "expanded_url": "https://x.com/qinzaicleo34/status/2022633672059556168/photo/1",
+              "media_key": "3_2022633662278438914",
+              "start": 6,
+              "url": "https://t.co/FOkHlvxapI"
+            },
+            {
+              "display_url": "pic.x.com/FOkHlvxapI",
+              "end": 29,
+              "expanded_url": "https://x.com/qinzaicleo34/status/2022633672059556168/photo/1",
+              "media_key": "3_2022633662282706944",
+              "start": 6,
+              "url": "https://t.co/FOkHlvxapI"
+            },
+            {
+              "display_url": "pic.x.com/FOkHlvxapI",
+              "end": 29,
+              "expanded_url": "https://x.com/qinzaicleo34/status/2022633672059556168/photo/1",
+              "media_key": "3_2022633662261706752",
+              "start": 6,
+              "url": "https://t.co/FOkHlvxapI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022633672059556168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢喜欢… https://t.co/FOkHlvxapI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 1289,
+          "like_count": 6518,
+          "listed_count": 5,
+          "media_count": 568,
+          "tweet_count": 4553
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

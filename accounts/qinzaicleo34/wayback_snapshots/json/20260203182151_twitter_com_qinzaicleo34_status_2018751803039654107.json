@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2018750034213576817",
+    "created_at": "2026-02-03T18:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T19:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018751803039654107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1548602928097013760",
+          "start": 0,
+          "username": "AmamiyA_Nyaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018751803039654107",
+    "in_reply_to_user_id": "1548602928097013760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018750891290149013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmamiyA_Nyaru 咋这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2018750034213576817",
+        "created_at": "2026-02-03T18:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018751803039654107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1548602928097013760",
+              "start": 0,
+              "username": "AmamiyA_Nyaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018751803039654107",
+        "in_reply_to_user_id": "1548602928097013760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018750891290149013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmamiyA_Nyaru 咋这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548602928097013760",
+        "conversation_id": "2018750034213576817",
+        "created_at": "2026-02-03T18:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018750891290149013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018750891290149013",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018750565166256348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 但是我润不掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1288,
+          "like_count": 6511,
+          "listed_count": 5,
+          "media_count": 565,
+          "tweet_count": 4553
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T09:38:11.000Z",
+        "description": "死者苏生\n你可能认识我但是认识我不太可能所以就当不认识吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "V50Giveto.ME",
+                "end": 23,
+                "expanded_url": "http://V50Giveto.ME",
+                "start": 0,
+                "url": "https://t.co/kSBLqormrm"
+              }
+            ]
+          }
+        },
+        "id": "1548602928097013760",
+        "location": "摩天轮上的约会就和蛋糕上的糖霜一样，留到最后吧",
+        "name": "AmamiyA-Rin_Official",
+        "pinned_tweet_id": "1668180649151467520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949866332847292416/uIcvoUrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 707,
+          "like_count": 70903,
+          "listed_count": 3,
+          "media_count": 550,
+          "tweet_count": 4535
+        },
+        "url": "https://t.co/kSBLqormrm",
+        "username": "AmamiyA_Nyaru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1861257632654438680",
+    "created_at": "2024-11-26T07:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T08:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861307473879343105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1603310799618859008",
+          "start": 0,
+          "username": "sanyangyunyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861307473879343105",
+    "in_reply_to_user_id": "1603310799618859008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861307404375466208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanyangyunyun 吃了干炒牛河"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1861257632654438680",
+        "created_at": "2024-11-26T07:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T08:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861307473879343105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1603310799618859008",
+              "start": 0,
+              "username": "sanyangyunyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861307473879343105",
+        "in_reply_to_user_id": "1603310799618859008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861307404375466208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanyangyunyun 吃了干炒牛河"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603310799618859008",
+        "conversation_id": "1861257632654438680",
+        "created_at": "2024-11-26T07:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T08:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861307404375466208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861307404375466208",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861257632654438680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 擂椒皮蛋（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1843190497806020863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859511360343998464/1Kiem15I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 1243,
+          "like_count": 5600,
+          "listed_count": 3,
+          "tweet_count": 4171
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T08:48:14.000Z",
+        "description": "只会被自己的fo看到的透明人😡✟od✟INFP✟不键政👿",
+        "id": "1603310799618859008",
+        "name": "云智风乃",
+        "pinned_tweet_id": "1792760945879761121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805943875900751872/f-hhG-Rs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 248,
+          "like_count": 15924,
+          "listed_count": 1,
+          "tweet_count": 5053
+        },
+        "username": "sanyangyunyun",
+        "verified": false
+      }
+    ]
+  }
+}

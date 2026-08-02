@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908350062897647616",
+        "3_1908350062893424642",
+        "3_1908350062893432832",
+        "3_1908350062889254912"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1908350076755607842",
+    "created_at": "2025-04-05T02:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T03:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908350076755607842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0r7mpJrdsr",
+          "end": 23,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1908350076755607842/photo/1",
+          "media_key": "3_1908350062897647616",
+          "start": 0,
+          "url": "https://t.co/0r7mpJrdsr"
+        },
+        {
+          "display_url": "pic.x.com/0r7mpJrdsr",
+          "end": 23,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1908350076755607842/photo/1",
+          "media_key": "3_1908350062893424642",
+          "start": 0,
+          "url": "https://t.co/0r7mpJrdsr"
+        },
+        {
+          "display_url": "pic.x.com/0r7mpJrdsr",
+          "end": 23,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1908350076755607842/photo/1",
+          "media_key": "3_1908350062893432832",
+          "start": 0,
+          "url": "https://t.co/0r7mpJrdsr"
+        },
+        {
+          "display_url": "pic.x.com/0r7mpJrdsr",
+          "end": 23,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1908350076755607842/photo/1",
+          "media_key": "3_1908350062889254912",
+          "start": 0,
+          "url": "https://t.co/0r7mpJrdsr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908350076755607842",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0r7mpJrdsr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1908350062897647616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnvSRXYb0AALg6X.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1908350062893424642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnvSRXXbYAIV7b7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1908350062893432832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnvSRXXbgAAG8hT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1908350062889254912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnvSRXWbwAAfViV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908350062897647616",
+            "3_1908350062893424642",
+            "3_1908350062893432832",
+            "3_1908350062889254912"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1908350076755607842",
+        "created_at": "2025-04-05T02:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T03:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908350076755607842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0r7mpJrdsr",
+              "end": 23,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1908350076755607842/photo/1",
+              "media_key": "3_1908350062897647616",
+              "start": 0,
+              "url": "https://t.co/0r7mpJrdsr"
+            },
+            {
+              "display_url": "pic.x.com/0r7mpJrdsr",
+              "end": 23,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1908350076755607842/photo/1",
+              "media_key": "3_1908350062893424642",
+              "start": 0,
+              "url": "https://t.co/0r7mpJrdsr"
+            },
+            {
+              "display_url": "pic.x.com/0r7mpJrdsr",
+              "end": 23,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1908350076755607842/photo/1",
+              "media_key": "3_1908350062893432832",
+              "start": 0,
+              "url": "https://t.co/0r7mpJrdsr"
+            },
+            {
+              "display_url": "pic.x.com/0r7mpJrdsr",
+              "end": 23,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1908350076755607842/photo/1",
+              "media_key": "3_1908350062889254912",
+              "start": 0,
+              "url": "https://t.co/0r7mpJrdsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908350076755607842",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0r7mpJrdsr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 1255,
+          "like_count": 6266,
+          "listed_count": 4,
+          "media_count": 495,
+          "tweet_count": 4347
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

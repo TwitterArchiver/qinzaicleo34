@@ -1,0 +1,233 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1791809437285617685",
+    "created_at": "2024-05-18T12:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T13:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791809437285617685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1109080684419670017",
+          "start": 3,
+          "username": "Arcee__RC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791809437285617685",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791798919518883890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Arcee__RC: 新的置顶\n你好，我叫阿尔茜，也可以谐音叫我RC。来源是我在某坑最喜欢的女角色\nod在戒，但出于情绪宣泄的需要，自残暂时戒不掉，也不想继续戒了\n重抑重焦/mtf/自毁倾向/尝试变成阳光健全人大失败/负面情绪增多/但我是个好女孩\n不喜欢骂我的/对我进行…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1791809437285617685",
+        "created_at": "2024-05-18T12:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T13:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791809437285617685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1109080684419670017",
+              "start": 3,
+              "username": "Arcee__RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791809437285617685",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791798919518883890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Arcee__RC: 新的置顶\n你好，我叫阿尔茜，也可以谐音叫我RC。来源是我在某坑最喜欢的女角色\nod在戒，但出于情绪宣泄的需要，自残暂时戒不掉，也不想继续戒了\n重抑重焦/mtf/自毁倾向/尝试变成阳光健全人大失败/负面情绪增多/但我是个好女孩\n不喜欢骂我的/对我进行…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791798906529239040",
+            "3_1791798912132739072",
+            "3_1791798916792651776"
+          ]
+        },
+        "author_id": "1109080684419670017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1791798919518883890",
+        "created_at": "2024-05-18T11:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T12:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791798919518883890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9jC6IZSB3j",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Arcee__RC/status/1791798919518883890/photo/1",
+              "media_key": "3_1791798906529239040",
+              "start": 146,
+              "url": "https://t.co/9jC6IZSB3j"
+            },
+            {
+              "display_url": "pic.twitter.com/9jC6IZSB3j",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Arcee__RC/status/1791798919518883890/photo/1",
+              "media_key": "3_1791798912132739072",
+              "start": 146,
+              "url": "https://t.co/9jC6IZSB3j"
+            },
+            {
+              "display_url": "pic.twitter.com/9jC6IZSB3j",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Arcee__RC/status/1791798919518883890/photo/1",
+              "media_key": "3_1791798916792651776",
+              "start": 146,
+              "url": "https://t.co/9jC6IZSB3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791798919518883890",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "新的置顶\n你好，我叫阿尔茜，也可以谐音叫我RC。来源是我在某坑最喜欢的女角色\nod在戒，但出于情绪宣泄的需要，自残暂时戒不掉，也不想继续戒了\n重抑重焦/mtf/自毁倾向/尝试变成阳光健全人大失败/负面情绪增多/但我是个好女孩\n不喜欢骂我的/对我进行荡妇羞辱的那些男的\n我想要互关，和女孩子玩 https://t.co/9jC6IZSB3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732605900987457536/msWoMCvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 1136,
+          "like_count": 4963,
+          "listed_count": 2,
+          "tweet_count": 3821
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "自我毁灭者。",
+        "id": "1109080684419670017",
+        "location": "旧萨雷安",
+        "name": "阿尔茜",
+        "pinned_tweet_id": "1791798919518883890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791431374664040448/FZKbtfy5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3757,
+          "following_count": 869,
+          "like_count": 15311,
+          "listed_count": 6,
+          "tweet_count": 9098
+        },
+        "username": "Arcee__RC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1820483076943966208",
+        "3_1820483077291884544"
+      ],
+      "media_source_tweet_id": [
+        "1820483086771257676",
+        "1820483086771257676"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1820483907927818529",
+    "created_at": "2024-08-05T15:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T16:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820483907927818529"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "量産型"
+        },
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "地雷系"
+        },
+        {
+          "end": 41,
+          "start": 35,
+          "tag": "地雷系女子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1547849777643024384",
+          "start": 3,
+          "username": "ringotokiakuma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Dd8H8DjbPZ",
+          "end": 65,
+          "expanded_url": "https://twitter.com/ringotokiakuma/status/1820483086771257676/photo/1",
+          "media_key": "3_1820483076943966208",
+          "start": 42,
+          "url": "https://t.co/Dd8H8DjbPZ"
+        },
+        {
+          "display_url": "pic.twitter.com/Dd8H8DjbPZ",
+          "end": 65,
+          "expanded_url": "https://twitter.com/ringotokiakuma/status/1820483086771257676/photo/1",
+          "media_key": "3_1820483077291884544",
+          "start": 42,
+          "url": "https://t.co/Dd8H8DjbPZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820483907927818529",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820483086771257676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ringotokiakuma: 我重新发\n#量産型 #地雷系 #地雷系女子 https://t.co/Dd8H8DjbPZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1820483076943966208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUOntpDa8AAb19g.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1820483077291884544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUOntqWXwAAQ4XF.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820483076943966208",
+            "3_1820483077291884544"
+          ],
+          "media_source_tweet_id": [
+            "1820483086771257676",
+            "1820483086771257676"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1820483907927818529",
+        "created_at": "2024-08-05T15:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T16:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820483907927818529"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "量産型"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "地雷系"
+            },
+            {
+              "end": 41,
+              "start": 35,
+              "tag": "地雷系女子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1547849777643024384",
+              "start": 3,
+              "username": "ringotokiakuma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Dd8H8DjbPZ",
+              "end": 65,
+              "expanded_url": "https://twitter.com/ringotokiakuma/status/1820483086771257676/photo/1",
+              "media_key": "3_1820483076943966208",
+              "start": 42,
+              "url": "https://t.co/Dd8H8DjbPZ"
+            },
+            {
+              "display_url": "pic.twitter.com/Dd8H8DjbPZ",
+              "end": 65,
+              "expanded_url": "https://twitter.com/ringotokiakuma/status/1820483086771257676/photo/1",
+              "media_key": "3_1820483077291884544",
+              "start": 42,
+              "url": "https://t.co/Dd8H8DjbPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820483907927818529",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820483086771257676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ringotokiakuma: 我重新发\n#量産型 #地雷系 #地雷系女子 https://t.co/Dd8H8DjbPZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820483076943966208",
+            "3_1820483077291884544"
+          ]
+        },
+        "author_id": "1547849777643024384",
+        "conversation_id": "1820483086771257676",
+        "created_at": "2024-08-05T15:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T16:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820483086771257676"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "量産型"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "地雷系"
+            },
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Dd8H8DjbPZ",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ringotokiakuma/status/1820483086771257676/photo/1",
+              "media_key": "3_1820483076943966208",
+              "start": 22,
+              "url": "https://t.co/Dd8H8DjbPZ"
+            },
+            {
+              "display_url": "pic.twitter.com/Dd8H8DjbPZ",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ringotokiakuma/status/1820483086771257676/photo/1",
+              "media_key": "3_1820483077291884544",
+              "start": 22,
+              "url": "https://t.co/Dd8H8DjbPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820483086771257676",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我重新发\n#量産型 #地雷系 #地雷系女子 https://t.co/Dd8H8DjbPZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801601829798547456/zY1ej4oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 1177,
+          "like_count": 5213,
+          "listed_count": 3,
+          "tweet_count": 3993
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T07:45:33.000Z",
+        "description": "トカイテイオの唯一の彼女(*´꒳`*)/星詠み/脆鲨",
+        "id": "1547849777643024384",
+        "name": "林檎toki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774011529211621376/02b_NyBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 447,
+          "like_count": 7480,
+          "listed_count": 0,
+          "tweet_count": 257
+        },
+        "username": "ringotokiakuma",
+        "verified": false
+      }
+    ]
+  }
+}

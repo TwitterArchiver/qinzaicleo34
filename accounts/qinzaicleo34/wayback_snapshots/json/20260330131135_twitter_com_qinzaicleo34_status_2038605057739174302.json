@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2038569796586062181",
+    "created_at": "2026-03-30T13:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038605057739174302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2505184092",
+          "start": 0,
+          "username": "Fumika_OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038605057739174302",
+    "in_reply_to_user_id": "2505184092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038569796586062181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fumika_OwO 我去妈妈你cos这个了！好伟大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2038569789803859968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEp0bEsaEAAXaKl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2038569789808107520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEp0bEta4AA711g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2038569796586062181",
+        "created_at": "2026-03-30T13:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038605057739174302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2505184092",
+              "start": 0,
+              "username": "Fumika_OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038605057739174302",
+        "in_reply_to_user_id": "2505184092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038569796586062181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fumika_OwO 我去妈妈你cos这个了！好伟大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038569789803859968",
+            "3_2038569789808107520"
+          ]
+        },
+        "author_id": "2505184092",
+        "conversation_id": "2038569796586062181",
+        "created_at": "2026-03-30T10:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038569796586062181"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "RE9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWtIH8plOP",
+              "end": 28,
+              "expanded_url": "https://x.com/Fumika_OwO/status/2038569796586062181/photo/1",
+              "media_key": "3_2038569789803859968",
+              "start": 5,
+              "url": "https://t.co/fWtIH8plOP"
+            },
+            {
+              "display_url": "pic.x.com/fWtIH8plOP",
+              "end": 28,
+              "expanded_url": "https://x.com/Fumika_OwO/status/2038569796586062181/photo/1",
+              "media_key": "3_2038569789808107520",
+              "start": 5,
+              "url": "https://t.co/fWtIH8plOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038569796586062181",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 555,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#RE9 https://t.co/fWtIH8plOP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1303,
+          "like_count": 6667,
+          "listed_count": 5,
+          "media_count": 577,
+          "tweet_count": 4594
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-18T18:30:52.000Z",
+        "description": "Cosplayer🇨🇳@MDY_White @VeryKuaiGaming /Apex Legends/2025 ALGS Sapporo official cosplayer/中文👌🏻English👌🏻日本語🤏🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "MDY_White"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "VeryKuaiGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/fumika_owo?r=n…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/fumika_owo?r=nametag",
+                "start": 0,
+                "url": "https://t.co/lG3F4NfU3j"
+              }
+            ]
+          }
+        },
+        "id": "2505184092",
+        "name": "Fumika病叶",
+        "pinned_tweet_id": "1887027199683043801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998724045660106755/xvYwUoH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9168,
+          "following_count": 370,
+          "like_count": 1072,
+          "listed_count": 42,
+          "media_count": 345,
+          "tweet_count": 1050
+        },
+        "url": "https://t.co/lG3F4NfU3j",
+        "username": "Fumika_OwO",
+        "verified": false
+      }
+    ]
+  }
+}

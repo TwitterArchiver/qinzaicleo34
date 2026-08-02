@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1870182505187553761",
+    "created_at": "2024-12-20T19:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T20:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870182505187553761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kirawontmiss/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/kirawontmiss/status/1869558577553342831",
+          "start": 9,
+          "url": "https://t.co/NAStCJBxyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870182505187553761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869558577553342831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像地平线传家宝… https://t.co/NAStCJBxyk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1870182505187553761",
+        "created_at": "2024-12-20T19:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T20:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870182505187553761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kirawontmiss/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kirawontmiss/status/1869558577553342831",
+              "start": 9,
+              "url": "https://t.co/NAStCJBxyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870182505187553761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869558577553342831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像地平线传家宝… https://t.co/NAStCJBxyk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869558574319304704"
+          ]
+        },
+        "author_id": "1471414739880189955",
+        "conversation_id": "1869558577553342831",
+        "created_at": "2024-12-19T01:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T02:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869558577553342831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tD5NzgaOmB",
+              "end": 25,
+              "expanded_url": "https://x.com/kirawontmiss/status/1869558577553342831/photo/1",
+              "media_key": "3_1869558574319304704",
+              "start": 2,
+              "url": "https://t.co/tD5NzgaOmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869558577553342831",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8223,
+          "impression_count": 6744193,
+          "like_count": 265097,
+          "quote_count": 897,
+          "reply_count": 1142,
+          "retweet_count": 14385
+        },
+        "reply_settings": "everyone",
+        "text": "ㅤ https://t.co/tD5NzgaOmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859511360343998464/1Kiem15I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 1243,
+          "like_count": 5604,
+          "listed_count": 3,
+          "media_count": 470,
+          "tweet_count": 4209
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T09:40:12.000Z",
+        "description": "self-proclaimed free thinker",
+        "id": "1471414739880189955",
+        "name": "kira 👾",
+        "pinned_tweet_id": "1869897177310322747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636443983990669326/xm-YehdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126641,
+          "following_count": 1579,
+          "like_count": 23119,
+          "listed_count": 3845,
+          "media_count": 6038,
+          "tweet_count": 18440
+        },
+        "username": "kirawontmiss",
+        "verified": true
+      }
+    ]
+  }
+}

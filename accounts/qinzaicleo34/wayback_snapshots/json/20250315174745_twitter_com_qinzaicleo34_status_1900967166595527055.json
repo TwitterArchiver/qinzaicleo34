@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1886656204715515993",
+    "created_at": "2025-03-15T17:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T18:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900967166595527055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "827434202748456960",
+          "start": 0,
+          "username": "mqtztsxy"
+        },
+        {
+          "end": 23,
+          "id": "4608972742",
+          "start": 10,
+          "username": "JustxUnlucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900967166595527055",
+    "in_reply_to_user_id": "827434202748456960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900967094877122845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mqtztsxy @JustxUnlucky 那很好了（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1886656204715515993",
+        "created_at": "2025-03-15T17:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T18:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900967166595527055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "827434202748456960",
+              "start": 0,
+              "username": "mqtztsxy"
+            },
+            {
+              "end": 23,
+              "id": "4608972742",
+              "start": 10,
+              "username": "JustxUnlucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900967166595527055",
+        "in_reply_to_user_id": "827434202748456960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900967094877122845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mqtztsxy @JustxUnlucky 那很好了（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "827434202748456960",
+        "conversation_id": "1886656204715515993",
+        "created_at": "2025-03-15T17:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T18:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900967094877122845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            },
+            {
+              "end": 27,
+              "id": "4608972742",
+              "start": 14,
+              "username": "JustxUnlucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900967094877122845",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900966286235942977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 @JustxUnlucky 跟unlucky有拍立得合影，他真的好香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1254,
+          "like_count": 6262,
+          "listed_count": 4,
+          "media_count": 489,
+          "tweet_count": 4324
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-03T08:31:01.000Z",
+        "description": "Горделивая поза больного шизофренией с бредовыми идеями величия.\n\n（一个有着妄想般的雄心壮志的精神分裂症患者，摆出骄傲的姿势。）\n提问箱https://t.co/kxDfisHacU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mqtztsxy",
+                "end": 124,
+                "expanded_url": "https://ngl.link/mqtztsxy",
+                "start": 101,
+                "url": "https://t.co/kxDfisHacU"
+              }
+            ]
+          }
+        },
+        "id": "827434202748456960",
+        "location": "切除前额叶手术台上",
+        "name": "(`・ω・´)",
+        "pinned_tweet_id": "1898584611078472124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894352957900251136/q5jC5vd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 1515,
+          "like_count": 82539,
+          "listed_count": 0,
+          "media_count": 1332,
+          "tweet_count": 26276
+        },
+        "username": "mqtztsxy",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-26T08:32:44.000Z",
+        "description": "20 🇦🇹| Pro Player for @theAllianceGG | @Twitch Partner | EWC Champion 🏆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "theAllianceGG"
+              },
+              {
+                "end": 46,
+                "start": 39,
+                "username": "Twitch"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/JustxUnlucky",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/JustxUnlucky",
+                "start": 0,
+                "url": "https://t.co/GCr3swUpKw"
+              }
+            ]
+          }
+        },
+        "id": "4608972742",
+        "location": "Austria",
+        "name": "Alliance Unlucky 🌹",
+        "pinned_tweet_id": "1820262879561425259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820428940709638144/AnWabcTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11576,
+          "following_count": 347,
+          "like_count": 11919,
+          "listed_count": 76,
+          "media_count": 841,
+          "tweet_count": 6973
+        },
+        "url": "https://t.co/GCr3swUpKw",
+        "username": "JustxUnlucky",
+        "verified": true
+      }
+    ]
+  }
+}

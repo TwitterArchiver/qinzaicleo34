@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1869281836696019436",
+    "created_at": "2024-12-18T07:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T08:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869281836696019436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qoodoll/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/qoodoll/status/1868731794868347298",
+          "start": 9,
+          "url": "https://t.co/Lxmcm1Slu6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869281836696019436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868731794868347298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我小号就长这样* https://t.co/Lxmcm1Slu6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1869281836696019436",
+        "created_at": "2024-12-18T07:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T08:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869281836696019436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qoodoll/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/qoodoll/status/1868731794868347298",
+              "start": 9,
+              "url": "https://t.co/Lxmcm1Slu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869281836696019436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868731794868347298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我小号就长这样* https://t.co/Lxmcm1Slu6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868731790501740544"
+          ]
+        },
+        "author_id": "1841980337116581888",
+        "conversation_id": "1868731794868347298",
+        "created_at": "2024-12-16T18:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T19:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868731794868347298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bfxktp3fg7",
+              "end": 48,
+              "expanded_url": "https://x.com/qoodoll/status/1868731794868347298/photo/1",
+              "media_key": "3_1868731790501740544",
+              "start": 25,
+              "url": "https://t.co/Bfxktp3fg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868731794868347298",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3750,
+          "impression_count": 1019847,
+          "like_count": 55141,
+          "quote_count": 1893,
+          "reply_count": 99,
+          "retweet_count": 12692
+        },
+        "reply_settings": "everyone",
+        "text": "what my priv sounds like https://t.co/Bfxktp3fg7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859511360343998464/1Kiem15I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 1242,
+          "like_count": 5654,
+          "listed_count": 3,
+          "media_count": 469,
+          "tweet_count": 4201
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T23:15:29.000Z",
+        "description": "I just kinda died for https://t.co/NAcb6e4dvJ You just kinda stared at https://t.co/uiKOhmwoy9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "you.⠀",
+                "end": 45,
+                "expanded_url": "http://you.xn--6ii/",
+                "start": 22,
+                "url": "https://t.co/NAcb6e4dvJ"
+              },
+              {
+                "display_url": "me.⠀",
+                "end": 94,
+                "expanded_url": "http://me.xn--6ii/",
+                "start": 71,
+                "url": "https://t.co/uiKOhmwoy9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qoodoll.straw.page",
+                "end": 23,
+                "expanded_url": "https://qoodoll.straw.page/",
+                "start": 0,
+                "url": "https://t.co/Zbf7HKhep0"
+              }
+            ]
+          }
+        },
+        "id": "1841980337116581888",
+        "location": "ic : @/lcttuve on tiktok",
+        "name": "ky🪽",
+        "pinned_tweet_id": "1865185849790386409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868999331056939008/yC3O0lEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 530,
+          "like_count": 15908,
+          "listed_count": 34,
+          "media_count": 1524,
+          "tweet_count": 12847
+        },
+        "url": "https://t.co/Zbf7HKhep0",
+        "username": "qoodoll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1944490428310737351",
+    "created_at": "2025-07-13T20:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T21:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944501518847386051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408511315417604097",
+          "start": 0,
+          "username": "PlayApexEsports"
+        },
+        {
+          "end": 32,
+          "id": "1809999270285897728",
+          "start": 17,
+          "username": "VeryKuaiGaming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944501518847386051",
+    "in_reply_to_user_id": "1408511315417604097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944490428310737351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PlayApexEsports @VeryKuaiGaming 爹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1944490129562771456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvw3eHHXoAAQp-S.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1944490428310737351",
+        "created_at": "2025-07-13T20:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T21:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944501518847386051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408511315417604097",
+              "start": 0,
+              "username": "PlayApexEsports"
+            },
+            {
+              "end": 32,
+              "id": "1809999270285897728",
+              "start": 17,
+              "username": "VeryKuaiGaming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944501518847386051",
+        "in_reply_to_user_id": "1408511315417604097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944490428310737351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlayApexEsports @VeryKuaiGaming 爹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944490129562771456"
+          ]
+        },
+        "author_id": "1408511315417604097",
+        "conversation_id": "1944490428310737351",
+        "created_at": "2025-07-13T20:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T21:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944490428310737351"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "MIDSEASON",
+              "probability": 0.374,
+              "start": 5,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 53,
+              "id": "1809999270285897728",
+              "start": 38,
+              "username": "VeryKuaiGaming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8X0AUxt49Y",
+              "end": 77,
+              "expanded_url": "https://x.com/PlayApexEsports/status/1944490428310737351/photo/1",
+              "media_key": "3_1944490129562771456",
+              "start": 54,
+              "url": "https://t.co/8X0AUxt49Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944490428310737351",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 42109,
+          "like_count": 1418,
+          "quote_count": 67,
+          "reply_count": 92,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "YOUR MIDSEASON PLAYOFFS CHAMPIONS ARE @VeryKuaiGaming https://t.co/8X0AUxt49Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1270,
+          "like_count": 6358,
+          "listed_count": 4,
+          "media_count": 524,
+          "tweet_count": 4432
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-25T19:45:55.000Z",
+        "description": "The official account for @PlayApex esports.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "PlayApex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "algs.ea.com",
+                "end": 23,
+                "expanded_url": "http://algs.ea.com",
+                "start": 0,
+                "url": "https://t.co/Xkh6SkPi1b"
+              }
+            ]
+          }
+        },
+        "id": "1408511315417604097",
+        "name": "Apex Legends Esports",
+        "pinned_tweet_id": "1944490428310737351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943290879382556679/uXRxYHQ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235494,
+          "following_count": 947,
+          "like_count": 8831,
+          "listed_count": 590,
+          "media_count": 6454,
+          "tweet_count": 8545
+        },
+        "url": "https://t.co/Xkh6SkPi1b",
+        "username": "PlayApexEsports",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-07T17:14:14.000Z",
+        "description": "VK GAMING official twitter account from APACS",
+        "id": "1809999270285897728",
+        "location": "香港",
+        "name": "VK Gaming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828807275747876864/GPYgrzQV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 111,
+          "like_count": 29,
+          "listed_count": 8,
+          "media_count": 12,
+          "tweet_count": 18
+        },
+        "username": "VeryKuaiGaming",
+        "verified": false
+      }
+    ]
+  }
+}

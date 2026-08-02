@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1982671460255555584"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1982671517898191232",
+    "created_at": "2025-10-27T04:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T05:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982671517898191232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FaOlKm885B",
+          "end": 31,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1982671517898191232/video/1",
+          "media_key": "13_1982671460255555584",
+          "start": 8,
+          "url": "https://t.co/FaOlKm885B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982671517898191232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天散步遇到的 https://t.co/FaOlKm885B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2138,
+        "height": 960,
+        "media_key": "13_1982671460255555584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982671460255555584/img/SPawRD2uMjq8mi_M.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982671460255555584/vid/avc1/320x426/D3eTFfcM3bL3gxoL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982671460255555584/vid/avc1/480x640/nvH4ahxnkk_tv9Gi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982671460255555584/vid/avc1/720x960/33aSVYz3cjUiv0ng.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982671460255555584/pl/kce5wbVW7zg8UQTM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982671460255555584"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1982671517898191232",
+        "created_at": "2025-10-27T04:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982671517898191232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FaOlKm885B",
+              "end": 31,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1982671517898191232/video/1",
+              "media_key": "13_1982671460255555584",
+              "start": 8,
+              "url": "https://t.co/FaOlKm885B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982671517898191232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天散步遇到的 https://t.co/FaOlKm885B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 1280,
+          "like_count": 6352,
+          "listed_count": 5,
+          "media_count": 550,
+          "tweet_count": 4507
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

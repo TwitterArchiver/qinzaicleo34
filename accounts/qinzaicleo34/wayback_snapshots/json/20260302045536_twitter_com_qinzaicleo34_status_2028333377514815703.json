@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2028333377514815703",
+    "created_at": "2026-03-02T04:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T05:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028333377514815703"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028333377514815703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "命运好像在重复自己\n我和对象暧昧的时候他上夜班 凌晨两点下班打电话一起聊天然后到互相都困了睡着\n今天在一起400天\n他又阴差阳错的上起了夜班然后凌晨两点下班 我还是这样等他下班和他打电话到我俩都困了一起睡\n一瞬间回到了暧昧的时候\n我在反反复复爱上他 真好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2028333377514815703",
+        "created_at": "2026-03-02T04:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028333377514815703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028333377514815703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "命运好像在重复自己\n我和对象暧昧的时候他上夜班 凌晨两点下班打电话一起聊天然后到互相都困了睡着\n今天在一起400天\n他又阴差阳错的上起了夜班然后凌晨两点下班 我还是这样等他下班和他打电话到我俩都困了一起睡\n一瞬间回到了暧昧的时候\n我在反反复复爱上他 真好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 1290,
+          "like_count": 6565,
+          "listed_count": 5,
+          "media_count": 572,
+          "tweet_count": 4562
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

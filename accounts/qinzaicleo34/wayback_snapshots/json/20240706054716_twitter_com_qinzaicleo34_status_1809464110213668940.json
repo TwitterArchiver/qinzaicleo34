@@ -1,0 +1,271 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1809301551480999936"
+      ],
+      "media_source_tweet_id": [
+        "1809301566349799765"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1809464110213668940",
+    "created_at": "2024-07-06T05:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T06:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809464110213668940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1567266626575138818",
+          "start": 3,
+          "username": "AuroraApex_GG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/OBJACeouJr",
+          "end": 42,
+          "expanded_url": "https://twitter.com/AuroraApex_GG/status/1809301566349799765/photo/1",
+          "media_key": "3_1809301551480999936",
+          "start": 19,
+          "url": "https://t.co/OBJACeouJr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809464110213668940",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809301566349799765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AuroraApex_GG: https://t.co/OBJACeouJr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1159,
+        "media_key": "3_1809301551480999936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRvuLMuWkAAUDsU.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809301551480999936"
+          ],
+          "media_source_tweet_id": [
+            "1809301566349799765"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1809464110213668940",
+        "created_at": "2024-07-06T05:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T06:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809464110213668940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1567266626575138818",
+              "start": 3,
+              "username": "AuroraApex_GG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OBJACeouJr",
+              "end": 42,
+              "expanded_url": "https://twitter.com/AuroraApex_GG/status/1809301566349799765/photo/1",
+              "media_key": "3_1809301551480999936",
+              "start": 19,
+              "url": "https://t.co/OBJACeouJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809464110213668940",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809301566349799765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AuroraApex_GG: https://t.co/OBJACeouJr"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809301551480999936"
+          ]
+        },
+        "author_id": "1567266626575138818",
+        "conversation_id": "1809301566349799765",
+        "created_at": "2024-07-05T19:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T20:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809301566349799765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OBJACeouJr",
+              "end": 23,
+              "expanded_url": "https://twitter.com/AuroraApex_GG/status/1809301566349799765/photo/1",
+              "media_key": "3_1809301551480999936",
+              "start": 0,
+              "url": "https://t.co/OBJACeouJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809301566349799765",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 153395,
+          "like_count": 2732,
+          "quote_count": 14,
+          "reply_count": 13,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OBJACeouJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801601829798547456/zY1ej4oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 1180,
+          "like_count": 5058,
+          "listed_count": 3,
+          "tweet_count": 3907
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T21:41:11.000Z",
+        "description": "Legends of @PlayApexEsports. Powered by @1xBet_Esports. My fellas @TheAurora_GG & @AuroraDota2_GG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "PlayApexEsports"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "1xBet_Esports"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "TheAurora_GG"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "AuroraDota2_GG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.auroragg.com",
+                "end": 23,
+                "expanded_url": "https://shop.auroragg.com/",
+                "start": 0,
+                "url": "https://t.co/hPZYcsMOnD"
+              }
+            ]
+          }
+        },
+        "id": "1567266626575138818",
+        "location": "Cenote Cave",
+        "name": "Aurora Apex",
+        "pinned_tweet_id": "1804882173578670133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750828056443342848/N6DcxtEV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10696,
+          "following_count": 212,
+          "like_count": 2055,
+          "listed_count": 23,
+          "tweet_count": 2120
+        },
+        "url": "https://t.co/hPZYcsMOnD",
+        "username": "AuroraApex_GG",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1890950707764744571",
+    "created_at": "2025-02-16T02:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T03:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890954699836174398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1530546999891828737",
+          "start": 0,
+          "username": "xzlqsaki_UvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890954699836174398",
+    "in_reply_to_user_id": "1530546999891828737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890954613206974847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzlqsaki_UvU 没关系我刷的也是…嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1890950707764744571",
+        "created_at": "2025-02-16T02:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T03:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890954699836174398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1530546999891828737",
+              "start": 0,
+              "username": "xzlqsaki_UvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890954699836174398",
+        "in_reply_to_user_id": "1530546999891828737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890954613206974847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzlqsaki_UvU 没关系我刷的也是…嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530546999891828737",
+        "conversation_id": "1890950707764744571",
+        "created_at": "2025-02-16T02:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T03:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890954613206974847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890954613206974847",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890952224819367976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 非常无助因为我想要主武啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 1257,
+          "like_count": 6124,
+          "listed_count": 3,
+          "media_count": 497,
+          "tweet_count": 4337
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T13:50:26.000Z",
+        "description": "欢迎来到我的日常UvU",
+        "id": "1530546999891828737",
+        "location": "ぜひ私を愛してくださいね……",
+        "name": "小泽saki",
+        "pinned_tweet_id": "1860534122189586854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844766873701036032/AgIo_TNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 148,
+          "like_count": 22398,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 3912
+        },
+        "username": "xzlqsaki_UvU",
+        "verified": false
+      }
+    ]
+  }
+}

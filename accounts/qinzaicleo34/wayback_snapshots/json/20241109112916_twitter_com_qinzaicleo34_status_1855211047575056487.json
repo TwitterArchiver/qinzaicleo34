@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1854833456913801353",
+    "created_at": "2024-11-09T11:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T12:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855211047575056487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786812512916344832",
+          "start": 0,
+          "username": "mana1973475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855211047575056487",
+    "in_reply_to_user_id": "1786812512916344832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855196260984115592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mana1973475 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1854833456913801353",
+        "created_at": "2024-11-09T11:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T12:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855211047575056487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786812512916344832",
+              "start": 0,
+              "username": "mana1973475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855211047575056487",
+        "in_reply_to_user_id": "1786812512916344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855196260984115592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mana1973475 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786812512916344832",
+        "conversation_id": "1854833456913801353",
+        "created_at": "2024-11-09T10:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T11:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855196260984115592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855196260984115592",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854833456913801353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 会哦，但就感觉蒙上一层雾 一样不真切"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1843190497806020863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853886553464172544/9HrvKCze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 1227,
+          "like_count": 5534,
+          "listed_count": 3,
+          "tweet_count": 4141
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T17:38:08.000Z",
+        "description": "蓝色天使neru和粉色恶魔绥的备忘录",
+        "id": "1786812512916344832",
+        "name": "MANA_IRL",
+        "pinned_tweet_id": "1855201968601645369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854567181574717441/59lNO-3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 86,
+          "like_count": 994,
+          "listed_count": 0,
+          "tweet_count": 561
+        },
+        "username": "mana1973475",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935686805132636160",
+        "3_1935686805182902272",
+        "3_1935686804960923648"
+      ],
+      "media_source_tweet_id": [
+        "1935687049430048867",
+        "1935687049430048867",
+        "1935687049430048867"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1935723755852136520",
+    "created_at": "2025-06-19T15:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T16:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935723755852136520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1886558549758894080",
+          "start": 3,
+          "username": "ffqngqng1551501"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eCJHCvK5Ne",
+          "end": 117,
+          "expanded_url": "https://x.com/ffqngqng1551501/status/1935687049430048867/photo/1",
+          "media_key": "3_1935686805132636160",
+          "start": 94,
+          "url": "https://t.co/eCJHCvK5Ne"
+        },
+        {
+          "display_url": "pic.x.com/eCJHCvK5Ne",
+          "end": 117,
+          "expanded_url": "https://x.com/ffqngqng1551501/status/1935687049430048867/photo/1",
+          "media_key": "3_1935686805182902272",
+          "start": 94,
+          "url": "https://t.co/eCJHCvK5Ne"
+        },
+        {
+          "display_url": "pic.x.com/eCJHCvK5Ne",
+          "end": 117,
+          "expanded_url": "https://x.com/ffqngqng1551501/status/1935687049430048867/photo/1",
+          "media_key": "3_1935686804960923648",
+          "start": 94,
+          "url": "https://t.co/eCJHCvK5Ne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935723755852136520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935687049430048867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ffqngqng1551501: 没钱od了，又来卖了30好友位/80陪聊/150线下纯绿半绿/300线下非绿/600包养，线下做你的电子猫娘 放几张自推的\n放几张自推的cOS喵 https://t.co/eCJHCvK5Ne"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1661,
+        "media_key": "3_1935686805132636160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtzw5MBXcAAl1-g.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1923,
+        "media_key": "3_1935686805182902272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtzw5MNWcAA8hde.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1685,
+        "media_key": "3_1935686804960923648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtzw5LYbUAAHmh4.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935686805132636160",
+            "3_1935686805182902272",
+            "3_1935686804960923648"
+          ],
+          "media_source_tweet_id": [
+            "1935687049430048867",
+            "1935687049430048867",
+            "1935687049430048867"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1935723755852136520",
+        "created_at": "2025-06-19T15:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T16:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935723755852136520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1886558549758894080",
+              "start": 3,
+              "username": "ffqngqng1551501"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCJHCvK5Ne",
+              "end": 117,
+              "expanded_url": "https://x.com/ffqngqng1551501/status/1935687049430048867/photo/1",
+              "media_key": "3_1935686805132636160",
+              "start": 94,
+              "url": "https://t.co/eCJHCvK5Ne"
+            },
+            {
+              "display_url": "pic.x.com/eCJHCvK5Ne",
+              "end": 117,
+              "expanded_url": "https://x.com/ffqngqng1551501/status/1935687049430048867/photo/1",
+              "media_key": "3_1935686805182902272",
+              "start": 94,
+              "url": "https://t.co/eCJHCvK5Ne"
+            },
+            {
+              "display_url": "pic.x.com/eCJHCvK5Ne",
+              "end": 117,
+              "expanded_url": "https://x.com/ffqngqng1551501/status/1935687049430048867/photo/1",
+              "media_key": "3_1935686804960923648",
+              "start": 94,
+              "url": "https://t.co/eCJHCvK5Ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935723755852136520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935687049430048867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ffqngqng1551501: 没钱od了，又来卖了30好友位/80陪聊/150线下纯绿半绿/300线下非绿/600包养，线下做你的电子猫娘 放几张自推的\n放几张自推的cOS喵 https://t.co/eCJHCvK5Ne"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935686805132636160",
+            "3_1935686805182902272",
+            "3_1935686804960923648"
+          ]
+        },
+        "author_id": "1886558549758894080",
+        "conversation_id": "1935687049430048867",
+        "created_at": "2025-06-19T13:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935687049430048867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCJHCvK5Ne",
+              "end": 96,
+              "expanded_url": "https://x.com/ffqngqng1551501/status/1935687049430048867/photo/1",
+              "media_key": "3_1935686805132636160",
+              "start": 73,
+              "url": "https://t.co/eCJHCvK5Ne"
+            },
+            {
+              "display_url": "pic.x.com/eCJHCvK5Ne",
+              "end": 96,
+              "expanded_url": "https://x.com/ffqngqng1551501/status/1935687049430048867/photo/1",
+              "media_key": "3_1935686805182902272",
+              "start": 73,
+              "url": "https://t.co/eCJHCvK5Ne"
+            },
+            {
+              "display_url": "pic.x.com/eCJHCvK5Ne",
+              "end": 96,
+              "expanded_url": "https://x.com/ffqngqng1551501/status/1935687049430048867/photo/1",
+              "media_key": "3_1935686804960923648",
+              "start": 73,
+              "url": "https://t.co/eCJHCvK5Ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935687049430048867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没钱od了，又来卖了30好友位/80陪聊/150线下纯绿半绿/300线下非绿/600包养，线下做你的电子猫娘 放几张自推的\n放几张自推的cOS喵 https://t.co/eCJHCvK5Ne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 1277,
+          "like_count": 6406,
+          "listed_count": 4,
+          "media_count": 519,
+          "tweet_count": 4421
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T23:33:16.000Z",
+        "description": "",
+        "id": "1886558549758894080",
+        "name": "清瑶3.0重生版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886558915292487680/X9OXchFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "ffqngqng1551501",
+        "verified": false
+      }
+    ]
+  }
+}

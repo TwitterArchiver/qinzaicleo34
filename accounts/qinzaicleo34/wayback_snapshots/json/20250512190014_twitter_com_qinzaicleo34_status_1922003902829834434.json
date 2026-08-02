@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1922003842235039744",
+        "13_1922003842025369600"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1922003902829834434",
+    "created_at": "2025-05-12T19:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T20:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922003902829834434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GGENgWieo7",
+          "end": 47,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1922003902829834434/video/1",
+          "media_key": "13_1922003842235039744",
+          "start": 24,
+          "url": "https://t.co/GGENgWieo7"
+        },
+        {
+          "display_url": "pic.x.com/GGENgWieo7",
+          "end": 47,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1922003902829834434/video/1",
+          "media_key": "13_1922003842025369600",
+          "start": 24,
+          "url": "https://t.co/GGENgWieo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922003902829834434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给朋友做的礼物 发这里一下捏 感觉自己可以接单 https://t.co/GGENgWieo7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4500,
+        "height": 960,
+        "media_key": "13_1922003842235039744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1922003842235039744/img/2Yg5sPlrJt-Dbzhr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922003842235039744/vid/avc1/320x426/1dm-2x8Gfgi5a1LN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922003842235039744/vid/avc1/480x640/49pvgD51soQYdQxl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922003842235039744/vid/avc1/720x960/LOZF2f7ht803w1VZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1922003842235039744/pl/eFum5X9nSvBohipM.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3966,
+        "height": 960,
+        "media_key": "13_1922003842025369600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1922003842025369600/img/3_zCEEIN704jsQwp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922003842025369600/vid/avc1/320x426/hVtQk7cAyzzPd4fq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922003842025369600/vid/avc1/480x640/Fz4-jXVIbQdcv78p.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922003842025369600/vid/avc1/720x960/pIGCDmG0CztxJuzr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1922003842025369600/pl/lJxSyLrKvRC6I1Hd.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922003842235039744",
+            "13_1922003842025369600"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1922003902829834434",
+        "created_at": "2025-05-12T19:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T20:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922003902829834434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGENgWieo7",
+              "end": 47,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1922003902829834434/video/1",
+              "media_key": "13_1922003842235039744",
+              "start": 24,
+              "url": "https://t.co/GGENgWieo7"
+            },
+            {
+              "display_url": "pic.x.com/GGENgWieo7",
+              "end": 47,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1922003902829834434/video/1",
+              "media_key": "13_1922003842025369600",
+              "start": 24,
+              "url": "https://t.co/GGENgWieo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922003902829834434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给朋友做的礼物 发这里一下捏 感觉自己可以接单 https://t.co/GGENgWieo7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 1274,
+          "like_count": 6381,
+          "listed_count": 4,
+          "media_count": 507,
+          "tweet_count": 4395
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

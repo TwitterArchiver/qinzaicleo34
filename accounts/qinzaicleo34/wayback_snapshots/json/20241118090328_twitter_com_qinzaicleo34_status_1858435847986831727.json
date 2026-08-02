@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1858435059503735206",
+    "created_at": "2024-11-18T09:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T10:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858435847986831727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1530546999891828737",
+          "start": 0,
+          "username": "xzlqsaki_UvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858435847986831727",
+    "in_reply_to_user_id": "1530546999891828737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858435059503735206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzlqsaki_UvU 老师 打瓦吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1858435059503735206",
+        "created_at": "2024-11-18T09:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T10:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858435847986831727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1530546999891828737",
+              "start": 0,
+              "username": "xzlqsaki_UvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858435847986831727",
+        "in_reply_to_user_id": "1530546999891828737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858435059503735206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzlqsaki_UvU 老师 打瓦吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858435052604182528"
+          ]
+        },
+        "author_id": "1530546999891828737",
+        "conversation_id": "1858435059503735206",
+        "created_at": "2024-11-18T09:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T10:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858435059503735206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKw3AhwWZY",
+              "end": 34,
+              "expanded_url": "https://x.com/xzlqsaki_UvU/status/1858435059503735206/photo/1",
+              "media_key": "3_1858435052604182528",
+              "start": 11,
+              "url": "https://t.co/jKw3AhwWZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858435059503735206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越来越无法理解的私信 https://t.co/jKw3AhwWZY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1843190497806020863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853886553464172544/9HrvKCze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 1233,
+          "like_count": 5558,
+          "listed_count": 3,
+          "tweet_count": 4151
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T13:50:26.000Z",
+        "description": "欢迎来到我的日常",
+        "id": "1530546999891828737",
+        "location": "ぜひ私を愛してくださいね……",
+        "name": "小泽咪咪喵喵咪",
+        "pinned_tweet_id": "1772546480772919370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844766873701036032/AgIo_TNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 148,
+          "like_count": 20071,
+          "listed_count": 3,
+          "tweet_count": 3463
+        },
+        "username": "xzlqsaki_UvU",
+        "verified": false
+      }
+    ]
+  }
+}

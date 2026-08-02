@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1875508560077189432",
+    "created_at": "2025-01-04T21:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T22:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875651668001615995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1443512688475136000",
+          "start": 0,
+          "username": "kaelthasarls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875651668001615995",
+    "in_reply_to_user_id": "1443512688475136000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875569432719978780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaelthasarls 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1875508560077189432",
+        "created_at": "2025-01-04T21:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T22:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875651668001615995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443512688475136000",
+              "start": 0,
+              "username": "kaelthasarls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875651668001615995",
+        "in_reply_to_user_id": "1443512688475136000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875569432719978780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaelthasarls 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443512688475136000",
+        "conversation_id": "1875508560077189432",
+        "created_at": "2025-01-04T15:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T16:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875569432719978780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875569432719978780",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875508560077189432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 是奶龙！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 1250,
+          "like_count": 5807,
+          "listed_count": 3,
+          "media_count": 475,
+          "tweet_count": 4248
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T09:47:14.000Z",
+        "description": "一拳打飞！",
+        "id": "1443512688475136000",
+        "name": "永誓追忆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767426710990139392/c3aEcSE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 38,
+          "like_count": 13027,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 7136
+        },
+        "username": "kaelthasarls",
+        "verified": false
+      }
+    ]
+  }
+}

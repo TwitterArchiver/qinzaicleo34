@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1893937134052020504",
+    "created_at": "2025-02-24T09:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T10:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893954570583200225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718828295981060096",
+          "start": 0,
+          "username": "Fengge12349373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893954570583200225",
+    "in_reply_to_user_id": "1718828295981060096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893942519748079810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fengge12349373 我主要是不玩微信www 每天可以找我聊天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 350,
+        "media_key": "3_1893942516455763968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkiiryZa8AAakYS.jpg",
+        "width": 408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1893937134052020504",
+        "created_at": "2025-02-24T09:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T10:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893954570583200225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718828295981060096",
+              "start": 0,
+              "username": "Fengge12349373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893954570583200225",
+        "in_reply_to_user_id": "1718828295981060096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893942519748079810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fengge12349373 我主要是不玩微信www 每天可以找我聊天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893942516455763968"
+          ]
+        },
+        "author_id": "1718828295981060096",
+        "conversation_id": "1893937134052020504",
+        "created_at": "2025-02-24T08:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T09:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893942519748079810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrIvPokpNE",
+              "end": 37,
+              "expanded_url": "https://x.com/Fengge12349373/status/1893942519748079810/photo/1",
+              "media_key": "3_1893942516455763968",
+              "start": 14,
+              "url": "https://t.co/PrIvPokpNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893942519748079810",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893937134052020504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 https://t.co/PrIvPokpNE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 1253,
+          "like_count": 6152,
+          "listed_count": 4,
+          "media_count": 499,
+          "tweet_count": 4349
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T03:13:00.000Z",
+        "description": "妮白的拖更小窝O(∩_∩)O",
+        "id": "1718828295981060096",
+        "name": "总爱拖更的妮白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758612539976622080/ETxKeu6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 333,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 66
+        },
+        "username": "Fengge12349373",
+        "verified": false
+      }
+    ]
+  }
+}

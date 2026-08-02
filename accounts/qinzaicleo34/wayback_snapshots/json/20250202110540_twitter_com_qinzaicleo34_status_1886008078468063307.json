@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1885901640647221520",
+    "created_at": "2025-02-02T11:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T12:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886008078468063307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1494910032051249155",
+          "start": 0,
+          "username": "OaOeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886008078468063307",
+    "in_reply_to_user_id": "1494910032051249155",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886008004967067969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OaOeon 😾☝️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1885901640647221520",
+        "created_at": "2025-02-02T11:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T12:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886008078468063307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1494910032051249155",
+              "start": 0,
+              "username": "OaOeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886008078468063307",
+        "in_reply_to_user_id": "1494910032051249155",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886008004967067969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OaOeon 😾☝️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494910032051249155",
+        "conversation_id": "1885901640647221520",
+        "created_at": "2025-02-02T11:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T12:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886008004967067969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886008004967067969",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885901640647221520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 哇喔 好帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 1252,
+          "like_count": 6046,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 4308
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-19T05:41:48.000Z",
+        "description": "浑身上下散发着一股班味的死人  喜欢库库点赞",
+        "id": "1494910032051249155",
+        "location": "0.78km",
+        "name": "维他青梅乌龙茶",
+        "pinned_tweet_id": "1760702458844827742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850481142048473089/em0BS0i4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 479,
+          "like_count": 30978,
+          "listed_count": 3,
+          "media_count": 531,
+          "tweet_count": 3840
+        },
+        "username": "OaOeon",
+        "verified": false
+      }
+    ]
+  }
+}

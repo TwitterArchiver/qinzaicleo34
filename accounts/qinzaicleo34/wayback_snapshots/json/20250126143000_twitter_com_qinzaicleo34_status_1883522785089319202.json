@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883522775094267904",
+        "3_1883522775090069504",
+        "3_1883522775085907968"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1883522785089319202",
+    "created_at": "2025-01-26T14:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T15:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883522785089319202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FyTGdB1Gjn",
+          "end": 27,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1883522785089319202/photo/1",
+          "media_key": "3_1883522775094267904",
+          "start": 4,
+          "url": "https://t.co/FyTGdB1Gjn"
+        },
+        {
+          "display_url": "pic.x.com/FyTGdB1Gjn",
+          "end": 27,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1883522785089319202/photo/1",
+          "media_key": "3_1883522775090069504",
+          "start": 4,
+          "url": "https://t.co/FyTGdB1Gjn"
+        },
+        {
+          "display_url": "pic.x.com/FyTGdB1Gjn",
+          "end": 27,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1883522785089319202/photo/1",
+          "media_key": "3_1883522775085907968",
+          "start": 4,
+          "url": "https://t.co/FyTGdB1Gjn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883522785089319202",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "^-^ https://t.co/FyTGdB1Gjn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1883522785089319202].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1883522785089319202",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1883522785089319202"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1883522775094267904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiOd_A_aEAA8E08.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1883522775090069504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiOd_A-aAAAoOvO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1883522775085907968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiOd_A9agAAFS7a.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/注意看我后缀好吗好的",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 1252,
+          "like_count": 5971,
+          "listed_count": 3,
+          "media_count": 484,
+          "tweet_count": 4283
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

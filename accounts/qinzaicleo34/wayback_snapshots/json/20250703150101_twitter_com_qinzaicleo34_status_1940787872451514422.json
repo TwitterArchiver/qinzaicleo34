@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940787858056368129"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1940787872451514422",
+    "created_at": "2025-07-03T15:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T16:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940787872451514422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g3NLUXTSHu",
+          "end": 30,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1940787872451514422/photo/1",
+          "media_key": "3_1940787858056368129",
+          "start": 7,
+          "url": "https://t.co/g3NLUXTSHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940787872451514422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点像飞天狙 https://t.co/g3NLUXTSHu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1940787858056368129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu8QRi_XUAEsF-r.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940787858056368129"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1940787872451514422",
+        "created_at": "2025-07-03T15:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T16:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940787872451514422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3NLUXTSHu",
+              "end": 30,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1940787872451514422/photo/1",
+              "media_key": "3_1940787858056368129",
+              "start": 7,
+              "url": "https://t.co/g3NLUXTSHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940787872451514422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点像飞天狙 https://t.co/g3NLUXTSHu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1272,
+          "like_count": 6423,
+          "listed_count": 4,
+          "media_count": 522,
+          "tweet_count": 4428
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

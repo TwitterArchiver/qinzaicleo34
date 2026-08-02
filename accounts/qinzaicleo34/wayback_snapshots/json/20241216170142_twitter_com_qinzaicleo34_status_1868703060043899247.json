@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868093925728174080"
+      ],
+      "media_source_tweet_id": [
+        "1868093928848916573"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1868703060043899247",
+    "created_at": "2024-12-16T17:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T18:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868703060043899247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744394412438786049",
+          "start": 3,
+          "username": "kunstkys"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BpDpfVva7z",
+          "end": 37,
+          "expanded_url": "https://x.com/kunstkys/status/1868093928848916573/photo/1",
+          "media_key": "3_1868093925728174080",
+          "start": 14,
+          "url": "https://t.co/BpDpfVva7z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868703060043899247",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 396
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868093928848916573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kunstkys: https://t.co/BpDpfVva7z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 565,
+        "media_key": "3_1868093925728174080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GezNhyIXwAAKtaS.jpg",
+        "width": 563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868093925728174080"
+          ],
+          "media_source_tweet_id": [
+            "1868093928848916573"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1868703060043899247",
+        "created_at": "2024-12-16T17:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T18:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868703060043899247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744394412438786049",
+              "start": 3,
+              "username": "kunstkys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BpDpfVva7z",
+              "end": 37,
+              "expanded_url": "https://x.com/kunstkys/status/1868093928848916573/photo/1",
+              "media_key": "3_1868093925728174080",
+              "start": 14,
+              "url": "https://t.co/BpDpfVva7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868703060043899247",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868093928848916573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kunstkys: https://t.co/BpDpfVva7z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868093925728174080"
+          ]
+        },
+        "author_id": "1744394412438786049",
+        "conversation_id": "1868093928848916573",
+        "created_at": "2024-12-15T00:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T01:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868093928848916573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BpDpfVva7z",
+              "end": 23,
+              "expanded_url": "https://x.com/kunstkys/status/1868093928848916573/photo/1",
+              "media_key": "3_1868093925728174080",
+              "start": 0,
+              "url": "https://t.co/BpDpfVva7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868093928848916573",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 22974,
+          "like_count": 1924,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 396
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BpDpfVva7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1868232082876678611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859511360343998464/1Kiem15I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 1242,
+          "like_count": 5653,
+          "listed_count": 3,
+          "media_count": 469,
+          "tweet_count": 4199
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T16:23:49.000Z",
+        "description": "",
+        "id": "1744394412438786049",
+        "location": "él",
+        "name": "val",
+        "pinned_tweet_id": "1863900391970136480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866680715414253569/rXANOZJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 142,
+          "like_count": 3445,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 601
+        },
+        "username": "kunstkys",
+        "verified": false
+      }
+    ]
+  }
+}

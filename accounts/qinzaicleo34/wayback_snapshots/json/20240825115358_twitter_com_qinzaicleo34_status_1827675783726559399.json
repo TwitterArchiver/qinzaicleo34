@@ -1,0 +1,609 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1095327230433972227",
+          "name": "Apex Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1095327230433972227",
+          "name": "Apex Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1827675502951211359",
+    "created_at": "2024-08-25T11:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T12:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827675783726559399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2505184092",
+          "start": 0,
+          "username": "Fumika_OwO"
+        },
+        {
+          "end": 21,
+          "id": "1048018930785083392",
+          "start": 12,
+          "username": "PlayApex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827675783726559399",
+    "in_reply_to_user_id": "2505184092",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827675502951211359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fumika_OwO @PlayApex 好美…妈妈你是一款现实中的恶灵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1827675502951211359",
+        "created_at": "2024-08-25T11:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T12:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827675783726559399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2505184092",
+              "start": 0,
+              "username": "Fumika_OwO"
+            },
+            {
+              "end": 21,
+              "id": "1048018930785083392",
+              "start": 12,
+              "username": "PlayApex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827675783726559399",
+        "in_reply_to_user_id": "2505184092",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827675502951211359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fumika_OwO @PlayApex 好美…妈妈你是一款现实中的恶灵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827675488502042624"
+          ]
+        },
+        "author_id": "2505184092",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1827675502951211359",
+        "created_at": "2024-08-25T11:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T12:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827675502951211359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 64,
+              "tag": "ApexLegends"
+            },
+            {
+              "end": 95,
+              "start": 77,
+              "tag": "ApexLegendsFanart"
+            },
+            {
+              "end": 104,
+              "start": 96,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 42,
+              "id": "2505184092",
+              "start": 31,
+              "username": "Fumika_OwO"
+            },
+            {
+              "end": 62,
+              "id": "1048018930785083392",
+              "start": 53,
+              "username": "PlayApex"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zui2fng6wk",
+              "end": 128,
+              "expanded_url": "https://twitter.com/Fumika_OwO/status/1827675502951211359/photo/1",
+              "media_key": "3_1827675488502042624",
+              "start": 105,
+              "url": "https://t.co/zUi2fNg6Wk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827675502951211359",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "\"Listen - and fight.\"\n\nWraith: @Fumika_OwO \n📷: 照桥染柒\n\n@PlayApex \n#ApexLegends #ApexLegendsFanart #cosplay https://t.co/zUi2fNg6Wk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801601829798547456/zY1ej4oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 1190,
+          "like_count": 5292,
+          "listed_count": 3,
+          "tweet_count": 4035
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-18T18:30:52.000Z",
+        "description": "Cosplayer🇨🇳@MDY_White /The Liberator Wraith cosplayer in Asia Fes 2024/Apex Legends/中文☺️English🥲日本語🥲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "MDY_White"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/fumika_owo?r=n…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/fumika_owo?r=nametag",
+                "start": 0,
+                "url": "https://t.co/lG3F4NfmdL"
+              }
+            ]
+          }
+        },
+        "id": "2505184092",
+        "name": "Fumika病叶",
+        "pinned_tweet_id": "1702988470229372932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823063495157665793/ezrQDDF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3014,
+          "following_count": 245,
+          "like_count": 518,
+          "listed_count": 9,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/lG3F4NfmdL",
+        "username": "Fumika_OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T01:15:59.000Z",
+        "description": "Free-to-play hero shooter on PlayStation, Xbox, PC & Switch \nESRB Rating T for Teen: Blood and Violence \nOptional in-game purchases (includes random items)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "playapex.com",
+                "end": 23,
+                "expanded_url": "http://playapex.com",
+                "start": 0,
+                "url": "https://t.co/np2jIcgGfj"
+              }
+            ]
+          }
+        },
+        "id": "1048018930785083392",
+        "location": "The Outlands",
+        "name": "Apex Legends",
+        "pinned_tweet_id": "1826291735305318643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820874610017001472/XvL4_tmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4093585,
+          "following_count": 241,
+          "like_count": 11812,
+          "listed_count": 4982,
+          "tweet_count": 17861
+        },
+        "url": "https://t.co/np2jIcgGfj",
+        "username": "PlayApex",
+        "verified": true
+      }
+    ]
+  }
+}

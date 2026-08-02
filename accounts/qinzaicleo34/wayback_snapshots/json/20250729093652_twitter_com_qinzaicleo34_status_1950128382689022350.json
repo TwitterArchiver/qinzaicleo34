@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950128374132957185",
+        "3_1950128374103625731",
+        "3_1950128374153879552"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "1950128382689022350",
+    "created_at": "2025-07-29T09:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T10:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950128382689022350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hOxRSKqzh6",
+          "end": 40,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1950128382689022350/photo/1",
+          "media_key": "3_1950128374132957185",
+          "start": 17,
+          "url": "https://t.co/hOxRSKqzh6"
+        },
+        {
+          "display_url": "pic.x.com/hOxRSKqzh6",
+          "end": 40,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1950128382689022350/photo/1",
+          "media_key": "3_1950128374103625731",
+          "start": 17,
+          "url": "https://t.co/hOxRSKqzh6"
+        },
+        {
+          "display_url": "pic.x.com/hOxRSKqzh6",
+          "end": 40,
+          "expanded_url": "https://x.com/qinzaicleo34/status/1950128382689022350/photo/1",
+          "media_key": "3_1950128374153879552",
+          "start": 17,
+          "url": "https://t.co/hOxRSKqzh6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950128382689022350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在雨里牵手遇到小猫并且一起回家吧 https://t.co/hOxRSKqzh6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950128374132957185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxA_bI6a4AE5pV3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950128374103625731",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxA_bIzbUAMrhc5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950128374153879552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxA_bI_aIAA0kKX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950128374132957185",
+            "3_1950128374103625731",
+            "3_1950128374153879552"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "1950128382689022350",
+        "created_at": "2025-07-29T09:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T10:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950128382689022350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOxRSKqzh6",
+              "end": 40,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1950128382689022350/photo/1",
+              "media_key": "3_1950128374132957185",
+              "start": 17,
+              "url": "https://t.co/hOxRSKqzh6"
+            },
+            {
+              "display_url": "pic.x.com/hOxRSKqzh6",
+              "end": 40,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1950128382689022350/photo/1",
+              "media_key": "3_1950128374103625731",
+              "start": 17,
+              "url": "https://t.co/hOxRSKqzh6"
+            },
+            {
+              "display_url": "pic.x.com/hOxRSKqzh6",
+              "end": 40,
+              "expanded_url": "https://x.com/qinzaicleo34/status/1950128382689022350/photo/1",
+              "media_key": "3_1950128374153879552",
+              "start": 17,
+              "url": "https://t.co/hOxRSKqzh6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950128382689022350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在雨里牵手遇到小猫并且一起回家吧 https://t.co/hOxRSKqzh6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1272,
+          "like_count": 6390,
+          "listed_count": 4,
+          "media_count": 531,
+          "tweet_count": 4459
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      }
+    ]
+  }
+}

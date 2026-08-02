@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "1836299192572256260",
+    "created_at": "2024-09-18T07:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T08:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836299192572256260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1818107582117994496",
+          "start": 3,
+          "username": "CypressAlbert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836299192572256260",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835997850150309999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CypressAlbert: 抽奖帖\n大家好我是柏树！我5.0推特号又不能用了😭而且正好今天我爸给我爆金币了😋所以来抽个奖顺便找找以前互关🥺\n点赞关注转发🐱抽3个88的红包🧧\n（中奖结果会以私信的方式告知请打开私信否则视为放弃资格）\n祝大家中秋节快乐！🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "1836299192572256260",
+        "created_at": "2024-09-18T07:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T08:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836299192572256260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1818107582117994496",
+              "start": 3,
+              "username": "CypressAlbert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836299192572256260",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835997850150309999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CypressAlbert: 抽奖帖\n大家好我是柏树！我5.0推特号又不能用了😭而且正好今天我爸给我爆金币了😋所以来抽个奖顺便找找以前互关🥺\n点赞关注转发🐱抽3个88的红包🧧\n（中奖结果会以私信的方式告知请打开私信否则视为放弃资格）\n祝大家中秋节快乐！🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818107582117994496",
+        "conversation_id": "1835997850150309999",
+        "created_at": "2024-09-17T11:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T12:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835997850150309999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835997850150309999",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12265,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖帖\n大家好我是柏树！我5.0推特号又不能用了😭而且正好今天我爸给我爆金币了😋所以来抽个奖顺便找找以前互关🥺\n点赞关注转发🐱抽3个88的红包🧧\n（中奖结果会以私信的方式告知请打开私信否则视为放弃资格）\n祝大家中秋节快乐！🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/在谈恋爱/@Romanitic3144是我的最好的男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Romanitic3144"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "location": "狗狗宝座",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1787838148015468738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830331742571696129/e8uXvciC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 1217,
+          "like_count": 5368,
+          "listed_count": 3,
+          "tweet_count": 4058
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T02:13:32.000Z",
+        "description": "精神状态是量子叠加态|成分复杂|分裂情感性障碍|脑子有病|17岁苦逼高中生|INFJ-5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫，代词随意|大概率回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论别来犯贱|看我不爽建议您去死捏|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 139,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p/DABgbQ6vuqF/…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/p/DABgbQ6vuqF/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+                "start": 0,
+                "url": "https://t.co/2DAglc5VjK"
+              }
+            ]
+          }
+        },
+        "id": "1818107582117994496",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树（又双叒叕重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602959516409856/nwmpqBZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 234,
+          "like_count": 448,
+          "listed_count": 0,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/2DAglc5VjK",
+        "username": "CypressAlbert",
+        "verified": false
+      }
+    ]
+  }
+}

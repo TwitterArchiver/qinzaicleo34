@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2001971068404371668",
+    "created_at": "2025-12-19T13:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T14:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002012719197847866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1686671929540042752",
+          "start": 0,
+          "username": "Rinko_Boquette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002012719197847866",
+    "in_reply_to_user_id": "1686671929540042752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002012486216901082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_Boquette 我觉得偶尔会抽风就和他的服务器一样的 这个游戏有些时候设计像嗑大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2001971068404371668",
+        "created_at": "2025-12-19T13:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002012719197847866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1686671929540042752",
+              "start": 0,
+              "username": "Rinko_Boquette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002012719197847866",
+        "in_reply_to_user_id": "1686671929540042752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002012486216901082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_Boquette 我觉得偶尔会抽风就和他的服务器一样的 这个游戏有些时候设计像嗑大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686671929540042752",
+        "conversation_id": "2001971068404371668",
+        "created_at": "2025-12-19T13:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002012486216901082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002012486216901082",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002010322304135172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 至少好的时候是真挺好看\n神鬼二象性这一块让我不禁感叹皮肤是不是全是外包设计的一来到respawn自己设计就超级沟槽大王了😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/双相+焦虑/中文👌英语👌/无言fo高手/apex痴呆脑/🚪60/04留学生/骂我给我打钱/我是博美/爱男友…男友不可以离开我哦",
+        "id": "1598702105220599809",
+        "location": "狗狗宝座🩶🩷",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 1283,
+          "like_count": 6421,
+          "listed_count": 5,
+          "media_count": 561,
+          "tweet_count": 4539
+        },
+        "username": "qinzaicleo34",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T09:37:41.000Z",
+        "description": "普通面包师/desu.life device荣誉客服/20+k击杀华森/Apex单排多赛季大师/臭点小球的                 只爱做点自己喜欢的事儿，以及是一个喜欢自我内耗的烂好人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "desu.life",
+                "end": 23,
+                "expanded_url": "http://desu.life",
+                "start": 0,
+                "url": "https://t.co/cqoLugYjEr"
+              }
+            ]
+          }
+        },
+        "id": "1686671929540042752",
+        "location": "北京市黄天南网络科技有限公司",
+        "name": "Rinko7614",
+        "pinned_tweet_id": "1997230939123102049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998335938729242624/4sUDhynY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 99,
+          "like_count": 503,
+          "listed_count": 1,
+          "media_count": 610,
+          "tweet_count": 2698
+        },
+        "url": "https://t.co/cqoLugYjEr",
+        "username": "Rinko_Boquette",
+        "verified": false
+      }
+    ]
+  }
+}
