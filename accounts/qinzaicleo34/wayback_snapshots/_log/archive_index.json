@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T00:42:23",
+  "last_updated": "2026-08-02T00:43:14",
   "html": {
     "https://web.archive.org/web/20240511182907if_/https://twitter.com/qinzaicleo34/status/1789362113305301216": {
       "status": "done",
@@ -7825,9 +7825,9 @@
       "referenced_by": [
         "20240527162942_twitter_com_qinzaicleo34_status_1795130268279267427.json"
       ],
-      "last_updated": "2026-08-02T00:21:35",
+      "last_updated": "2026-08-02T00:43:10",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240527162942/https://video.twimg.com/ext_tw_video/1710194211730132993/pu/vid/avc1/720x1280/E6br8s5D_q2YJjYC.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/1803243110883106816/pu/vid/avc1/960x544/ipAEY4sf8F2Tsdvd.mp4?tag=12": {
       "status": "done",
@@ -7890,9 +7890,9 @@
       "referenced_by": [
         "20241007072354_twitter_com_qinzaicleo34_status_1843190497806020863.json"
       ],
-      "last_updated": "2026-08-02T00:21:36",
+      "last_updated": "2026-08-02T00:43:12",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20241007072354/https://video.twimg.com/ext_tw_video/1843190451823951872/pu/vid/avc1/544x720/WzXSQt0XuzCCOsCP.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/1846220538856767488/pu/vid/avc1/720x1280/mtkyED7lUgGO_YYv.mp4?tag=12": {
       "status": "done",
@@ -7948,9 +7948,9 @@
       "referenced_by": [
         "20250422070326_twitter_com_qinzaicleo34_status_1914575757885456424.json"
       ],
-      "last_updated": "2026-08-02T00:21:36",
+      "last_updated": "2026-08-02T00:43:14",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250422070326/https://video.twimg.com/amplify_video/1914575155260743683/vid/avc1/720x1280/v3jBsavyj_B4x-Tj.mp4?tag=14",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1917971060835663872/vid/avc1/500x498/Zm78IJYRtltxW0_J.mp4?tag=16": {
       "status": "done",
