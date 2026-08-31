@@ -1,0 +1,641 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1095327230433972227",
+          "name": "Apex Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1095327230433972227",
+          "name": "Apex Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2090609763470192930",
+    "created_at": "2026-08-21T01:19:43.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090609763470192930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ttv_bolin/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/ttv_bolin/status/2090591785110450335",
+          "start": 13,
+          "url": "https://t.co/aEQYdXj9dH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090609763470192930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090591785110450335",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "apex笑话之职业被封号 https://t.co/aEQYdXj9dH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 649,
+        "media_key": "3_2090591772187713536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNGI--aYAAvdGw.png",
+        "width": 889
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2090591772204498944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNGI_CagAA22-c.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2880,
+        "media_key": "3_2090591772607188992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNGJAibEAA3KjR.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2090609763470192930",
+        "created_at": "2026-08-21T01:19:43.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090609763470192930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ttv_bolin/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ttv_bolin/status/2090591785110450335",
+              "start": 13,
+              "url": "https://t.co/aEQYdXj9dH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090609763470192930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090591785110450335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "apex笑话之职业被封号 https://t.co/aEQYdXj9dH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090591772187713536",
+            "3_2090591772204498944",
+            "3_2090591772607188992"
+          ]
+        },
+        "author_id": "1472723323880865794",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2090591785110450335",
+        "created_at": "2026-08-21T00:08:17.000Z",
+        "display_text_range": [
+          0,
+          175
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090591785110450335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 175,
+              "id": "1048018930785083392",
+              "start": 166,
+              "username": "PlayApex"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "liquipedia.net/apexlegends/Bo…",
+              "end": 50,
+              "expanded_url": "https://liquipedia.net/apexlegends/BoLin",
+              "start": 27,
+              "status": 200,
+              "title": "BoLin - Liquipedia Apex Legends Wiki",
+              "unwound_url": "https://liquipedia.net/apexlegends/BoLin",
+              "url": "https://t.co/NLcPGEoVdn"
+            },
+            {
+              "display_url": "pic.x.com/h1x7DvAmmw",
+              "end": 199,
+              "expanded_url": "https://x.com/ttv_bolin/status/2090591785110450335/photo/1",
+              "media_key": "3_2090591772187713536",
+              "start": 176,
+              "url": "https://t.co/h1x7DvAmmw"
+            },
+            {
+              "display_url": "pic.x.com/h1x7DvAmmw",
+              "end": 199,
+              "expanded_url": "https://x.com/ttv_bolin/status/2090591785110450335/photo/1",
+              "media_key": "3_2090591772204498944",
+              "start": 176,
+              "url": "https://t.co/h1x7DvAmmw"
+            },
+            {
+              "display_url": "pic.x.com/h1x7DvAmmw",
+              "end": 199,
+              "expanded_url": "https://x.com/ttv_bolin/status/2090591785110450335/photo/1",
+              "media_key": "3_2090591772607188992",
+              "start": 176,
+              "url": "https://t.co/h1x7DvAmmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090591785110450335",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090591772187713536"
+          },
+          {
+            "media_key": "3_2090591772204498944"
+          },
+          {
+            "media_key": "3_2090591772607188992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 175,
+                "id": "1048018930785083392",
+                "start": 166,
+                "username": "PlayApex"
+              },
+              {
+                "end": 192,
+                "id": "1408511315417604097",
+                "start": 176,
+                "username": "PlayApexEsports"
+              },
+              {
+                "end": 248,
+                "id": "1291485249256398848",
+                "start": 234,
+                "username": "RSPN_Hideouts"
+              },
+              {
+                "end": 673,
+                "id": "1048018930785083392",
+                "start": 664,
+                "username": "PlayApex"
+              },
+              {
+                "end": 724,
+                "id": "1408511315417604097",
+                "start": 708,
+                "username": "PlayApexEsports"
+              },
+              {
+                "end": 831,
+                "id": "1291485249256398848",
+                "start": 817,
+                "username": "RSPN_Hideouts"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "liquipedia.net/apexlegends/Bo…",
+                "end": 50,
+                "expanded_url": "https://liquipedia.net/apexlegends/BoLin",
+                "start": 27,
+                "url": "https://t.co/1HdxnxZrd4"
+              },
+              {
+                "display_url": "liquipedia.net/apexlegends/Bo…",
+                "end": 441,
+                "expanded_url": "https://liquipedia.net/apexlegends/BoLin",
+                "start": 418,
+                "url": "https://t.co/1HdxnxZrd4"
+              }
+            ]
+          },
+          "text": "大家好我是體壇的BoLin，目前亞太南賽區的職業。\n\nhttps://t.co/1HdxnxZrd4\n\n我從 2020 年開始參加 Apex 賽事，到現在已經打了 6 年，也參加過 5 次 ALGS LAN。Apex 對我來說，一直都是生活中非常重要的一部分。\n\n但就在今天，我的 ALGS 帳號突然遭到封禁，我非常確定這次是誤封。@PlayApex @PlayApexEsports\n\n我已經聯絡 ALGS 的管理員，但到目前為止還完全沒有收到任何回覆。真的很希望 @RSPN_Hideouts 以及開發人員能幫忙協助把我的情況交給反作弊團隊重新審查。\n\n我們 Split 2 的第一個比賽日就在這週五，距離現在只剩不到 48 小時了……T=T\n\n非常感謝大家。\n\nHi I am BoLin, currently playing at team Titan Esports Club, APAC-South ProLeague.\n\nhttps://t.co/1HdxnxZrd4\n\nI've competed in Apex since 2020 and have attended 5 ALGS LAN events. Apex has been a huge part of my life for the past 6 years.\n\nToday, my ALGS account was suddenly banned, and I strongly believe this was a false ban by @PlayApex. \n\nI've contacted the ALGS admins @PlayApexEsports but haven't received a single response yet. I would really appreciate it if developers like @RSPN_Hideouts could help have my case reviewed by the anti-cheat team. We have Split 2 first matchday on this Friday, in 48 hours... T=T\n\nThank you."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 887,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是體壇的BoLin，目前亞太南賽區的職業。\n\nhttps://t.co/NLcPGEoVdn\n\n我從 2020 年開始參加 Apex 賽事，到現在已經打了 6 年，也參加過 5 次 ALGS LAN。Apex 對我來說，一直都是生活中非常重要的一部分。\n\n但就在今天，我的 ALGS 帳號突然遭到封禁，我非常確定這次是誤封。@PlayApex https://t.co/h1x7DvAmmw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/精神障碍中/中Eng都ok/无言fo高手/apex低手/04留学生/骂我替我消灾/男友在我生命中是最重要的一环/@xzlqsaki_UvU此泽是完美女人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "xzlqsaki_UvU"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "is_identity_verified": false,
+        "location": "海黛布伦史塔德身边",
+        "most_recent_tweet_id": "2090609763470192930",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598702105220599809/1734256186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 1316,
+          "like_count": 6911,
+          "listed_count": 5,
+          "media_count": 610,
+          "tweet_count": 4781
+        },
+        "url": "",
+        "username": "qinzaicleo34",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-20T00:19:46.000Z",
+        "description": "槍硬話不多",
+        "id": "1472723323880865794",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090595944291315770",
+        "name": "波靈",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1472723363097628672/xLM_6813_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "ttv_bolin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2093236062688829505",
+    "created_at": "2026-08-28T07:15:42.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T08:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093236062688829505"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093236062688829505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一点也不重力呀嗯嗯但是你去哪里玩做什么上班遇到什么和谁说话吃什么买了什么想我没有要做什么打什么游戏打游戏队友是男是女你买了什么新游戏你要玩什么要做什么要看什么未来要去哪要带上我吗为什么不吃这个为什么不回我消息为什么不理我呀我都得知道…\n这才叫爱我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2093236062688829505",
+        "created_at": "2026-08-28T07:15:42.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T08:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093236062688829505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093236062688829505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一点也不重力呀嗯嗯但是你去哪里玩做什么上班遇到什么和谁说话吃什么买了什么想我没有要做什么打什么游戏打游戏队友是男是女你买了什么新游戏你要玩什么要做什么要看什么未来要去哪要带上我吗为什么不吃这个为什么不回我消息为什么不理我呀我都得知道…\n这才叫爱我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/精神障碍中/中Eng都ok/无言fo高手/apex低手/04留学生/骂我替我消灾/男友在我生命中是最重要的一环/@xzlqsaki_UvU此泽是完美女人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "xzlqsaki_UvU"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "is_identity_verified": false,
+        "location": "海黛布伦史塔德身边",
+        "most_recent_tweet_id": "2093236062688829505",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598702105220599809/1734256186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092970145044135937/T0Kjn4JD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1316,
+          "like_count": 6938,
+          "listed_count": 5,
+          "media_count": 614,
+          "tweet_count": 4806
+        },
+        "url": "",
+        "username": "qinzaicleo34",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

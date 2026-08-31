@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2092918400259625168",
+    "created_at": "2026-08-27T13:35:50.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092969337892299134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092969337892299134",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092950478195995099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acmduemsks 好吃.jpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092950467961892864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQunXJdbMAAWl_0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2092918400259625168",
+        "created_at": "2026-08-27T13:35:50.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092969337892299134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092969337892299134",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092950478195995099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acmduemsks 好吃.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092950467961892864"
+          ]
+        },
+        "author_id": "1804344378338480128",
+        "conversation_id": "2092918400259625168",
+        "created_at": "2026-08-27T12:20:53.000Z",
+        "display_text_range": [
+          14,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092950478195995099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vicPwVT7PR",
+              "end": 58,
+              "expanded_url": "https://x.com/Acmduemsks/status/2092950478195995099/photo/1",
+              "media_key": "3_2092950467961892864",
+              "start": 35,
+              "url": "https://t.co/vicPwVT7PR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092950478195995099",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092950467961892864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092918400259625168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 鹅肝鹅肝！我和我的好宝宝也吃了好多鹅肝🥺 https://t.co/vicPwVT7PR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/精神障碍中/中Eng都ok/无言fo高手/apex低手/04留学生/骂我替我消灾/男友在我生命中是最重要的一环/@xzlqsaki_UvU此泽是完美女人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "xzlqsaki_UvU"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "is_identity_verified": false,
+        "location": "海黛布伦史塔德身边",
+        "most_recent_tweet_id": "2092969337892299134",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598702105220599809/1734256186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1314,
+          "like_count": 6931,
+          "listed_count": 5,
+          "media_count": 614,
+          "tweet_count": 4799
+        },
+        "url": "",
+        "username": "qinzaicleo34",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n｜萍水相逢有缘人@jazzvoid7｜猫@maoxianact｜會講國語🇹🇼普通话🇨🇳上海吴语 🇨🇳 廣東話🇭🇰 and English 🇬🇧｜自我认同是GHC的STG机|我才不告诉你我现在忙什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "jazzvoid7"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "maoxianact"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "is_identity_verified": false,
+        "location": "Coventry, England",
+        "most_recent_tweet_id": "2092954943644913942",
+        "name": "我爱食麦当劳",
+        "pinned_tweet_id": "2057754457090502754",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 645,
+          "like_count": 10998,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 6920
+        },
+        "url": "",
+        "username": "Acmduemsks",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

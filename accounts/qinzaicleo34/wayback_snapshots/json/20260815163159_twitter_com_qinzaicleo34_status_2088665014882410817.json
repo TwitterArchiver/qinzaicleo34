@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2088646490159976685",
+    "created_at": "2026-08-15T16:31:59.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088665014882410817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2071560737991057408",
+          "start": 0,
+          "username": "Ayuyu629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088665014882410817",
+    "in_reply_to_user_id": "2071560737991057408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088654215543767552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayuyu629 是啊 前男友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2088646490159976685",
+        "created_at": "2026-08-15T16:31:59.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088665014882410817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071560737991057408",
+              "start": 0,
+              "username": "Ayuyu629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088665014882410817",
+        "in_reply_to_user_id": "2071560737991057408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088654215543767552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayuyu629 是啊 前男友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071560737991057408",
+        "conversation_id": "2088646490159976685",
+        "created_at": "2026-08-15T15:49:04.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088654215543767552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088654215543767552",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088646490159976685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 280斤？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/精神障碍中/中Eng都ok/无言fo高手/apex低手/04留学生/骂我替我消灾/男友在我生命中是最重要的一环/@xzlqsaki_UvU此泽是完美女人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "xzlqsaki_UvU"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "is_identity_verified": false,
+        "location": "海黛布伦史塔德身边",
+        "most_recent_tweet_id": "2088665014882410817",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598702105220599809/1734256186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 1312,
+          "like_count": 6901,
+          "listed_count": 5,
+          "media_count": 606,
+          "tweet_count": 4745
+        },
+        "url": "",
+        "username": "qinzaicleo34",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T11:48:29.000Z",
+        "description": "你仲好咩",
+        "id": "2071560737991057408",
+        "is_identity_verified": false,
+        "location": "金木犀の夜",
+        "most_recent_tweet_id": "2088664547762884926",
+        "name": "13d",
+        "pinned_tweet_id": "2071563990660956480",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071560737991057408/1782734104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071561690869645312/J_2YZCWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 327,
+          "like_count": 3557,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "Ayuyu629",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

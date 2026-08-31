@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2093236270273376585",
+    "created_at": "2026-08-28T07:19:20.000Z",
+    "display_text_range": [
+      14,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T08:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093236976564744267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3299987476",
+          "start": 0,
+          "username": "shitakokoro_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093236976564744267",
+    "in_reply_to_user_id": "3299987476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093236270273376585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shitakokoro_ 太恐怖了感觉出去玩遇到的萌妹子都被猪牵着"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2093236270273376585].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2093236270273376585",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2093236270273376585"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2093236270273376585",
+        "created_at": "2026-08-28T07:19:20.000Z",
+        "display_text_range": [
+          14,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T08:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093236976564744267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3299987476",
+              "start": 0,
+              "username": "shitakokoro_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093236976564744267",
+        "in_reply_to_user_id": "3299987476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093236270273376585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shitakokoro_ 太恐怖了感觉出去玩遇到的萌妹子都被猪牵着"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/精神障碍中/中Eng都ok/无言fo高手/apex低手/04留学生/骂我替我消灾/男友在我生命中是最重要的一环/@xzlqsaki_UvU此泽是完美女人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "xzlqsaki_UvU"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "is_identity_verified": false,
+        "location": "海黛布伦史塔德身边",
+        "most_recent_tweet_id": "2093236976564744267",
+        "name": "小狗的碎碎念日记本（恋爱无可救药版）",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598702105220599809/1734256186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092970145044135937/T0Kjn4JD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1316,
+          "like_count": 6938,
+          "listed_count": 5,
+          "media_count": 614,
+          "tweet_count": 4807
+        },
+        "url": "",
+        "username": "qinzaicleo34",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-05-27T01:07:23.000Z",
+        "description": "はるなんて来なければいい",
+        "id": "3299987476",
+        "is_identity_verified": false,
+        "location": "超天獄",
+        "most_recent_tweet_id": "1941908325479985345",
+        "name": "青い水の下心",
+        "pinned_tweet_id": "1894090896724926842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3299987476/1721665716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815422393822945280/zT4_zxUU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 613,
+          "like_count": 11852,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 7821
+        },
+        "url": "",
+        "username": "shitakokoro_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

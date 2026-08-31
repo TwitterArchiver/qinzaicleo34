@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089597930944794624"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "2089597955384946866",
+    "created_at": "2026-08-18T06:19:10.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089597955384946866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PvZ8nv23vO",
+          "end": 29,
+          "expanded_url": "https://x.com/qinzaicleo34/status/2089597955384946866/video/1",
+          "media_key": "13_2089597930944794624",
+          "start": 6,
+          "url": "https://t.co/PvZ8nv23vO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089597955384946866",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2089597930944794624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好丑的猫… https://t.co/PvZ8nv23vO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4535,
+        "height": 1280,
+        "media_key": "13_2089597930944794624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089597930944794624/img/ZMOX1rIV0mhSBkX1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089597930944794624/vid/avc1/320x568/bENvLHLp7h6WeaZW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089597930944794624/vid/avc1/480x852/FqSNK-PeQ5zZTaW_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089597930944794624/vid/avc1/720x1280/c-PzWWBObdHs2CMH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089597930944794624/pl/DE1pw7UyKwlREAmz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089597930944794624"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "2089597955384946866",
+        "created_at": "2026-08-18T06:19:10.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089597955384946866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PvZ8nv23vO",
+              "end": 29,
+              "expanded_url": "https://x.com/qinzaicleo34/status/2089597955384946866/video/1",
+              "media_key": "13_2089597930944794624",
+              "start": 6,
+              "url": "https://t.co/PvZ8nv23vO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089597955384946866",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2089597930944794624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好丑的猫… https://t.co/PvZ8nv23vO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/精神障碍中/中Eng都ok/无言fo高手/apex低手/04留学生/骂我替我消灾/男友在我生命中是最重要的一环/@xzlqsaki_UvU此泽是完美女人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "xzlqsaki_UvU"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "is_identity_verified": false,
+        "location": "海黛布伦史塔德身边",
+        "most_recent_tweet_id": "2089597955384946866",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598702105220599809/1734256186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1315,
+          "like_count": 6905,
+          "listed_count": 5,
+          "media_count": 609,
+          "tweet_count": 4771
+        },
+        "url": "",
+        "username": "qinzaicleo34",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

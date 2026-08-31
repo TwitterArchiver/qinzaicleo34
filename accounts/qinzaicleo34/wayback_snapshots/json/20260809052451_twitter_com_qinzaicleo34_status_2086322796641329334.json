@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086044812923621376"
+      ],
+      "media_source_tweet_id": [
+        "2086044821811290408"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "2086322796641329334",
+    "created_at": "2026-08-09T05:24:51.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086322796641329334"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 24,
+          "tag": "HUION"
+        },
+        {
+          "end": 40,
+          "start": 32,
+          "tag": "HUION創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "907233935268052992",
+          "start": 3,
+          "username": "Aza_x_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yPJayAPcfU",
+          "end": 64,
+          "expanded_url": "https://x.com/Aza_x_x/status/2086044821811290408/photo/1",
+          "media_key": "3_2086044812923621376",
+          "start": 41,
+          "url": "https://t.co/yPJayAPcfU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086322796641329334",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086044812923621376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3059
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086044821811290408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aza_x_x: キャラクター殺人事件 #HUION  #HUION創作 https://t.co/yPJayAPcfU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086044812923621376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPMetHvb0AAVQfq.jpg",
+        "width": 1639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086044812923621376"
+          ]
+        },
+        "author_id": "907233935268052992",
+        "conversation_id": "2086044821811290408",
+        "created_at": "2026-08-08T11:00:17.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T12:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086044821811290408"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "HUION"
+            },
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "HUION創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPJayAPcfU",
+              "end": 51,
+              "expanded_url": "https://x.com/Aza_x_x/status/2086044821811290408/photo/1",
+              "media_key": "3_2086044812923621376",
+              "start": 28,
+              "url": "https://t.co/yPJayAPcfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086044821811290408",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086044812923621376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4901,
+          "impression_count": 1110275,
+          "like_count": 52482,
+          "quote_count": 59,
+          "reply_count": 19,
+          "retweet_count": 3059
+        },
+        "reply_settings": "everyone",
+        "text": "キャラクター殺人事件 #HUION  #HUION創作 https://t.co/yPJayAPcfU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086044812923621376"
+          ],
+          "media_source_tweet_id": [
+            "2086044821811290408"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "2086322796641329334",
+        "created_at": "2026-08-09T05:24:51.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086322796641329334"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "HUION"
+            },
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "HUION創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "907233935268052992",
+              "start": 3,
+              "username": "Aza_x_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPJayAPcfU",
+              "end": 64,
+              "expanded_url": "https://x.com/Aza_x_x/status/2086044821811290408/photo/1",
+              "media_key": "3_2086044812923621376",
+              "start": 41,
+              "url": "https://t.co/yPJayAPcfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086322796641329334",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086044812923621376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3059
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086044821811290408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aza_x_x: キャラクター殺人事件 #HUION  #HUION創作 https://t.co/yPJayAPcfU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/精神障碍中/中Eng都ok/无言fo高手/apex低手/04留学生/骂我替我消灾/男友在我生命中是最重要的一环/@xzlqsaki_UvU此泽是完美女人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "xzlqsaki_UvU"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "is_identity_verified": false,
+        "location": "海黛布伦史塔德身边",
+        "most_recent_tweet_id": "2086322796641329334",
+        "name": "小狗的碎碎念日记本",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598702105220599809/1734256186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875475231168720896/IECb-LUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 1307,
+          "like_count": 6877,
+          "listed_count": 5,
+          "media_count": 604,
+          "tweet_count": 4724
+        },
+        "url": "",
+        "username": "qinzaicleo34",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-11T13:26:40.000Z",
+        "description": "Illustraítor & Video creator┆絵×映像屋┊#RouvreArt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 35,
+                "tag": "RouvreArt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "roushitou.wixsite.com/mysite",
+                "end": 23,
+                "expanded_url": "https://roushitou.wixsite.com/mysite",
+                "start": 0,
+                "url": "https://t.co/fyvCPqckq7"
+              }
+            ]
+          }
+        },
+        "id": "907233935268052992",
+        "is_identity_verified": false,
+        "location": "ご連絡先→",
+        "most_recent_tweet_id": "2086304585438921175",
+        "name": "獅冬ろう┆Rou Shitou",
+        "pinned_tweet_id": "2067980675660349448",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/907233935268052992/1651137268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587096388566818820/H7JcaeTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80514,
+          "following_count": 242,
+          "like_count": 5986,
+          "listed_count": 559,
+          "media_count": 210,
+          "tweet_count": 3213
+        },
+        "url": "https://t.co/fyvCPqckq7",
+        "username": "Aza_x_x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
