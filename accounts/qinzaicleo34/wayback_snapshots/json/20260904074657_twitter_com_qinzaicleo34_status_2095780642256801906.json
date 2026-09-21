@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095780614779920384"
+      ]
+    },
+    "author_id": "1598702105220599809",
+    "conversation_id": "2095780642256801906",
+    "created_at": "2026-09-04T07:46:57.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T08:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095780642256801906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9igodhIlbc",
+          "end": 23,
+          "expanded_url": "https://x.com/qinzaicleo34/status/2095780642256801906/video/1",
+          "media_key": "13_2095780614779920384",
+          "start": 0,
+          "url": "https://t.co/9igodhIlbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095780642256801906",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2095780614779920384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/9igodhIlbc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2985,
+        "height": 1280,
+        "media_key": "13_2095780614779920384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095780614779920384/img/2iNP1CLff3YJMvYa.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095780614779920384/vid/avc1/320x568/mMcANOjXG3rOFehi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095780614779920384/vid/avc1/480x852/R2-exb8jMLVXLh6y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095780614779920384/vid/avc1/720x1280/-YzZrFiXlAUmPevk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095780614779920384/pl/7Y0JQEjIukNL_gSP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095780614779920384"
+          ]
+        },
+        "author_id": "1598702105220599809",
+        "conversation_id": "2095780642256801906",
+        "created_at": "2026-09-04T07:46:57.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095780642256801906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9igodhIlbc",
+              "end": 23,
+              "expanded_url": "https://x.com/qinzaicleo34/status/2095780642256801906/video/1",
+              "media_key": "13_2095780614779920384",
+              "start": 0,
+              "url": "https://t.co/9igodhIlbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095780642256801906",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095780614779920384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9igodhIlbc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/精神障碍中/中Eng都ok/无言fo高手/apex低手/04留学生/骂我替我消灾/男友在我生命中是最重要的一环/@xzlqsaki_UvU此泽是完美女人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "xzlqsaki_UvU"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "is_identity_verified": false,
+        "location": "海黛布伦史塔德身边",
+        "most_recent_tweet_id": "2095780642256801906",
+        "name": "小狗的碎碎念日记本（恋爱无可救药版）",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598702105220599809/1734256186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092970145044135937/T0Kjn4JD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1318,
+          "like_count": 6974,
+          "listed_count": 5,
+          "media_count": 615,
+          "tweet_count": 4790
+        },
+        "url": "",
+        "username": "qinzaicleo34",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

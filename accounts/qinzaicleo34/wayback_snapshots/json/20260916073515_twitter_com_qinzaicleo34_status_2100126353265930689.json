@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2100126353265930689",
+    "created_at": "2026-09-16T07:35:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T08:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100126353265930689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "854862220764749824",
+          "start": 3,
+          "username": "nishiyama_zoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100126353265930689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100115312003952842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nishiyama_zoo: 【レッサーパンダの赤ちゃん情報】\n人工哺育のかのこの仔\n\nオスの赤ちゃんは寝る場所もそれぞれ。\n\nプラケースの上だったり、マットの上だったり、タオルの上だったり…。\n\nその時々で「今日はここ！」と、好きな場所を選んでいるようです☺️\n\nどこ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2100115304978513920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUbvjSbAAAzCWG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2100115304982679552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUbvjTakAARNyO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2100115304961757184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUbvjObUAA1zIC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2100126353265930689",
+        "created_at": "2026-09-16T07:35:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100126353265930689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "854862220764749824",
+              "start": 3,
+              "username": "nishiyama_zoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100126353265930689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100115312003952842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nishiyama_zoo: 【レッサーパンダの赤ちゃん情報】\n人工哺育のかのこの仔\n\nオスの赤ちゃんは寝る場所もそれぞれ。\n\nプラケースの上だったり、マットの上だったり、タオルの上だったり…。\n\nその時々で「今日はここ！」と、好きな場所を選んでいるようです☺️\n\nどこ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100115304978513920",
+            "3_2100115304982679552",
+            "3_2100115304961757184"
+          ]
+        },
+        "author_id": "854862220764749824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2100115312003952842",
+        "created_at": "2026-09-16T06:51:23.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100115312003952842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8HDErabwO5",
+              "end": 167,
+              "expanded_url": "https://x.com/nishiyama_zoo/status/2100115312003952842/photo/1",
+              "media_key": "3_2100115304978513920",
+              "start": 144,
+              "url": "https://t.co/8HDErabwO5"
+            },
+            {
+              "display_url": "pic.x.com/8HDErabwO5",
+              "end": 167,
+              "expanded_url": "https://x.com/nishiyama_zoo/status/2100115312003952842/photo/1",
+              "media_key": "3_2100115304982679552",
+              "start": 144,
+              "url": "https://t.co/8HDErabwO5"
+            },
+            {
+              "display_url": "pic.x.com/8HDErabwO5",
+              "end": 167,
+              "expanded_url": "https://x.com/nishiyama_zoo/status/2100115312003952842/photo/1",
+              "media_key": "3_2100115304961757184",
+              "start": 144,
+              "url": "https://t.co/8HDErabwO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100115312003952842",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100115304978513920"
+          },
+          {
+            "media_key": "3_2100115304982679552"
+          },
+          {
+            "media_key": "3_2100115304961757184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 6684,
+          "like_count": 900,
+          "quote_count": 16,
+          "reply_count": 4,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "【レッサーパンダの赤ちゃん情報】\n人工哺育のかのこの仔\n\nオスの赤ちゃんは寝る場所もそれぞれ。\n\nプラケースの上だったり、マットの上だったり、タオルの上だったり…。\n\nその時々で「今日はここ！」と、好きな場所を選んでいるようです☺️\n\nどこで寝ても、気持ちよさそうな寝顔に癒やされます。 https://t.co/8HDErabwO5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/精神障碍中/中Eng都ok/无言fo高手/apex低手/04留学生/骂我替我消灾/男友在我生命中是最重要的一环/@xzlqsaki_UvU此泽是完美女人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "xzlqsaki_UvU"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "is_identity_verified": false,
+        "location": "海黛布伦史塔德身边",
+        "most_recent_tweet_id": "2100126353265930689",
+        "name": "小狗的碎碎念日记本（恋爱无可救药版）",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598702105220599809/1734256186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092970145044135937/T0Kjn4JD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 1318,
+          "like_count": 6999,
+          "listed_count": 5,
+          "media_count": 622,
+          "tweet_count": 4775
+        },
+        "url": "",
+        "username": "qinzaicleo34",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-20T01:00:10.000Z",
+        "description": "福井県鯖江市にある西山動物園です。レッサーパンダがたくさんおり、繁殖数は全国有数です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "city.sabae.fukui.jp/nishiyama_zoo/…",
+                "end": 23,
+                "expanded_url": "https://www.city.sabae.fukui.jp/nishiyama_zoo/index.html",
+                "start": 0,
+                "url": "https://t.co/oUidKnUMIj"
+              }
+            ]
+          }
+        },
+        "id": "854862220764749824",
+        "is_identity_verified": false,
+        "location": "福井 鯖江市",
+        "most_recent_tweet_id": "2100115471744090196",
+        "name": "鯖江市西山動物園",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/854862220764749824/1767230822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006537230383460357/MtqMgj_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26890,
+          "following_count": 0,
+          "like_count": 670,
+          "listed_count": 624,
+          "media_count": 2948,
+          "tweet_count": 3278
+        },
+        "url": "https://t.co/oUidKnUMIj",
+        "username": "nishiyama_zoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598702105220599809",
+    "conversation_id": "2094837262999834644",
+    "created_at": "2026-09-01T18:29:20.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T19:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094855141761646754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1655220370755178497",
+          "start": 0,
+          "username": "xuxiaoxian27509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094855141761646754",
+    "in_reply_to_user_id": "1655220370755178497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094848606511759838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuxiaoxian27509 自取"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598702105220599809",
+        "conversation_id": "2094837262999834644",
+        "created_at": "2026-09-01T18:29:20.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T19:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094855141761646754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1655220370755178497",
+              "start": 0,
+              "username": "xuxiaoxian27509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094855141761646754",
+        "in_reply_to_user_id": "1655220370755178497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094848606511759838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuxiaoxian27509 自取"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655220370755178497",
+        "conversation_id": "2094837262999834644",
+        "created_at": "2026-09-01T18:03:22.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T19:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094848606511759838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598702105220599809",
+              "start": 0,
+              "username": "qinzaicleo34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094848606511759838",
+        "in_reply_to_user_id": "1598702105220599809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094837262999834644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinzaicleo34 分我点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T15:34:32.000Z",
+        "description": "小狗琴崽/精神障碍中/中Eng都ok/无言fo高手/apex低手/04留学生/骂我替我消灾/男友在我生命中是最重要的一环/@xzlqsaki_UvU此泽是完美女人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "xzlqsaki_UvU"
+              }
+            ]
+          }
+        },
+        "id": "1598702105220599809",
+        "is_identity_verified": false,
+        "location": "海黛布伦史塔德身边",
+        "most_recent_tweet_id": "2094855141761646754",
+        "name": "小狗的碎碎念日记本（恋爱无可救药版）",
+        "pinned_tweet_id": "1884267372422521131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598702105220599809/1734256186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092970145044135937/T0Kjn4JD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1318,
+          "like_count": 6962,
+          "listed_count": 5,
+          "media_count": 613,
+          "tweet_count": 4784
+        },
+        "url": "",
+        "username": "qinzaicleo34",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-07T14:38:59.000Z",
+        "description": "Daydreamer",
+        "id": "1655220370755178497",
+        "is_identity_verified": false,
+        "location": "Hsinchu City, Taiwan",
+        "most_recent_tweet_id": "2094849012700782753",
+        "name": "X",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655220370755178497/1685180089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045419651702927360/kylU-Zb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 1180,
+          "like_count": 6741,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "xuxiaoxian27509",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
